@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28611670?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28611670?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28611670</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>06</Month>
+                        <Day>14</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>16</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">1663-9812</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>8</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Frontiers in pharmacology</Title>
+                            <ISOAbbreviation>Front Pharmacol</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Identification of Epigallocatechin-3- Gallate as an Inhibitor of Phosphoglycerate Mutase 1.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>325</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.3389/fphar.2017.00325</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Targeting metabolic enzymes is believed to provide new therapeutic opportunities for cancer therapy. Phosphoglycerate mutase 1 (PGAM1) is a glycolytic enzyme that importantly coordinates glycolysis, pentose phosphate pathway (PPP) flux and serine biosynthesis in cancer cells and hence gains increasing interest of inhibitor discovery. Only few PGAM1 inhibitors have been reported and the molecular potency remains very limited. In an effort to discover new PGAM1 inhibitors, we carried out a biochemical assay-based screen that was focused on natural products derived small molecule compounds. (-)-Epigallocatechin-3-gallate (EGCG), the major natural catechins of green tea extract, was identified as a PGAM1 inhibitor that was tremendously more potent than known PGAM1 inhibitors. Further studies combining molecular docking and site-specific mutagenesis revealed that EGCG inhibited PGAM1 enzymatic activity in a manner independent of substrate competition. EGCG modulated the intracellular level of 2-phosphoglycerate, impaired glycolysis and PPP and inhibited proliferation of cancer cells. This study suggested EGCG as a chemical scaffold for the discovery of potent PGAM1 inhibitors and gained mechanistic insights to understand the previously appreciated anticancer properties of EGCG.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Li</LastName>
+                                <ForeName>Xiaoguang</ForeName>
+                                <Initials>X</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Jiangsu Key Laboratory of Drug Screening, China Pharmaceutical UniversityNanjing, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Tang</LastName>
+                                <ForeName>Shuai</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wang</LastName>
+                                <ForeName>Qian-Qian</ForeName>
+                                <Initials>QQ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Macau Institute for Applied Research in Medicine and Health, State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and TechnologyMacau, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Leung</LastName>
+                                <ForeName>Elaine L-H</ForeName>
+                                <Initials>EL</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Macau Institute for Applied Research in Medicine and Health, State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and TechnologyMacau, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Jin</LastName>
+                                <ForeName>Hongyue</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Huang</LastName>
+                                <ForeName>Yongzhuo</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liu</LastName>
+                                <ForeName>Jia</ForeName>
+                                <Initials>J</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Geng</LastName>
+                                <ForeName>Meiyu</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Huang</LastName>
+                                <ForeName>Min</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yuan</LastName>
+                                <ForeName>Shengtao</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Jiangsu Key Laboratory of Drug Screening, China Pharmaceutical UniversityNanjing, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yao</LastName>
+                                <ForeName>Xiao-Jun</ForeName>
+                                <Initials>XJ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Macau Institute for Applied Research in Medicine and Health, State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and TechnologyMacau, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Ding</LastName>
+                                <ForeName>Jian</ForeName>
+                                <Initials>J</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Jiangsu Key Laboratory of Drug Screening, China Pharmaceutical UniversityNanjing, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shanghai Institute of Materia Medica, Chinese Academy of SciencesShanghai, China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>05</Month>
+                            <Day>30</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Switzerland</Country>
+                        <MedlineTA>Front Pharmacol</MedlineTA>
+                        <NlmUniqueID>101548923</NlmUniqueID>
+                        <ISSNLinking>1663-9812</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2006 Oct 19;49(21):6177-96</RefSource>
+                            <PMID Version="1">17034125</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer. 2010 Apr 19;9:81</RefSource>
+                            <PMID Version="1">20403181</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1956 Feb 24;123(3191):309-14</RefSource>
+                            <PMID Version="1">13298683</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2007 Jun 15;13(12 ):3460-9</RefSource>
+                            <PMID Version="1">17575208</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Biophys Res Commun. 2007 Aug 17;360(1):233-7</RefSource>
+                            <PMID Version="1">17585882</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Biophys Res Commun. 2013 Aug 23;438(2):370-4</RefSource>
+                            <PMID Version="1">23892041</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Anticancer Res. 2004 Mar-Apr;24(2B):943-54</RefSource>
+                            <PMID Version="1">15161048</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Opin Cell Biol. 2006 Dec;18(6):598-608</RefSource>
+                            <PMID Version="1">17046224</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Mol Life Sci. 2016 Jan;73(2):377-92</RefSource>
+                            <PMID Version="1">26499846</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 1997;76(9):1139-49</RefSource>
+                            <PMID Version="1">9365161</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Pharmacol. 2011 Aug 25;2:49</RefSource>
+                            <PMID Version="1">21904528</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Bioorg Med Chem. 2004 Nov 1;12(21):5587-93</RefSource>
+                            <PMID Version="1">15465336</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>ChemMedChem. 2015 Jan;10(1):158-63</RefSource>
+                            <PMID Version="1">25196850</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2012 Nov 13;22(5):585-600</RefSource>
+                            <PMID Version="1">23153533</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biosyst. 2007 Jul;3(7):495-506</RefSource>
+                            <PMID Version="1">17579775</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Death Dis. 2013 Mar 07;4:e532</RefSource>
+                            <PMID Version="1">23470539</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 2017 Feb;216(2):409-424</RefSource>
+                            <PMID Version="1">28122957</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2016 Oct;16(10 ):635-49</RefSource>
+                            <PMID Version="1">27634447</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Adv Enzymol Relat Areas Mol Biol. 1989;62:227-313</RefSource>
+                            <PMID Version="1">2543188</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2008 Jun;13(6):472-82</RefSource>
+                            <PMID Version="1">18538731</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2012 Mar 20;21(3):297-308</RefSource>
+                            <PMID Version="1">22439925</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Biophys Res Commun. 2005 Jun 17;331(4):1207-15</RefSource>
+                            <PMID Version="1">15883004</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Commun. 2013;4:1790</RefSource>
+                            <PMID Version="1">23653202</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell. 2008 Sep 5;134(5):703-7</RefSource>
+                            <PMID Version="1">18775299</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biochem. 2008 Feb 1;103(2):509-19</RefSource>
+                            <PMID Version="1">17570133</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Nutr Food Res. 2011 Jun;55(6):819-31</RefSource>
+                            <PMID Version="1">21538856</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncol Rep. 2015 Mar;33(3):1533-9</RefSource>
+                            <PMID Version="1">25591943</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2009 May 22;324(5930):1029-33</RefSource>
+                            <PMID Version="1">19460998</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncol Rep. 2014 Mar;31(3):1343-9</RefSource>
+                            <PMID Version="1">24366444</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncol Rep. 2008 Jan;19(1):81-91</RefSource>
+                            <PMID Version="1">18097579</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer. 2013 Dec 03;12:152</RefSource>
+                            <PMID Version="1">24298908</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 1997 Sep 11;389(6647):134-5</RefSource>
+                            <PMID Version="1">9296488</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2017 May 18;36(20):2900-2909</RefSource>
+                            <PMID Version="1">27991922</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">anticancer activity</Keyword>
+                        <Keyword MajorTopicYN="N">cancer metabolism</Keyword>
+                        <Keyword MajorTopicYN="N">inhibitor</Keyword>
+                        <Keyword MajorTopicYN="N">natural products</Keyword>
+                        <Keyword MajorTopicYN="N">phosphoglycerate mutase 1 (PGAM1)</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2017</Year>
+                            <Month>03</Month>
+                            <Day>28</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>05</Month>
+                            <Day>15</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>15</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>15</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>15</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28611670</ArticleId>
+                        <ArticleId IdType="doi">10.3389/fphar.2017.00325</ArticleId>
+                        <ArticleId IdType="pmc">PMC5447756</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

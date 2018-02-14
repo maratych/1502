@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28954993?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28954993?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28954993</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>28</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>28</Day>
+                    </DateRevised>
+                    <Article PubModel="Print">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1349-6867</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>64</Volume>
+                                <Issue>3.4</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>The journal of medical investigation : JMI</Title>
+                            <ISOAbbreviation>J. Med. Invest.</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Regorafenib induces adaptive resistance of colorectal cancer cells via inhibition of vascular endothelial growth factor receptor.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>262-265</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.2152/jmi.64.262</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Recently, inhibition of tumor angiogenesis has become an important anti-cancer therapy. Tumor angiogenesis is regulated by multiple signaling pathways, including VEGF and VEGF receptor (VEGF-R), FGF and FGF receptor (FGF-R), and PDGF and PDGF receptor (PDGF-R) pathways. Thus, the antiangiogenic agents, such as regorafenib, simultaneously target those receptors on vascular endothelial cells. In addition to endothelial cells, cancer cells express the three receptors, suggesting that the antiangiogenic inhibitors affect tumor cells. In fact, we previously demonstrated that regorafenib directly acted on human colorectal cancer cells and accelerated their apoptosis resistance and migration capability. Thus, we here elucidated how regorafenib induced the malignant phenotypes in colorectal cancer cells. To identify the responsible receptor among the regorafenib-targeting proangiogenic receptors, we examined the effects of a potent selective inhibitor for VEGF-R, FGF-R or PDGF-R on apoptosis resistance and migration capability. We clarified that blockade of VEGF-R, but not FGF-R and PDGF-R, induced the malignant phenotypes. We confirmed that blocking of VEGF ligands derived from colorectal cancer cells also induced the phenotypes. These results suggest that regorafenib progressed the malignancy via prevention of autocrine and paracrine VEGF signaling in colorectal cancer cells. J. Med. Invest. 64: 262-265, August, 2017.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Tomida</LastName>
+                                <ForeName>Chisato</ForeName>
+                                <Initials>C</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Nagano</LastName>
+                                <ForeName>Hikaru</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yamagishi</LastName>
+                                <ForeName>Naoko</ForeName>
+                                <Initials>N</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Anatomy and Cell Biology, School of Medicine, Wakayama Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Uchida</LastName>
+                                <ForeName>Takayuki</ForeName>
+                                <Initials>T</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Ohno</LastName>
+                                <ForeName>Ayako</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Hirasaka</LastName>
+                                <ForeName>Katsuya</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Graduate school of Fisheries Science and Environmental Studies, Nagasaki University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Nikawa</LastName>
+                                <ForeName>Takeshi</ForeName>
+                                <Initials>T</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Teshima-Kondo</LastName>
+                                <ForeName>Shigetada</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Physiological Nutrition, Institute of Medical Nutrition, University of Tokushima Graduate School.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Japan</Country>
+                        <MedlineTA>J Med Invest</MedlineTA>
+                        <NlmUniqueID>9716841</NlmUniqueID>
+                        <ISSNLinking>1343-1420</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">VEGF-R</Keyword>
+                        <Keyword MajorTopicYN="N">angiogenesis inhibitor</Keyword>
+                        <Keyword MajorTopicYN="N">regorafenib</Keyword>
+                        <Keyword MajorTopicYN="N">tumor cell aggressiveness</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>ppublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28954993</ArticleId>
+                        <ArticleId IdType="doi">10.2152/jmi.64.262</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

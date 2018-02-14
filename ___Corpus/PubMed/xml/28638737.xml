@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28638737?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28638737?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28638737</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>06</Month>
+                        <Day>22</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>16</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">2162-4011</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>6</Volume>
+                                <Issue>5</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Oncoimmunology</Title>
+                            <ISOAbbreviation>Oncoimmunology</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Selective activation of anti-CD73 mechanisms in control of primary tumors and metastases.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>e1312044</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1080/2162402X.2017.1312044</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                The emerging role for CD73 in driving cancer growth and metastasis has presented opportunities to develop anti-CD73 monoclonal antibodies (mAbs) in the treatment of human cancers. Blockade of CD73 by antagonistic CD73 mAbs ameliorates tumor growth and metastasis via the inhibition of enzymatic and non-enzymatic CD73 pathways. In this study, we investigated whether Fc-receptor cross-linking represented a non-redundant mechanism by which anti-CD73 mAbs exert potent suppression of solid tumors and metastases. We engineered four anti-CD73 mAbs, each different in their ability to modulate CD73 enzymatic function and bind Fc receptors. mAbs recognizing a similar epitope of CD73 (CD73-04, TY/23 and 2C5) displayed the greatest antitumor activity. Importantly, we observed that the optimal control of metastasis by anti-CD73 mAbs involved primarily Fc receptor engagement, while suppression of solid tumors required both, enzyme inhibition and activation of Fc receptors. Engagement of Fc-receptors was also essential for optimal anti-metastatic effect in combination with either A2AR inhibitor or anti-PD-1 mAb treatment. The control of experimental metastases relied on the activation of host NK cells and IFNγ, while NK cells, CD8(+) T cells and IFNγ were needed for effective antitumor effect in the spontaneous metastases model. These observations advance our understanding of the enzymatic and non-enzymatic functions of anti-CD73 mAbs in solid tumors and metastases. Altogether, these findings will greatly assist in the design of anti-CD73 mAbs to be used as either single agents or in combination with other immunotherapeutic molecules or targeted therapies.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Vijayan</LastName>
+                                <ForeName>Dipti</ForeName>
+                                <Initials>D</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Immunology in Cancer and Infection Laboratory, QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Barkauskas</LastName>
+                                <ForeName>Deborah S</ForeName>
+                                <Initials>DS</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Immunology in Cancer and Infection Laboratory, QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Stannard</LastName>
+                                <ForeName>Kimberley</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Immunology in Cancer and Infection Laboratory, QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Sult</LastName>
+                                <ForeName>Erin</ForeName>
+                                <Initials>E</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>MedImmune, LLC., Gaithersburg, MD, USA.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Buonpane</LastName>
+                                <ForeName>Rebecca</ForeName>
+                                <Initials>R</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>MedImmune, LLC., Gaithersburg, MD, USA.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Takeda</LastName>
+                                <ForeName>Kazuyoshi</ForeName>
+                                <Initials>K</Initials>
+                                <Identifier Source="ORCID">0000-0002-5539-310X</Identifier>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Cell Biology, Biomedical Research Center, Graduate School of Medicine, Juntendo University, Bunkyo-ku, Tokyo, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Teng</LastName>
+                                <ForeName>Michele W L</ForeName>
+                                <Initials>MWL</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Cancer Immunoregulation and Immunotherapy Laboratory, QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Sachsenmeier</LastName>
+                                <ForeName>Kris</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>AstraZeneca, PLC, Waltham, MA, USA.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Hay</LastName>
+                                <ForeName>Carl</ForeName>
+                                <Initials>C</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>MedImmune, LLC., Gaithersburg, MD, USA.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Smyth</LastName>
+                                <ForeName>Mark J</ForeName>
+                                <Initials>MJ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Immunology in Cancer and Infection Laboratory, QIMR Berghofer Medical Research Institute, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        School of Medicine, University of Queensland, Herston, Queensland, Australia.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>04</Month>
+                            <Day>05</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>United States</Country>
+                        <MedlineTA>Oncoimmunology</MedlineTA>
+                        <NlmUniqueID>101570526</NlmUniqueID>
+                        <ISSNLinking>2162-4011</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Exp Metastasis. 2007;24(6):439-48</RefSource>
+                            <PMID Version="1">17587186</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>MAbs. 2016;8(3):454-67</RefSource>
+                            <PMID Version="1">26854859</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Opin Pharmacol. 2016 Aug;29:7-16</RefSource>
+                            <PMID Version="1">27209048</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Immunotherapy. 2016 Feb;8(2):145-63</RefSource>
+                            <PMID Version="1">26808918</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2011 Jun;121(6):2371-82</RefSource>
+                            <PMID Version="1">21537079</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Exp Med. 1995 Nov 1;182(5):1603-8</RefSource>
+                            <PMID Version="1">7595232</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Immunol. 2011 May;41(5):1231-41</RefSource>
+                            <PMID Version="1">21469131</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Semin Cancer Biol. 2013 Jun;23(3):190-9</RefSource>
+                            <PMID Version="1">23287459</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2016 Jul 11;5(8):e1208875</RefSource>
+                            <PMID Version="1">27622077</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2013 Oct 15;19(20):5626-35</RefSource>
+                            <PMID Version="1">23983257</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Discov. 2014 Aug;4(8):879-88</RefSource>
+                            <PMID Version="1">25035124</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2013 Oct 15;191(8):4165-73</RefSource>
+                            <PMID Version="1">24043904</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Immunol. 2017 Apr;177:50-59</RefSource>
+                            <PMID Version="1">26476139</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Biotechnol. 1996 Mar;14(3):309-14</RefSource>
+                            <PMID Version="1">9630891</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2013 Sep 3;110(36):14711-6</RefSource>
+                            <PMID Version="1">23964122</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2011 Aug 19;333(6045):1030-4</RefSource>
+                            <PMID Version="1">21852502</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2016 Jul;16(7):431-46</RefSource>
+                            <PMID Version="1">27282249</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2012 May 1;72(9):2190-6</RefSource>
+                            <PMID Version="1">22396496</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Acta Biochim Pol. 2012;59(4):647-52</RefSource>
+                            <PMID Version="1">23162807</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2006 Jan 30;94(2):259-67</RefSource>
+                            <PMID Version="1">16404427</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2010 Nov 9;107(45):19396-401</RefSource>
+                            <PMID Version="1">20974962</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2016 Sep 12;30(3):391-403</RefSource>
+                            <PMID Version="1">27622332</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2010 Jan 26;107(4):1547-52</RefSource>
+                            <PMID Version="1">20080644</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Immunol. 2016 Mar 29;7:109</RefSource>
+                            <PMID Version="1">27066002</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2011 Apr 15;71(8):2892-900</RefSource>
+                            <PMID Version="1">21292811</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Exp Med. 2013 Aug 26;210(9):1695-710</RefSource>
+                            <PMID Version="1">23897981</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Immunol. 2008 Jan;8(1):34-47</RefSource>
+                            <PMID Version="1">18064051</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">Adenosine</Keyword>
+                        <Keyword MajorTopicYN="N">CD73</Keyword>
+                        <Keyword MajorTopicYN="N">combination therapy</Keyword>
+                        <Keyword MajorTopicYN="N">immunotherapy</Keyword>
+                        <Keyword MajorTopicYN="N">tumor</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2017</Year>
+                            <Month>02</Month>
+                            <Day>15</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="revised">
+                            <Year>2017</Year>
+                            <Month>03</Month>
+                            <Day>21</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>03</Month>
+                            <Day>23</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pmc-release">
+                            <Year>2018</Year>
+                            <Month>04</Month>
+                            <Day>05</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>23</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>24</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>24</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28638737</ArticleId>
+                        <ArticleId IdType="doi">10.1080/2162402X.2017.1312044</ArticleId>
+                        <ArticleId IdType="pii">1312044</ArticleId>
+                        <ArticleId IdType="pmc">PMC5467999</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

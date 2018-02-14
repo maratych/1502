@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569005/?report=classic</prop>
+        <prop name="date">2017-10-01</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <TITLE>Can oncology recapitulate paleontology? Lessons from species extinctions</TITLE>
+    <BODY>
+        <ITEM>
+            <ITEM_TITLE>Can oncology recapitulate paleontology? Lessons from species extinctions</ITEM_TITLE>
+            <ITEM_AUTHORS>
+                <AUTHOR>
+                    <AUTH_NAME>Viola Walther</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_NAME>Crispin T. Hiley</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_NAME>Darryl Shibata</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_NAME>Charles Swanton</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_NAME>Paul E. Turner</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_NAME>Carlo C. Maley</AUTH_NAME>
+                </AUTHOR>
+            </ITEM_AUTHORS>
+            <AUTHOR_INFORMATION>
+                <AUTH_INFO>
+                    <INFO_VALUE>
+                        Evolution and Cancer Laboratory, Barts Cancer Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, Charterhouse Square, London EC1M 6BQ, UK (V.W.). Translational Cancer Therapeutics Laboratory, Cancer Research UK London Research Institute, 44 Lincoln’s Inn Fields, London, WC2A 3LY, UK (C.T.H., C.S.). Department of Pathology, University of Southern California Keck School of Medicine, Los Angeles, CA 90089–9092, USA (D.S.). Department of Ecology and Evolutionary Biology, Yale University, 165 Prospect St, New Haven, CT 06511, USA (P.E.T.). Center for Evolution and Cancer, Helen Diller Family Comprehensive Cancer Center, University of California San Francisco, 2340 Sutter St. San Francisco, CA 94143 (C.C.M., V.W)
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_VALUE>
+                        Evolution and Cancer Laboratory, Barts Cancer Institute, Barts and the London School of Medicine and Dentistry, Queen Mary University of London, Charterhouse Square, London EC1M 6BQ, UK (V.W.). Translational Cancer Therapeutics Laboratory, Cancer Research UK London Research Institute, 44 Lincoln’s Inn Fields, London, WC2A 3LY, UK (C.T.H., C.S.). Department of Pathology, University of Southern California Keck School of Medicine, Los Angeles, CA 90089–9092, USA (D.S.). Department of Ecology and Evolutionary Biology, Yale University, 165 Prospect St, New Haven, CT 06511, USA (P.E.T.). Center for Evolution and Cancer, Helen Diller Family Comprehensive Cancer Center, University of California San Francisco, 2340 Sutter St. San Francisco, CA 94143 (C.C.M., V.W)
+                    </INFO_VALUE>
+                </AUTH_INFO>
+            </AUTHOR_INFORMATION>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569005/?report=classic</ITEM_LINK>
+            <ITEM_DATE>2015-05-01</ITEM_DATE>
+            <ITEM_BODY>
+                <P>Abstract</P>
+                <P>
+                    Although we can treat cancers with cytotoxic chemotherapies, target them with molecules that bind to oncogenic drivers, and induce substantial cell death with radiation, local and metastatic tumours recur, resulting in extensive morbidity and mortality. It is difficult to drive a tumour to extinction. Geographically dispersed species are perhaps equally resistant to extinction, but &gt;99.9% of species that have ever existed have become extinct. By contrast, we are nowhere near that level of success in cancer therapy. The phenomena are broadly analogous. In both cases, a genetically diverse population mutates and evolves through natural selection. The goal of cancer therapy is to cause cancer cell population extinction or at least to limit any further increase in population size, so the tumour burden does not overwhelm the patient. However, despite available treatments, complete responses are rare, and partial responses are limited in duration. Many patients eventually relapse with tumours that evolve from cells that survive therapy. Similarly, species are remarkably resilient to environmental change. Paleontology can show us the conditions that lead to extinction and the characteristics of species that make them resistant to extinction. These lessons could be translated to improve cancer therapy and prognosis.
+                </P>
+                <P>Introduction</P>
+                <P>
+                    Cancer develops by a process of clonal evolution, stemming from genetic diversification and clonal selection, which has clinical implications for neoplastic progression, prevention, and therapy.1, 2 Competing subclones in somatically evolving cancer cell populations give rise to genetically heterogeneous tumours.3, 4 Neoplasms seem to have extraordinary evolvability, including rampant parallel evolution, and multiple mutations affecting the same gene, protein complex or signal transduction pathway can be generated independently within the same neoplasm.5–7 Genomic instability is common in carcinogenesis, and includes genome doublings and large-scale genomic changes or ‘macromutations’.8 Somatic evolution, and the diversity of clones it produces, poses major challenges to personalized medicine, and partly explains why cancer is so hard to cure.6 Neoplastic cell populations are hard to eliminate with a single, static, selective pressure. Some cells within the diverse neoplastic population are likely to be resistant to the pressure, and their growth will result in regeneration of the population.9 Although carcinogenesis and acquired resistance to therapy have long been recognized as evolutionary and ecological processes, little attention has been paid to the application of principles of ecology and evolutionary biology to oncology. Like metastatic tumours, most species are composed of genetically diverse meta-populations spread across large geographical areas, making it unlikely that a single selective pressure will eliminate all the subpopulations, and the diverse individuals they contain. In this Review, we discuss how our understanding of species’ extinctions can better inform cancer therapy.
+                </P>
+                <P>
+                    Cancer therapy can essentially be modelled on the principles of extinction biology. Understanding the causes of species extinction could lead to improvements in cancer therapy. The important traits that make some species more extinction-prone than others could have analogues within neoplasms that might predict the success of therapy. Other causes of species extinction could also be translated to cancer therapy and management.
+                </P>
+                <P>Mechanisms of species extinction</P>
+                <P>
+                    Species extinction is difficult to study, as is spontaneous regression in cancer. In both cases, the phenomenon of interest is defined by the subject’s absence. We study extinction mainly by examining fossils that provide historical evidence of species that are no longer alive. Few data exist relating to extinction of species that are most similar to tumours, namely asexual single-celled organisms, because they generally do not leave a fossil record. Even studying incipient extinction of extant microbes in the wild is challenging, owing to the difficulty of performing an accurate census. The evidence on extinctions that we do have reveals that five sudden and dramatic mass extinctions have occurred.10 However, our understanding of the mechanism of extinction remains limited, especially for less-dramatic background extinctions, which occur constantly. As the goal of cancer therapy is to only drive the cancer extinct, while preserving all the other ‘species’ (cell types) in the body, the dynamics of background extinction are most relevant to oncology.
+                </P>
+                <P>Background extinctions</P>
+                <P>
+                    Over 99.9% of species that have ever lived have become extinct.11 The vast majority (~95%) of these losses of species are due to background extinction,12 where a normal or spontaneous process results in replacement of one species with another.13 Although little is known about the processes and mechanisms of background extinction, it can be avoided by successful adaptation in the face of ecological changes, including environmental deterioration and harmful effects of other species (competitors or predators). The best available evidence relating to microbial extinction suggests that it is driven by environmental change and habitat loss.14 In multicellular organisms, background extinctions are thought to result from environmental challenges, or from long-term, multi-generational losses in reproductive fitness caused by genetic factors.12 Background extinction can be driven by the failure of species to keep pace with a deteriorating environment, as can occur with a change in climate.15 Also, a depressed rate of origination is as important as an increased extinction rate in reducing biodiversity.15
+                </P>
+                <P>Mass extinctions</P>
+                <P>
+                    Five mass extinctions, in which extinction rates greatly exceeded speciation rates, have occurred in Earth’s history (Table 1).16 They provide the best data on the nature of extinction, because patterns can be discerned through comparisons across species.
+                </P>
+                <P>
+                    Mass extinctions are caused by biotic as well as abiotic factors. Abiotic factors usually fall into the category of local, as well as global, habitat destruction, and large-scale environmental changes, caused by climate change, sea level change, anoxic events, glaciation, volcanic activity and impacts of extraterrestrial objects. Biotic causes of extinction include overpredation, resource overexploitation, competition with invasive species, and the lack of evolvability (Figure 1).
+                </P>
+                <P>
+                    Mass extinctions share important common features—they all unfolded rapidly, their impact was not random, and survivors were not the dominant group prior to the extinction.17 Most mass extinction events actually involved two pulses of extinction. For instance, during the Late Ordovician period, the first pulse was at the beginning of glaciation, when the sea level declined and epicontinental seaways drained, resulting in global climate change. During the second pulse, glaciation ended suddenly and rapidly, as sea levels rose, oceanic circulation stagnated, and the global climate returned to preglacial conditions.18 It seems that, for most mass extinctions, multiple causes and pressures led to the severe losses of species, rather than a single selective pressure.
+                </P>
+                <P>
+                    The duration and knock-on effects of environmental changes during these mass extinctions seem to have weakened and destabilized populations. Instead of having time to adapt to the changing environment, the immediate onset of another stressor would have further destabilized the population dynamics, and led to species decline. In general, it seems that the mass extinctions required both a stressed biosphere (the ‘press’) followed by an acute pulse or perturbation, in a theoretical process known as “press-pulse”,19 which could also apply to background extinctions. General patterns that emerge from studying extinctions are summarized in Box 1.
+                </P>
+                <P>Box 1</P>
+                <P>General patterns in the causes of extinction</P>
+                <P>
+                    Extinction is caused by more than one stressor. In most cases, mass extinctions were caused by functional interactions between multiple selection pressures.
+                </P>
+                <P>
+                    Extinctions are often caused by large, rapid changes in the environment that destroy habitats. Environmental changes associated with mass extinction events were geologically rapid, making it difficult for populations to adapt. With the exception of overexploitation by humans and global forest fires, most stressors changed the habitat, rather than killed the organisms directly.
+                </P>
+                <P>
+                    Environmental change persisted over many generations. The new selective environment persisted for many generations of a species, as extinction events often extended for more than a million years.
+                </P>
+                <P>
+                    Arguably, human actions have led to an ongoing sixth mass extinction. The current extinction rates for mammals, amphibians, reptiles, and birds are as fast or faster than the rates calculated for the previous mass extinctions.20 Humans are causing the sixth mass extinction17, 20, 21 by co-opting resources,20 changing the global climate,20–23 and fragmenting, modifying, and destroying habitats by actions including deforestation,14, 17, 20, 22 pollution,20 introduction of invasive species, and overexploitation (for instance by overhunting and overfishing).17, 20, 22
+                </P>
+                <P>Extinction resistance</P>
+                <P>
+                    Certain characteristics and patterns seem to affect the risk of extinction, and explain why some species are more vulnerable to extinction than others.24 These characteristics could have parallels in features that render neoplasms resistant to therapy (Table 2). Generally, the characteristics can be classified into two categories: evolvability and robustness to perturbations.
+                </P>
+                <P>Evolvability</P>
+                <P>
+                    The evolvability of a species (its capacity for adaptive evolution) is determined by two parameters—the rate at which it can generate genetic diversity that is useful for adaptation, and the ability to maintain such diversity.24 The production rate of potentially useful genetic diversity involves both the mutation rate of the organism and its generation time. Large populations, spread over diverse environments, facilitate the maintenance of that diversity. A species can have an advantage in evolvability resulting from its life-history strategy, that is, the collection of adaptive traits that foster survival and reproduction, which includes compromises between traits that cannot be simultaneously maximized. For example, investment in rapid and prolific reproduction to the detriment of longevity and competitive prowess is called a fast life-history strategy.25 Fast life-histories facilitate adaptation to changing selective pressures, and typically evolve when there is extensive environmental variation and extrinsic mortality. Species with small bodies tend to have larger populations and shorter generation times, and produce more offspring per individual, facilitating quicker adaptation than large-bodied species.13, 17, 26–28 These characteristics represent pre-adaptations to withstand the drivers of extinction—rapid environmental changes.
+                </P>
+                <P>Genetic diversity</P>
+                <P>
+                    A more genetically diverse species has a greater likelihood of being able to adapt to an environmental change, compared with a genetically less diverse or homogeneous population. An observation relevant to neoplasms is that genome doubling can cause large-scale phenotypic changes in organisms, and often leads to the formation of a new species.29, 30
+                </P>
+                <P>Large population size</P>
+                <P>
+                    Species with large population sizes are more resistant to extinction than small populations because large populations harbour greater genetic diversity, increasing the likelihood of the presence of genetic variants that will be capable of thriving despite environmental perturbations. Furthermore, large populations do not experience large stochastic fluctuations in population size, buffering them from purely stochastic causes of extinction.31
+                </P>
+                <P>Generation time</P>
+                <P>
+                    A species with short generation times, producing many offspring, is capable of rapid population growth. These species can recover quickly from environmental perturbations, as in the case of weeds colonizing areas of land cleared by a forest fire. By contrast, a slow-growing species might not recover to an adequate population size before further environmental changes occur, potentially driving it to extinction.
+                </P>
+                <P>Robustness to perturbations</P>
+                <P>Wide dispersal</P>
+                <P>
+                    The geographic range of a species is a strong and persistent predictor of extinction risk (analogous to the number of sites of metastatic disease).32 Widely dispersed species can absorb more habitat loss, a selective pressure is unlikely to affect all geographic regions equally, and habitat variation selects for genetic variation and phenotypic plasticity.
+                </P>
+                <P>Motility</P>
+                <P>
+                    The ability of organisms, such as birds, to move easily over large areas and geographical barriers, allows motile species to escape local habitat degradation and locate unexploited resources. This mitigates the effects of environmental perturbations.
+                </P>
+                <P>Generalism</P>
+                <P>
+                    A generalist species, using a wide variety of resources and survival strategies, will tend to be more resistant to extinction than a specialist species that is dependent on a single resource, which may disappear.
+                </P>
+                <P>Translation of extinction to oncology</P>
+                <P>
+                    The causes of species extinction have many parallels with the mechanisms of action of cancer therapies (Table 3). These therapies fall into two broad categories—those that directly attack cancer cells and those that change the microenvironment of the tumour to make it difficult for the cancer cells to survive.
+                </P>
+                <P>Extinction and direct anticancer therapies</P>
+                <P>
+                    Most forms of cancer therapy involve attempts to directly kill the cancer cells. These parallels the causes of species extinction that involve directly killing the organisms.
+                </P>
+                <P>Chemotherapy, radiotherapy and human overkill</P>
+                <P>
+                    Chemotherapy and radiotherapy remain the cornerstones of modern cancer treatment for disseminated disease, and as adjuvant strategies following surgery. From an evolutionary perspective, conventional cytotoxic treatments are analogous to human overkill in species extinctions. Humans have effectively driven many species extinct through overhunting, overfishing, and destruction of perceived pests and predators. In sexually reproducing species, making a species so rare that it is difficult for the survivors to find a mate is often sufficient to cause extinction. This is not a problem for neoplastic cells, and so it is likely more difficult to drive a tumour extinct than a sexual species.
+                </P>
+                <P>
+                    Although chemotherapy has greatly improved the treatment of cancer, therapy often fails as a result of the evolutionary selection of acquired or intrinsic resistance to therapy.33–36 By killing sensitive cells, treatment leads to competitive release, freeing up geographical space, reducing nutritional pressures and enabling proliferation of the resistant cells.2 Genetic diversity within a tumour is a key property that can confer resistance to therapy, in the same way that genetic diversity confers resistance to species extinction.
+                </P>
+                <P>
+                    In addition to genetic diversity, cancer growth kinetics are also relevant to therapeutic response, and the Norton–Simon hypothesis states that tumours follow a Gompertzian growth pattern, with growth rates tapering off as the tumour reaches some form of resource or space limitation (known as the “carrying capacity” of the environment in ecology).25, 37 The tumoural growth rate is actually the average of the different growth rates of the various subclones within the tumour.37 Because quiescence and cell-cycle exit can contribute to resistance, a diversity of growth rates will provide resistance to multiple cycles of chemotherapy or fractions of radiotherapy. Quiescence as a resistance mechanism has a parallel in organismal extinctions. Mammals that hibernate or hide in burrows are less likely to go extinct than those that do not.38 The sleep-or-hide principle provides a shelter from changing environments, and thus a greater potential to survive an extinction crisis.
+                </P>
+                <P>
+                    Competitive release, rapid population growth and a fast life history are significant problems for radiotherapy, exemplified in squamous cell cancer of the cervix, and head and neck. Conventional fractionated radiotherapy schedules suffer from accelerated repopulation of the tumour that occurs after 28 days of treatment, and extension of the overall treatment time has a detrimental effect on overall survival. Such observations led to the development of accelerated radiotherapy regimens, delivering the same total dose over a shorter time frame.39, 40
+                </P>
+                <P>Surgical resection and bolide impacts</P>
+                <P>
+                    The most direct way of destroying a species is to remove it, along with its habitat, much like the local devastation caused by a bolide impact.. In respect of cancer, even if some malignant cells have already dispersed, surgical resection of both the primary tumour and any accessible metastases can be an effective way to reduce the population size of the neoplasm, reducing its evolvability and making it more vulnerable to further therapeutic interventions. Improved survival following the introduction of the practice to resect liver-limited metastatic colorectal carcinoma has been documented in a number of retrospective series, and has been adopted as the standard of care.41, 42 Retrospective data suggest that benefits are associated with resection of primary breast cancer tumours in the presence of oligometastatic disease and potentially with resection of pulmonary or hepatic metastatic tumours associated with low-volume, stage IV breast cancer.43 Improved outcomes following primary tumour resections in patients with oligometastatic disease might be achieved through the removal of the evolutionary source of primary tumour diversity,6 as well as by reducing immune tolerance through the removal of immunosuppressive factors generated by the tumours.44, 45
+                </P>
+                <P>Pest management and cancer eradication</P>
+                <P>
+                    Ecological lessons can be learned from management of invasive pest species, and can provide insights into treatment strategies for metastatic cancers.35, 46 Generally, invasive species are more successful following multiple introductions from a genetically and phenotypically diverse originating population.47 After successfully invading a new environment, rapid evolution typically follows, resulting in increasing diversity of phenotypes, and formation of subpopulations with specific adaptations. Chemical, mechanical and biological mechanisms, such as the introduction of predators, parasites, parasitoids, or pathogens, can control invasiveness.46 However, the complete eradication of invasive pests is almost never successfully achieved, owing to the heterogeneity in pest phenotypes, which results in resistance to therapies. Control strategies aim to kill the minimum number of pests necessary to control the damage from the pests. Minimizing the number of pests killed, also minimizes the selection for resistance, and so preserves the viability of the control mechanisms. Analogous to pest management, eradication of a cancer cell population is only achieved when the population is small and homogeneous.46 Attempts at ‘chemical control’ (chemotherapeutic drugs) lead to selection for resistant phenotypes, and rarely achieves long-term eradication of disseminated disease. On the other hand, biological control, with the introduction of predators, parasites, parasitoids, or pathogens, might be more effective, as these agents might be selected to target neoplastic but not normal cells. Predator attack and the subsequent adaptation to improve predator avoidance may result in substantial fitness loss, whereas adaptation to drugs usually requires upregulation of cellular processes, which is relatively inexpensive.34 Lessons from pest management show that biological controls can be more effective than chemical controls. Robust controls should be developed using ecological principles that place treatment strategies in an evolutionary context.
+                </P>
+                <P>Bacterial and immune predation</P>
+                <P>
+                    Predation is a cause of species extinction, particularly in cases where the predator is not dependent on a single species of prey. The closest analogies to predation in the treatment of cancer are bacteriolytic therapy and immunotherapy. In bacteriolytic therapy, anaerobic bacteria have been tested as agents that specifically proliferate in the hypoxic regions that are only found within tumours. Owing to their avascular nature, these hypoxic regions are hard to target with radiotherapy and chemotherapy.48 The bacteria can be manipulated to deliver cytotoxins, or prodrug-converting enzymes, or to induce antitumour immunity, although none of these approaches have yet been tested in clinical trials.49
+                </P>
+                <P>
+                    Predation by the immune system is probably an important selective pressure for many cancers, resulting in immune editing and evasion, and upregulation of inhibitory immune signals within the tumour microenvironment.50, 51 Blockade of CTLA-4 (cytotoxic T-lymphocyte protein 4) and PD-1–PD-L1 (programmed cell death protein 1–programmed cell death 1 ligand 1) inhibitory T-cell checkpoints has been one of the most important recent advances in cancer therapy, producing durable responses—with acceptable toxicity—in a number of metastatic solid tumours. The uses of ipilumimab (anti-CTLA4 monoclonal antibody [mAb]) to treat metastatic melanoma significantly improved outcomes in a clinical trial of 676 patients.52 More recently, trials of an anti-PD-1 mAb have shown durable benefits in some patients with advanced solid tumours.53 In advanced non-small-cell lung cancer, higher response rates with anti-PD-L1 therapy were seen in smokers than in nonsmokers.54 Tumours with a high mutational burden and neo-antigenic repertoire might be particularly susceptible to predation by the immune system. This mutational diversity might be exploited by leveraging the adaptive immune response. Because the immune system evolves on a similar timescale to a neoplasm, there is hope that the adaptive nature of the immune system could counter the adaptive nature of neoplasms.
+                </P>
+                <P>Parasitism and oncolytic viral therapy</P>
+                <P>
+                    Parasitism has the potential to cause species extinction, and has been explored for cancer therapy, in the form of oncolytic viruses, which are capable of infecting, multiplying within, and subsequently inducing lysis of malignant cells within tumours.55,56 Many viruses have evolved to hijack normal cellular mechanisms for host cell entry.57 Oncolytic vaccinia virus internalization and replication is particularly targeted to cancer cells that have high levels of VEGF production.58 Phase III trials of an oncolytic herpes simplex virus in the treatment of metastatic melanoma have shown promise.59 The ideal oncolytic agent would be administered systemically, and would selectively target tumour cells, with minimal effect in normal cells. No virus strain in preclinical development has these characteristics.60 Genetic recombination enables removal of viral genes that are essential for replication in normal cells, so that the recombinant virus can only replicate in cancer cells containing compensatory mutations. For example, the E1B 55 kDa deletion in adenovirus enables replication in TP53-mutated cancer cells, but not in TP53 wild-type cells.61 These techniques can also be used to arm viruses with genes encoding cytokines or prodrug-converting enzymes.62
+                </P>
+                <P>
+                    A major problem for oncolytic viral therapy is pre-existing immunity, which often hinders successful delivery of the virus.63 To overcome this problem viruses with different serotypes, chimeric viruses, virus combinations,64 and viruses ‘hidden’ in mesenchymal cells have been tested preclinically,65 but this additional complexity is likely to delay clinical development even further. In addition, the dense stromal reaction of many cancers inhibits virus delivery and viral spread within the tumour.66 Despite these problems, oncolytic viral therapy remains an intriguing concept that could eventually become part of the anticancer armamentarium.60, 67
+                </P>
+                <P>Extinction and the tumour microenvironment</P>
+                <P>
+                    Neoplastic cells, like most organisms, engage in niche construction, modifying their environment to their own benefit. This process involves the stimulation of neo-angiogenesis to provide nutrients, such as oxygen, and the co-opting of stromal cells to provide factors supporting growth and survival. As it is involved in enabling neoplastic growth, the tumour microenvironment can be targeted for therapeutic benefit.
+                </P>
+                <P>Habitat Destruction (Ecological therapies)</P>
+                <P>
+                    According to Camacho and Pienta,68 “A cancer cell cannot run from its ecosystem. Although cancer cells may mutate and develop resistance, the host cells of the local microenvironment and greater patient biosphere do not, providing stable targets for multi-targeted cancer therapy.” If conventional anticancer treatments eventually select for resistant clones, then targeting the tumour cell niche with microenvironmental stressors prior to the application of pulses of selective pressures, such as chemotherapy, could be more efficacious.68–70 In the context of Darwinian evolution, it is most efficient to kill a species by destroying its niche.70 Many therapies that target the tumour microenvironment are either in clinical use or in late stages of development. The principles of species extinction could help to design intelligent combinations of therapies, or novel administration schedules, to target cancer whilst preserving host cellular compartments (normal epithelial, mesenchymal, and neuronal cells).
+                </P>
+                <P>
+                    The disruption of ecological networks can lead to the destruction of an ecosystem.68 However, the ecology of a neoplasm is qualitatively different from most organismal ecosystems in that neoplasms and their microenvironments are not structured into food webs with trophic layers, such as primary producers, herbivores, and carnivores. In a food web, extinction of one species can ripple through the web, as other species that depended on an extinct food source can also go extinct. Understanding the dependencies that do exist between cell types in a neoplasm’s microenvironment should provide therapeutic targets. However, ecosystems evolve, and destroying a single interaction in a complex ecosystem is often not enough to cause the extinction of a species. Considering tumour cells as part of an evolving, dynamic ecosystem suggests that multiple aspects of the ecological niche created by tumour-host cell interactions should be targeted, in an approach that is known as ecological therapy for cancer.70
+                </P>
+                <P>Nutrient restriction</P>
+                <P>
+                    Inhibition of growth-factor signalling, or depletion of essential nutrients, can make it more difficult for tumour cells to thrive.71 Cancer cells have high levels of glycolysis that proceeds primarily through production of lactate in the cytosol, in a process known as aerobic glycolysis, or the Warburg effect, rather than the normal process of oxidative phosphorylation of pyruvate that occurs in the mitochondria. The high level of glycolysis in cancer has led to efforts to target glucose metabolism.72, 73 2-deoxyglucose has been used to inhibit glucose metabolism, but toxicity at high doses limits its clinical applicability.74–76 A symbiotic relationship can exist between normoxic and hypoxic cells, enabling adaptation to nutrient deprivation.77 Hypoxic cells extrude lactate as a byproduct of glycolysis, and this lactate can be taken up via monocarboxylate transporters into normoxic cancer cells and used as an energy source, enabling the tumour to overcome glucose deprivation.78 Targeting monocarboxylate transporters in cancer cells might disrupt the tumour ecosystem. The Warburg effect also facilitates the uptake, incorporation, and redistribution of nutrients into biomass, including nucleotides, amino acids, and lipids, which are needed to produce new cells.79 Biomass generation might also represent a therapeutic target.
+                </P>
+                <P>
+                    Poisoning of the nutrient supply has been suggested as a critical cause for ecological mass extinction, but has also possibly selected for resistant species.80 Methotrexate and 5-fluorouracil are antimetabolites that interfere with critical cell functions, such as DNA production. The use of antimetabolite forms of chemotherapy eventually selects for clones that are able to overcome this stress on fundamental biological processes.33 Identifying the limiting resources for any given tumour, and restricting those resources, is an understudied approach that deserves further exploration.
+                </P>
+                <P>Targeting tumour stroma</P>
+                <P>
+                    Targeting biological niches can provide an effective anticancer strategy. Bisphosphonates mimic pyrophosphates, and inhibit critical enzymatic functions in osteoclasts. Bisphosphonates can reduce the consequences of skeletal metastases in several cancers, such as breast cancer, prostate cancer, and myeloma.81 In early breast cancer, bisphosphonates improve breast-cancer-specific survival and overall survival.82 Creating ‘infertile soil’ for seeding of cancer cells is of key importance to this strategy, as is disrupting the microenvironment to enable optimal perfusion of cytotoxic agents to established tumours.83
+                </P>
+                <P>
+                    Inhibition of matrix metalloproteinases (MMPs) and Hedgehog signaling in order to target tumor-stromal interactions has shown mixed results in clinical trials. Due to the complexity of signaling, MMPs can have both a cancer promoting effect but paradoxically a cancer inhibiting effects and consequently therapeutic inhibition might accelerate the development of fitter clones.84–86 Inhibition of hedgehog signaling has been beneficial in the treatment of basal cell carcinomas due to the presence of activating mutations of smoothened in this disease but ineffective in trials to improve chemotherapy delivery by targeting stromal signaling, despite promise in preclinical models.83, 84, 87–89
+                </P>
+                <P>Anti-angiogenic therapy</P>
+                <P>
+                    Because tumour growth is often limited by the absence of neovascularization,90 anti-angiogenic therapies can be used for habitat or niche destruction. Suppressing angiogenesis can be achieved by inhibition of receptor tyrosine kinases or neutralization of VEGF or its receptors using monoclonal antibodies.91 The restriction of the nutrient supply and the buildup of toxin levels in the tumour microenvironment will put severe selective pressures on a tumour. This strategy has had some success when combined with cytotoxic chemotherapy, with improved response rates and disease-free survival observed in patients with metastatic colorectal cancer.92
+                </P>
+                <P>
+                    However, more broadly, targeting tumour angiogenesis has not been the panacea that was hoped for, as anti-angiogenic therapy selects for resistant clones.93, 94 Destruction of microvasculature creates hypoxic regions, which can exacerbate the malignant and metastatic phenotype. Hypoxia, acting via hypoxia-inducible factors, upregulates expression of molecules (such as Notch &amp; TGF-β.) that are involved in the epithelial-to-mesenchymal transition, promotes invasion through MET signalling, and prepares the premetastatic niche by increasing LOX expression.95, 96 Strategies to combine anti-angiogenic agents with MET inhibition are currently in clinical trials and have shown early promise.97
+                </P>
+                <P>
+                    Counter intuitively, low doses of anti-angiogenic agents can produce a more efficient tumour vascular network by ‘pruning’ the tangled, poorly organized vasculature of a tumour into a more efficient system. As an alternative strategy to modifying the tumour’s habitat, low dose anti-angiogenic agents can make delivery of other therapeutic agents more efficient. Furthermore, normalizing resource delivery across a tumour should reduce genetic diversity in the tumour and decrease the selective pressures that drive the evolution of cell migration and metastasis.98, 99
+                </P>
+                <P>Climate change and hyperthermia</P>
+                <P>
+                    Climate change, rendering the ecosystem uninhabitable, is one of the major causes of species extinction. A biological parallel is hyperthermia, increasing the temperature of tissues, which has been explored in cancer therapy as it can potentially induce cell death with minimal damage to healthy tissue.100–102 Hyperthermia influences the blood flow, nutrient supply, acid–base balance, and cellular immune response. Cancer cells are often located in more acidic environments, and have greater sensitivity to hyperthermia than normal cells, but the molecular mechanisms of hyperthermia are not fully understood, and various targets in the cell are affected by rises in temperature, including lipid membranes, cytoskeletal proteins, DNA repair enzymes and heat shock proteins (HSPs).101
+                </P>
+                <P>
+                    Mild hyperthermia (up to 42°C) can enhance immunogenicity and the trafficking of immune effector cells into tumours. Tumour blood flow and oxygenation are also improved by hyperthermia, as is the effectiveness of radiotherapy.100 Hyperthermia above 42°C induces cytotoxic effects by denaturing essential proteins and causing vasoconstriction, restricting nutrient influx and toxin efflux, and inducing acidosis. HSPs protect against the damage caused by raised temperatures, preventing apoptosis.103 Inhibitors of HSPs, and HSP90 in particular, are in clinical development and have shown some early promise.104 A combination of HSP inhibitors and hyperthermia is a potential therapeutic approach.
+                </P>
+                <P>
+                    Hyperthermia has been most successful when applied locoregionally, and when given in combination with conventional cytotoxics and radiation.100, 101, 105, 106 Hyperthermia and cytotoxic drugs have additive effects through the mechanisms of increased intracellular drug uptake and enhanced DNA damage.106 However, at this stage, Hyperthermia is currently only used in specific scenarios, and few clinical studies have demonstrated survival benefits. In 2011, out of nearly 24 randomized trials, 18 reported a positive effect of hyperthermia in combination with radiation.107 For instance, better response rates and survival benefits were obtained in studies with patients suffering from breast cancer108, head and neck cancer109, and bladder cancer110. A phase III clinical trial of soft tissue sarcoma treated with neo-adjuvant chemotherapy consisting of etoposide, ifosfamide, and doxorubicin (EIA), or with EIA combined with regional hyperthermia found that EIA with hyperthermia achieved a 28.8% response rate, compared with 12.7% for EIA alone.111 Addition of hyperthermia improved local progression-free survival and overall survival.111 However, a study on superficial tumours reported a significant response rate for patients treated with hyperthermia and radiation compared to radiation alone, but observed no overall survival benefit.108
+                </P>
+                <P>
+                    Altering the temperature is just one of many possible ways to change the ‘climate’ of a neoplasm. Other methods, including changing the pH, deserve further exploration.112
+                </P>
+                <P>Application of selective pressures</P>
+                <P>
+                    Paleontology not only suggests which selective pressures to apply to a neoplasm, but also how to apply those pressures.
+                </P>
+                <P>Continuous selective pressure by metronomic therapy</P>
+                <P>
+                    One of the lessons from species extinction is that selective pressures that lead to extinction last for many generations. In conventional anticancer drug administration schedules, a high dose of chemotherapy might last only one cell generation. Paleontological evidence suggests that ‘metronomic chemotherapy’ should be more effective, as it applies a continuous selective pressure over many neoplastic cell generations. Metronomic chemotherapy is applied chronically at relatively low, minimally toxic doses, with no prolonged drug-free breaks.113 Metronomic chemotherapy was originally intended to inhibit tumour growth primarily through anti-angiogenic mechanisms.114 The largest clinical trials of metronomic chemotherapy have been conducted on breast cancer, and the approach was shown to be effective, with minimal toxicity.115 Clinical trials are currently investigating the effectiveness of the therapy in combination with new anti-angiogenic drugs, but definitive evidence from phase III clinical trials is lacking, and biomarkers to predict which patients will benefit most from such an approach have been elusive.116
+                </P>
+                <P>Multiple pressures and double-bind therapy</P>
+                <P>
+                    The rationale for multidrug therapy is that a neoplastic cell is less likely to be resistant to multiple drugs (multiple pressures) than it is to a single pressure. However, multidrug resistance mechanisms, such as upregulated efflux pumps, confound this rationale. The lesson from paleontology is that multiple selective pressures are necessary to drive species extinct, and that those pressures should take different forms. A particularly effective form of multimodal therapy would be one in which resistance to one pressure leads to increased sensitivity to another pressure, a strategy called double-bind therapy.46 In ecology, gerbils changed their foraging behaviour to avoid exposure to predation from above when exposed to an aerial predator (owls). But this made them more vulnerable to predation from vipers. The dual predation presented conflicting demands to gerbils, where they could not remain safe from both predators simultaneously.117 Thus, adaptation to one pressure leads to a loss of fitness with respect to the opposing pressure.46 This may lead to either eradication of the tumor or long-term control of the cancer cell population. Such a double bind might be achieved in cancer therapy through the process of synthetic lethality, in which two or more mutations or selective pressures that are non-lethal on their own, combine to kill the cell. The most well-established example of synthetic lethality is that of tumours with compromised ability to repair double-stranded breaks in DNA by homologous recombination, (for example, tumours with BRCA mutations), which are highly reliant on nonhomologous-end-joining, and are sensitive to blockade of the repair of single-stranded breaks in DNA via inhibition of the enzyme poly (ADP-ribose) polymerase.118 The search for synthetic-lethal interactions in cancer therapy is ongoing, with genomic studies in different tumour types.119
+                </P>
+                <P>Mutational meltdown and Muller’s ratchet</P>
+                <P>
+                    Muller’s ratchet is a phrase first used to describe the accumulation of deleterious mutations in asexual organisms, which once above a certain threshold reduce fitness and can lead to the extinction of the population.120 Deleterious mutations in genes involved in genome stability can be selected for during cancer evolution as they increase the overall mutation rate, some of which may be advantageous for survival of a clonal population of cancer cells. However above a certain threshold the mutational burden may reduce viability and result in ‘mutational meltdown’ and extinction of that population. Studies have suggested that extreme genomic instability in tumours might have a positive effect on prognosis121, 122. Multiple pathways exist to maintain genome integrity, and a number of inhibitors of these pathways are in clinical development. Combination of these inhibitors with the DNA-damaging effects of radiotherapy or chemotherapy could induce sufficient damage to genome integrity to cause mutational meltdown. The key to this approach would be to limit this to cancer cells, so that potentially carcinogenic mutations are not accumulated in normal cells. Vertebrates have evolved a form of innate immunity that capitalizes on this process of mutational meltdown. APOBEC (apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like) enzymes activated in response to retroviral infection can generate a sufficient burden of mutations in the viral genome to induce mutational meltdown123. Unfortunately inappropriate activation of APOBEC has been implicated in carcinogenesis when this system targets the native human genome, rather than an invading viral pathogen, and results in hypermutation, which can promote carcinogenesis.124
+                </P>
+                <P>Prognosis based on paleontology</P>
+                <P>
+                    The characteristics that explain why some species are more resistant to extinction than others have parallels in neoplasms that could be useful for prognosis (Table 2).
+                </P>
+                <P>Large population size is akin to tumour size</P>
+                <P>
+                    Although measures of tumour size are commonly used in clinical management, they are typically crude estimates of volume based on the longest axes in radiological images. Better estimates of the evolvability (evolutionary potential) of a neoplasm might be developed with automated, reproducible measures of the volume of viable cells, for example by volumetric CT.125 The relevant cell populations are those that can indefinitely self-renew (the ‘cancer stem cells’).126, 127 Assays to measure the population size of such tumour propagating cells might serve as biomarkers for tumoural resistance to therapy.
+                </P>
+                <P>Genetic diversity</P>
+                <P>
+                    Tumour genetic diversity can be measured by single-cell analysis, multiregion tumour sequencing,128 or analysis of minor alleles in deep sequencing. Genetic diversity has already been shown to predict progression to malignancy,129–131 as well as overall survival.113
+                </P>
+                <P>
+                    Just as the ability to generate polyploid variants facilitates rapid evolution and diversification in species, generation of polyploid and aneuploid neoplastic cells probably facilitates evolution and diversification in neoplasms. Detection of tetraploidy and/or aneuploidy in Barrett’s oesophagus is associated with a 10-fold increase in risk for progression to oesophageal adenocarcinoma.132 Nuclear pleiomorphism (diversity) is one of the three components of breast cancer grade,133 and probably correlates with large-scale genetic diversity resulting from cells with different karyotypes. We are only beginning to assay genetic diversity in neoplasms.
+                </P>
+                <P>Body size is akin to cell size</P>
+                <P>
+                    In multicellular organisms, body size and population size are negatively correlated, and so large bodied species appear to be vulnerable to extinction. This relationship has not been tested in neoplastic cells. In contrast, we might predict that a large cytoplasm might provide resources to withstand environmental stresses. Neoplastic cells often have enlarged nuclei, often owing to aneuploidy. Nuclear and cytoplasmic size should both be measured, to determine any association with resistance to therapies that restrict resources, and correlation with patient outcomes.
+                </P>
+                <P>Generation time is akin to proliferation rate</P>
+                <P>
+                    A short generation time confers an extinction survival benefit on a species. Though generation times are difficult to measure in vivo, they can be approximated by measures of proliferation rates based on cell cycle markers, such as KI-67. Proliferation rates should be closely associated with growth capacity in the recovery after cytotoxic therapies. Functional imaging with PET tracers, such as 3′-deoxy-3′-[18F]-fluorothymidine, and others in development, could measure proliferation through longitudinal radiological exams.134 Measuring the number and activity of cancer stem cells might give better prognostic accuracy than measuring all neoplastic cells.
+                </P>
+                <P>Life history strategy</P>
+                <P>
+                    Measures of tumour growth rates and the proportions of cells in cell cycle progression would provide information on the life-history strategies of the cells in a tumour.25 The degree of cells’ investment in DNA replication, and the suppression of cell-cycle checkpoints, should correlate with fast life history and poor prognosis. However, not all characteristics of a slow life history make a neoplasm prone to extinction.25 In fact, mechanisms of somatic maintenance typical of slow life-history strategies, such as DNA repair, detoxification, and efflux pumps, should all protect a neoplasm against chemotherapy.
+                </P>
+                <P>Dispersal relates to cancer stage</P>
+                <P>
+                    Widespread tumours with distant metastases are generally incurable.135 Metastatic cancers inhabit a diversity of microenvironments in the human body, have a large total population size, probably have greater genetic diversity than localized neoplasms, and are, therefore, more robust to environmental changes. Cancer stage is an important prognostic factor, but more accurate measures of tumour dispersal using new assays for circulating tumour cells and cell-free DNA might give better predictive ability.136
+                </P>
+                <P>Motility</P>
+                <P>
+                    Mechanisms of cell motility include epithelial-to-mesenchymal transition, which is measured by expression of vimentin, smooth-muscle actin, Twist-related protein 1, N-cadherin, cadherin-11, AKT2 (PKBβ), and PI3K-α. Amoeboid movement can be measured by expression of transforming protein RhoA, RAC1, RAC2, CDC42, actin-related proteins 2 and 3, and aquaporin-5.137 These markers could be assayed by flow cytometry or immunohistochemistry. As lineage tracing and phylogenetic reconstruction of cell lineages become feasible,138, 139 it should also be possible to detect the mixing of clones due to cell migration.
+                </P>
+                <P>Generalism</P>
+                <P>
+                    A generalist neoplastic cell is one that can flourish in a variety of microenvironments and grow on a variety of different substrates. This ability could already be present at the time of transformation. Any neoplastic lineages that have successfully metastasized more than once will probably have been selected to be generalists, and so will be particularly robust to environmental changes resulting from therapeutic interventions. Testing for such phenotypic plasticity is not part of current clinical practice, nor is it common in cancer research. Assessing the importance of this feature would probably require functional assays of tumoural response to different substrates and exposures.
+                </P>
+                <P>Conclusions</P>
+                <P>
+                    A survey of the literature relating to extinction biology suggests some novel approaches that could be used for both cancer therapy (Box 2) and prognosis. Combinations of biotic and abiotic factors typically stress and then destroy species in a press-pulse dynamic, which could also be a useful paradigm for cancer therapy. Cancer therapy can be approached in two ways, by directly killing neoplastic cells or by targeting their habitat, either to destroy it or to modify it, reducing the cells’ survival ability. Many underexplored aspects of the tumour microenvironment might be targeted to stress the neoplasm, including temperature and pH. In particular, little is known about limiting the resources of tumours, which could be an important Achilles heel for a neoplasm. At the same time as targeting a neoplasm’s habitat, its evolvability should also be targeted, by lengthening cancer (stem) cell generation times and reducing the population size and mutation rate of neoplastic cells. The resilience of neoplasms to perturbations should be targeted, by inhibiting migration of cells and their ability to survive using alternative resources (generalism). Furthermore, multiple, dramatically different selective pressures should be applied to the tumour and its microenvironment (Figure 2), and maintained for long periods of time, so that neoplastic cells are unlikely to be able to survive by becoming temporarily dormant or through a single resistance mutation. These approaches should be tested in preclinical experiments on realistically diverse populations of neoplastic cells, and in clinical trials.
+                </P>
+                <P>Box 2</P>
+                <P>Therapies inspired by paleontology</P>
+                <P>Lessons from paleontology can provide a set of principles for driving neoplasms extinct.</P>
+                <P>Reduce the evolvability of the neoplastic cell population</P>
+                <P>
+                    Reduce the population size and mutation rate (genetic instability),8, 157, 158 and lengthen the generation time of neoplastic cells. Tumour cell populations can be reduced through surgical debulking (including detectable metastases), nutrient restriction, and anti-angiogenic therapy. Nutrient restriction and cytostatic therapies can increase cell generation times. Historically, conventional treatments have been effective at reducing the population size, but have not been used to lengthen generation times, reduce mutation rates, or address intratumoural heterogeneity.
+                </P>
+                <P>Disrupt or destroy the tumour habitat</P>
+                <P>
+                    Habitat disruption using anti-angiogenic therapy and matrix metalloproteinase inhibitors has had mixed success. Understanding of the complexity of tumour–stroma interactions has now improved and could inform new therapeutic approaches.
+                </P>
+                <P>Target neoplastic cells through multiple pathways</P>
+                <P>
+                    Multiple therapeutic modalities should target different, ideally conflicting, mechanisms of resistance, and can include chemotherapy, radiotherapy, immunotherapy, and potentially bacteriolytic therapy and oncolytic viral therapy (Figure 2). Combinations that select for mutually exclusive phenotypes (double-bind therapies) should be particularly effective.46 For example, low dose chemotherapy, typical of metronomic therapy, can preserve the capacity of the immune system and enable the simultaneous application of immunotherapies.
+                </P>
+                <P>Target the phenotypes that enable neoplasms to escape eradication</P>
+                <P>
+                    Targeting cell migration pathways can prevent cells from finding drug-free regions of the tissues. Inhibition of epigenetic and phenotypic plasticity can also prevent escape from therapy, and inhibition of immune tolerance can ‘release the brake’ on the antitumoural immune response.
+                </P>
+                <P>Maintain selective pressures for many neoplastic cell generations</P>
+                <P>
+                    Anticancer treatments should be applied continuously in a form of multimodal, metronomic therapy, which will, ideally, drive the neoplastic cell population extinct, but could also result in an approach to managing cancer as a chronic disease and controlling clonal expansion.
+                </P>
+                <P>
+                    Extinction biology also suggests general measures of prognosis that should apply across many types of cancer. Some measurements are already standard practice, such as tumour stage and tumour size, and others could be derived from data that is already collected, including microenvironmental diversity from radiological assays,140 and cell size from histopathological slides or flow cytometry. Expression of markers of cell migration could be assayed from formalin-fixed, paraffin-embedded tissues. Other characteristics, including generalism and genetic diversity,129–131 will require the development of new assays. If these characteristics indicate that a tumour is likely to be resistant to extinction, it could be possible to prolong the life of the patient by attempting to control the tumour through a strategy such as adaptive therapy, rather than treating with intent to cure.141 Alternatively, if a neoplasm seems to be vulnerable to extinction, a paleontologically inspired, multimodal, metronomic approach could be used, with curative intent.
+                </P>
+                <P>
+                    These hypotheses will not all necessarily prove to be correct. However, the difficulty of driving tumours to extinction suggests that we should look to what is known about how large, diverse populations become extinct, and attempt to translate those principles to anticancer therapy.
+                </P>
+                <P>Acknowledgments</P>
+                <P>
+                    C.C.M. is supported in part by Research Scholar Grant #117209-RSG-09-163-01-CNE from the American Cancer Society, NIH grants P01 CA91955, R01 CA149566, R01 CA170595, and R01 CA140657 and CDMRP Breast Cancer Research Program Award BC132057. C.S. receives funding from Cancer Research UK, Rosetrees trust, the Breast Cancer Research Foundation, the Prostate Cancer Foundation, European Union Framework program 7 grants PREDICT and RESPONSIFY, and the European Research Council. P.T. is supported in part by grants from the National Science Foundation (DEB-1021243) and NIH (R01-AI091646). C.H. is supported by a National Institute for Health Research Academic Clinical Fellowship.
+                </P>
+                <P>Footnotes</P>
+                <P>Competing interests</P>
+                <P>The authors declare no competing interests.</P>
+                <P>References</P>
+            </ITEM_BODY>
+            <CITATIONS>
+                <CIT>
+                    Merlo LMF, Pepper JW, Reid BJ, Maley CC. Cancer as an evolutionary and ecological process. Nat Rev Cancer. 2006;6:924–935. [PubMed]
+                </CIT>
+                <CIT>
+                    Greaves M, Maley CC. Clonal evolution in cancer. Nature. 2012;481:306–13. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Nowell PC. The clonal evolution of tumor cell populations. Science. 1976;194:23–8. [PubMed]
+                </CIT>
+                <CIT>
+                    Crespi B, Summers K. Evolutionary biology of cancer. Trends Ecol Evol. 2005;20:545–52. [PubMed]
+                </CIT>
+                <CIT>
+                    Anderson K, et al. Genetic variegation of clonal architecture and propagating cells in leukaemia. Nature. 2011;469:356–361. [PubMed]
+                </CIT>
+                <CIT>
+                    Gerlinger M, et al. Intratumor heterogeneity and branched evolution revealed by multiregion sequencing. N Engl J Med. 2012;366:883–92. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gerlinger M, et al. Genomic architecture and evolution of clear cell renal cell carcinomas defined by multiregion sequencing. Nat Genet. 2014;46:225–33. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dewhurst SM, et al. Tolerance of whole-genome doubling propagates chromosomal instability and accelerates cancer genome evolution. Cancer Discov. 2014;4:175–85. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Diaz LA, Jr, et al. The molecular evolution of acquired resistance to targeted EGFR blockade in colorectal cancers. Nature. 2012;486:537–40. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sepkoski JJ., Jr . In: Patterns and Processes in the History of Life. Raup DM, Jablonski D, editors. Springer; Berlin Heidelberg: 1986. pp. 277–295.
+                </CIT>
+                <CIT>Raup DM. Extinction: bad genes or bad luck? W. W. Norton &amp; Co; 1991. [PubMed]</CIT>
+                <CIT>
+                    Wiens D, Slaton MR. The mechanism of background extinction. Biological Journal of the Linnean Society. 2012;105:255–268.
+                </CIT>
+                <CIT>Raup DM. Biological extinction in earth history. Science. 1986;231:1528–33. [PubMed]</CIT>
+                <CIT>
+                    Weinbauer MG, Rassoulzadegan F. Extinction of microbes: evidence and potential consequences. Endangered Species Research. 2007;3:205–215.
+                </CIT>
+                <CIT>
+                    Quental TB, Marshall CR. How the Red Queen Drives Terrestrial Mammals to Extinction. Science. 2013;341:290–292. [PubMed]
+                </CIT>
+                <CIT>
+                    Bambach RK. Phanerozoic Biodiversity Mass Extinctions. Annual Review of Earth and Planetary Sciences. 2006;34:127–155.
+                </CIT>
+                <CIT>
+                    Sodhi NS, Brook BW, Bradshaw C. Causes and consequences of species extinctions. Princeton University Press. 2009;7
+                </CIT>
+                <CIT>
+                    Sheehan PM. THE LATE ORDOVICIAN MASS EXTINCTION. Annual Review of Earth and Planetary Sciences. 2001;29:331–364.
+                </CIT>
+                <CIT>
+                    Arens NC, West ID. Press-pulse: a general theory of mass extinction? Paleobiology. 2008;34:456–471.
+                </CIT>
+                <CIT>
+                    Barnosky AD, et al. Has the Earth’s sixth mass extinction already arrived? Nature. 2011;471:51–7. [PubMed]
+                </CIT>
+                <CIT>
+                    Wake DB, Vredenburg VT. Colloquium paper: are we in the midst of the sixth mass extinction? A view from the world of amphibians. Proc Natl Acad Sci U S A. 2008;105 (Suppl 1):11466–73. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Barnosky AD, Koch PL, Feranec RS, Wing SL, Shabel AB. Assessing the Causes of Late Pleistocene Extinctions on the Continents. Science. 2004;306:70–75. [PubMed]
+                </CIT>
+                <CIT>Thomas CD, et al. Extinction risk from climate change. Nature. 2004;427:145–8. [PubMed]</CIT>
+                <CIT>
+                    Wasik BR, Turner PE. On the biological success of viruses. Annu Rev Microbiol. 2013;67:519–41. [PubMed]
+                </CIT>
+                <CIT>
+                    Aktipis CA, Boddy AM, Gatenby RA, Brown JS, Maley CC. Life history trade-offs in cancer evolution. Nat Rev Cancer. 2013;13:883–892. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Flessa KWEHK, Hallam A, Hsü KJ, Hüssner HM, Jablonski D, Raup DM, Seokoski JJ, Soulé ME, Sousa W, Stinnesbeck W, Vermeij GJ. Causes and Consequences of Extinction. Patterns and Processes in the History of Life. 1986:235–257.
+                </CIT>
+                <CIT>
+                    McKinney ML. Extinction Vulnerability and Selectivity: Combining Ecological and Paleontological Views. Annual Review of Ecology and Systematics. 1997;28:495–516.
+                </CIT>
+                <CIT>Jablonski D. Mass extinctions and macroevolution. Paleobiology. 2005;31:192–210.</CIT>
+                <CIT>
+                    Soltis DE, Soltis PS. Polyploidy: recurrent formation and genome evolution. Trends Ecol Evol. 1999;14:348–352. [PubMed]
+                </CIT>
+                <CIT>Otto SP. The Evolutionary Consequences of Polyploidy. Cell. 2007;131:452–462. [PubMed]</CIT>
+                <CIT>
+                    Flessa KW, Jablonski D. Declining Phanerozoic background extinction rates: effect of taxonomic structure? Nature. 1985;313:216–218.
+                </CIT>
+                <CIT>
+                    Payne JL, Finnegan S. The effect of geographic range on extinction risk during background and mass extinction. Proceedings of the National Academy of Sciences. 2007;104:10506–10511. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Wang TL, et al. Digital karyotyping identifies thymidylate synthase amplification as a mechanism of resistance to 5-fluorouracil in metastatic colorectal cancer patients. Proc Natl Acad Sci U S A. 2004;101:3089–94. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Silva AS, Gatenby RA. A theoretical quantitative model for evolution of cancer chemotherapy resistance. Biol Direct. 2010;5:25. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Cunningham JJ, Gatenby RA, Brown JS. Evolutionary dynamics in cancer therapy. Mol Pharm. 2011;8:2094–100. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Orlando PA, Gatenby RA, Brown JS. Cancer treatment as a game: integrating evolutionary game theory into the optimal control of chemotherapy. Phys Biol. 2012;9:065007. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Simon R, Norton L. The Norton-Simon hypothesis: designing more effective and less toxic chemotherapeutic regimens. Nat Clin Pract Oncol. 2006;3:406–7. [PubMed]
+                </CIT>
+                <CIT>
+                    Liow LH, Fortelius M, Lintulaakso K, Mannila H, Stenseth NC. Lower extinction risk in sleep-or-hide mammals. Am Nat. 2009;173:264–72. [PubMed]
+                </CIT>
+                <CIT>
+                    Perez CA, Grigsby PW, Castro-Vita H, Lockett MA. Carcinoma of the uterine cervix. I. Impact of prolongation of overall treatment time and timing of brachytherapy on outcome of radiation therapy. Int J Radiat Oncol Biol Phys. 1995;32:1275–88. [PubMed]
+                </CIT>
+                <CIT>
+                    Overgaard J, et al. Five compared with six fractions per week of conventional radiotherapy of squamous-cell carcinoma of head and neck: DAHANCA 6 and 7 randomised controlled trial. Lancet. 2003;362:933–40. [PubMed]
+                </CIT>
+                <CIT>
+                    Tomlinson JS, et al. Actual 10-year survival after resection of colorectal liver metastases defines cure. J Clin Oncol. 2007;25:4575–80. [PubMed]
+                </CIT>
+                <CIT>
+                    Kopetz S, et al. Improved survival in metastatic colorectal cancer is associated with adoption of hepatic resection and improved chemotherapy. J Clin Oncol. 2009;27:3677–83. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Pagani O, et al. International guidelines for management of metastatic breast cancer: can metastatic breast cancer be cured? J Natl Cancer Inst. 2010;102:456–63. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sinha P, Clements VK, Miller S, Ostrand-Rosenberg S. Tumor immunity: a balancing act between T cell activation, macrophage activation and tumor-induced immune suppression. Cancer Immunol Immunother. 2005;54:1137–42. [PubMed]
+                </CIT>
+                <CIT>
+                    Swanton C. Intratumor heterogeneity: evolution through space and time. Cancer Res. 2012;72:4875–82. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gatenby RA, Brown J, Vincent T. Lessons from applied ecology: cancer control using an evolutionary double bind. Cancer Res. 2009;69:7499–502. [PubMed]
+                </CIT>
+                <CIT>
+                    Lavergne S, Molofsky J. Increased genetic variation and evolutionary potential drive the success of an invasive grass. Proc Natl Acad Sci U S A. 2007;104:3883–8. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dang LH, Bettegowda C, Huso DL, Kinzler KW, Vogelstein B. Combination bacteriolytic therapy for the treatment of experimental tumors. Proc Natl Acad Sci U S A. 2001;98:15155–60. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Patyar S, et al. Bacteria in cancer therapy: a novel experimental strategy. J Biomed Sci. 2010;17:21. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dong H, et al. Tumor-associated B7-H1 promotes T-cell apoptosis: a potential mechanism of immune evasion. Nat Med. 2002;8:793–800. [PubMed]
+                </CIT>
+                <CIT>
+                    Pardoll DM. The blockade of immune checkpoints in cancer immunotherapy. Nat Rev Cancer. 2012;12:252–64. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hodi FS, et al. Improved survival with ipilimumab in patients with metastatic melanoma. N Engl J Med. 2010;363:711–23. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Topalian SL, et al. Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. N Engl J Med. 2012;366:2443–54. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Soria J-C. European Cancer Conference, Abstract no: 3408; 2013.</CIT>
+                <CIT>Alemany R. Viruses in cancer treatment. Clin Transl Oncol. 2013;15:182–8. [PubMed]</CIT>
+                <CIT>
+                    Kim MK, et al. Oncolytic and immunotherapeutic vaccinia induces antibody-mediated complement-dependent cancer cell lysis in humans. Sci Transl Med. 2013;5:185ra63. [PubMed]
+                </CIT>
+                <CIT>
+                    Eierhoff T, Hrincius ER, Rescher U, Ludwig S, Ehrhardt C. The epidermal growth factor receptor (EGFR) promotes uptake of influenza A viruses (IAV) into host cells. PLoS Pathog. 2010;6:e1001099. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hiley CT, et al. Vascular endothelial growth factor A promotes vaccinia virus entry into host cells via activation of the Akt pathway. J Virol. 2013;87:2781–90. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Robert Hans Ingemar Andtbacka FAC, Amatruda Thomas, Senzer Neil N, Chesney Jason, Delman Keith A, Spitler Lynn E, Puzanov Igor, Doleman Susan, Ye Yining, Vanderwalde Ari M, Coffin Robert, Kaufman Howard. OPTiM: A randomized phase III trial of talimogene laherparepvec (T-VEC) versus subcutaneous (SC) granulocyte-macrophage colony-stimulating factor (GM-CSF) for the treatment (tx) of unresected stage IIIB/C and IV melanoma. J Clin Oncol (suppl; abstr LBA9008) 2013;31
+                </CIT>
+                <CIT>
+                    Bourke MG, et al. The emerging role of viruses in the treatment of solid tumours. Cancer Treat Rev. 2011;37:618–32. [PubMed]
+                </CIT>
+                <CIT>
+                    Heise C, et al. ONYX-015, an E1B gene-attenuated adenovirus, causes tumor-specific cytolysis and antitumoral efficacy that can be augmented by standard chemotherapeutic agents. Nat Med. 1997;3:639–45. [PubMed]
+                </CIT>
+                <CIT>
+                    Harrington KJ, et al. Phase I/II study of oncolytic HSV GM-CSF in combination with radiotherapy and cisplatin in untreated stage III/IV squamous cell cancer of the head and neck. Clin Cancer Res. 2010;16:4005–15. [PubMed]
+                </CIT>
+                <CIT>
+                    Ferguson MS, Lemoine NR, Wang Y. Systemic delivery of oncolytic viruses: hopes and hurdles. Adv Virol. 2012;2012:805629. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Tysome JR, et al. A novel therapeutic regimen to eradicate established solid tumors with an effective induction of tumor-specific immunity. Clin Cancer Res. 2012;18:6679–89. [PubMed]
+                </CIT>
+                <CIT>
+                    Komarova S, Kawakami Y, Stoff-Khalili MA, Curiel DT, Pereboeva L. Mesenchymal progenitor cells as cellular vehicles for delivery of oncolytic adenoviruses. Mol Cancer Ther. 2006;5:755–66. [PubMed]
+                </CIT>
+                <CIT>
+                    Mok W, Boucher Y, Jain RK. Matrix metalloproteinases-1 and -8 improve the distribution and efficacy of an oncolytic virus. Cancer Res. 2007;67:10664–8. [PubMed]
+                </CIT>
+                <CIT>
+                    Dunn RR, Harris NC, Colwell RK, Koh LP, Sodhi NS. The sixth mass coextinction: are most endangered species parasites and mutualists? Proc Biol Sci. 2009;276:3037–45. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Camacho DF, Pienta KJ. Disrupting the networks of cancer. Clin Cancer Res. 2012;18:2801–8. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Joyce JA. Therapeutic targeting of the tumor microenvironment. Cancer Cell. 2005;7:513–20. [PubMed]
+                </CIT>
+                <CIT>
+                    Pienta KJ, McGregor N, Axelrod R, Axelrod DE. Ecological therapy for cancer: defining tumors using an ecosystem paradigm suggests new opportunities for novel cancer treatments. Transl Oncol. 2008;1:158–64. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kareva I. What can ecology teach us about cancer? Transl Oncol. 2011;4:266–70. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Warburg O. On the origin of cancer cells. Science. 1956;123:309–14. [PubMed]</CIT>
+                <CIT>
+                    Gatenby RA, Gillies RJ. Why do cancers have high aerobic glycolysis? Nat Rev Cancer. 2004;4:891–9. [PubMed]
+                </CIT>
+                <CIT>
+                    Gatenby RA, Gillies RJ. Glycolysis in cancer: a potential target for therapy. Int J Biochem Cell Biol. 2007;39:1358–66. [PubMed]
+                </CIT>
+                <CIT>
+                    Jin S, DiPaola RS, Mathew R, White E. Metabolic catastrophe as a means to cancer cell death. J Cell Sci. 2007;120:379–83. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Cheong H, Lu C, Lindsten T, Thompson CB. Therapeutic targets in cancer cell metabolism and autophagy. Nat Biotechnol. 2012;30:671–8. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Semenza GL. Tumor metabolism: cancer cells give and take lactate. J Clin Invest. 2008;118:3835–7. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gerlinger M, et al. Genome-wide RNA interference analysis of renal carcinoma survival regulators identifies MCT4 as a Warburg effect metabolic target. J Pathol. 2012;227:146–56. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Van der Heiden MG, Cantley LC, Thompson CB. Understanding the Warburg effect: the metabolic requirements of cell proliferation. Science. 2009;324:1029–33. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Knoll AH, Bambach RK, Payne JL, Pruss S, Fischer WW. Paleophysiology and end-Permian mass extinction. Earth and Planetary Science Letters. 2007;256:295–313.
+                </CIT>
+                <CIT>
+                    Kleber M, et al. Challenging the current approaches to multiple myeloma- and other cancer-related bone diseases: from bisphosphonates to targeted therapy. Leuk Lymphoma. 2012;53:1057–61. [PubMed]
+                </CIT>
+                <CIT>Coleman R. San Antonio Breast Cancer Symposium, Abstract S4–07; 2013.</CIT>
+                <CIT>
+                    Olive KP, et al. Inhibition of Hedgehog signaling enhances delivery of chemotherapy in a mouse model of pancreatic cancer. Science. 2009;324:1457–61. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Coussens LM, Fingleton B, Matrisian LM. Matrix metalloproteinase inhibitors and cancer: trials and tribulations. Science. 2002;295:2387–92. [PubMed]
+                </CIT>
+                <CIT>
+                    Egeblad M, Werb Z. New functions for the matrix metalloproteinases in cancer progression. Nat Rev Cancer. 2002;2:161–74. [PubMed]
+                </CIT>
+                <CIT>
+                    Kaye SB, et al. A phase II, randomized, placebo-controlled study of vismodegib as maintenance therapy in patients with ovarian cancer in second or third complete remission. Clin Cancer Res. 2012;18:6509–18. [PubMed]
+                </CIT>
+                <CIT>
+                    Pharmaceuticals, I. Infinity Pharmaceuticals, News Release. 2012 http://phx.corporate-ir.net/phoenix.zhtml?c=121941&amp;p=irol-newsArticle&amp;ID=1653550.
+                </CIT>
+                <CIT>
+                    Amakye D, Jagani Z, Dorsch M. Unraveling the therapeutic potential of the Hedgehog pathway in cancer. Nat Med. 2013;19:1410–22. [PubMed]
+                </CIT>
+                <CIT>
+                    Berlin J, et al. A randomized phase II trial of vismodegib versus placebo with FOLFOX or FOLFIRI and bevacizumab in patients with previously untreated metastatic colorectal cancer. Clin Cancer Res. 2013;19:258–67. [PubMed]
+                </CIT>
+                <CIT>
+                    Folkman J. Tumor angiogenesis: therapeutic implications. N Engl J Med. 1971;285:1182–6. [PubMed]
+                </CIT>
+                <CIT>
+                    Al-Husein B, Abdalla M, Trepte M, Deremer DL, Somanath PR. Antiangiogenic therapy for cancer: an update. Pharmacotherapy. 2012;32:1095–111. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hurwitz H, et al. Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer. N Engl J Med. 2004;350:2335–42. [PubMed]
+                </CIT>
+                <CIT>
+                    De Bock K, Mazzone M, Carmeliet P. Antiangiogenic therapy, hypoxia, and metastasis: risky liaisons, or not? Nat Rev Clin Oncol. 2011;8:393–404. [PubMed]
+                </CIT>
+                <CIT>
+                    Ebos JM, et al. Accelerated metastasis after short-term treatment with a potent inhibitor of tumor angiogenesis. Cancer Cell. 2009;15:232–9. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Boccaccio C, Comoglio PM. Invasive growth: a MET-driven genetic programme for cancer and stem cells. Nat Rev Cancer. 2006;6:637–45. [PubMed]
+                </CIT>
+                <CIT>
+                    Erler JT, et al. Hypoxia-induced lysyl oxidase is a critical mediator of bone marrow cell recruitment to form the premetastatic niche. Cancer Cell. 2009;15:35–44. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Smith DC, et al. Cabozantinib in patients with advanced prostate cancer: results of a phase II randomized discontinuation trial. J Clin Oncol. 2013;31:412–9. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Chen J, Sprouffske K, Huang Q, Maley CC. Solving the puzzle of metastasis: the evolution of cell migration in neoplasms. PLoS One. 2011;6:e17933. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Aktipis CA, Maley CC, Pepper JW. Dispersal evolution in neoplasms: the role of disregulated metabolism in the evolution of cell motility. Cancer Prev Res (Phila) 2012;5:266–75. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hildebrandt B, et al. The cellular and molecular basis of hyperthermia. Crit Rev Oncol Hematol. 2002;43:33–56. [PubMed]
+                </CIT>
+                <CIT>
+                    Wust P, et al. Hyperthermia in combined treatment of cancer. Lancet Oncol. 2002;3:487–97. [PubMed]
+                </CIT>
+                <CIT>
+                    Coffey DS, Getzenberg RH, DeWeese TL. Hyperthermic biology and cancer therapies: a hypothesis for the “Lance Armstrong effect” JAMA. 2006;296:445–8. [PubMed]
+                </CIT>
+                <CIT>
+                    Mosser DD, Caron AW, Bourget L, Denis-Larose C, Massie B. Role of the human heat shock protein hsp70 in protection against stress-induced apoptosis. Mol Cell Biol. 1997;17:5317–27. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Scaltriti M, Dawood S, Cortes J. Molecular pathways: targeting hsp90--who benefits and who does not. Clin Cancer Res. 2012;18:4508–13. [PubMed]
+                </CIT>
+                <CIT>
+                    Ostberg JR, Repasky EA. Use of mild, whole body hyperthermia in cancer therapy. Immunol Invest. 2000;29:139–42. [PubMed]
+                </CIT>
+                <CIT>
+                    van der Zee J. Heating the patient: a promising approach? Ann Oncol. 2002;13:1173–84. [PubMed]
+                </CIT>
+                <CIT>
+                    Sardari D, Verga N. Current Cancer Treatment - Novel Beyond Conventional Approaches. 2011.
+                </CIT>
+                <CIT>
+                    Jones EL, et al. Randomized trial of hyperthermia and radiation for superficial tumors. J Clin Oncol. 2005;23:3079–85. [PubMed]
+                </CIT>
+                <CIT>
+                    Valdagni R, Amichetti M. Report of long-term follow-up in a randomized trial comparing radiation therapy and radiation therapy plus hyperthermia to metastatic lymph nodes in stage IV head and neck patients. Int J Radiat Oncol Biol Phys. 1994;28:163–9. [PubMed]
+                </CIT>
+                <CIT>
+                    van der Zee J, et al. Comparison of radiotherapy alone with radiotherapy plus hyperthermia in locally advanced pelvic tumours: a prospective, randomised, multicentre trial. Dutch Deep Hyperthermia Group. Lancet. 2000;355:1119–25. [PubMed]
+                </CIT>
+                <CIT>
+                    Issels RD, et al. Neo-adjuvant chemotherapy alone or with regional hyperthermia for localised high-risk soft-tissue sarcoma: a randomised phase 3 multicentre study. Lancet Oncol. 2010;11:561–70. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Ibrahim-Hashim A, et al. Systemic buffers inhibit carcinogenesis in TRAMP mice. J Urol. 2012;188:624–31. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Scharovsky OG, Mainetti LE, Rozados VR. Metronomic chemotherapy: changing the paradigm that more is better. Curr Oncol. 2009;16:7–15. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kerbel RS, Kamen BA. The anti-angiogenic basis of metronomic chemotherapy. Nat Rev Cancer. 2004;4:423–36. [PubMed]
+                </CIT>
+                <CIT>
+                    Pasquier E, Kavallaris M, Andre N. Metronomic chemotherapy: new rationale for new directions. Nat Rev Clin Oncol. 2010;7:455–65. [PubMed]
+                </CIT>
+                <CIT>
+                    Lien K, Georgsdottir S, Sivanathan L, Chan K, Emmenegger U. Low-dose metronomic chemotherapy: a systematic literature analysis. Eur J Cancer. 2013;49:3387–95. [PubMed]
+                </CIT>
+                <CIT>
+                    Burt P, Kotler LB, Joel S, Brown Predator facilitation: The combined effect of snakes and owls on the foraging behavior of gerbils. Ann Zool Fennici. 1992;29:199–206.
+                </CIT>
+                <CIT>
+                    Ashworth A. A synthetic lethal therapeutic approach: poly(ADP) ribose polymerase inhibitors for the treatment of cancers deficient in DNA double-strand break repair. J Clin Oncol. 2008;26:3785–90. [PubMed]
+                </CIT>
+                <CIT>
+                    Kaelin WG., Jr The concept of synthetic lethality in the context of anticancer therapy. Nat Rev Cancer. 2005;5:689–98. [PubMed]
+                </CIT>
+                <CIT>
+                    Felsenstein J. The evolutionary advantage of recombination. Genetics. 1974;78:737–56. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Birkbak NJ, et al. Paradoxical relationship between chromosomal instability and survival outcome in cancer. Cancer Res. 2011;71:3447–52. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Roylance R, et al. Relationship of extreme chromosomal instability with long-term survival in a retrospective analysis of primary breast cancer. Cancer Epidemiol Biomarkers Prev. 2011;20:2183–94. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Harris RS, Liddament MT. Retroviral restriction by APOBEC proteins. Nat Rev Immunol. 2004;4:868–77. [PubMed]
+                </CIT>
+                <CIT>
+                    Roberts SA, et al. An APOBEC cytidine deaminase mutagenesis pattern is widespread in human cancers. Nat Genet. 2013;45:970–6. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Buckler AJ, et al. The use of volumetric CT as an imaging biomarker in lung cancer. Acad Radiol. 2010;17:100–6. [PubMed]
+                </CIT>
+                <CIT>Eaves CJ. Cancer stem cells: Here, there, everywhere? Nature. 2008;456:581–582. [PubMed]</CIT>
+                <CIT>
+                    Quintana E, et al. Efficient tumour formation by single human melanoma cells. Nature. 2008;456:593–598. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Lui Natalie S, AFC, Paulson Thomas G, Graham Trevor A, Maley Carlo C. 2014</CIT>
+                <CIT>
+                    Maley CC, et al. Genetic clonal diversity predicts progression to esophageal adenocarcinoma. Nat Genet. 2006;38:468–73. [PubMed]
+                </CIT>
+                <CIT>
+                    Merlo LM, et al. A comprehensive survey of clonal diversity measures in Barrett’s esophagus as biomarkers of progression to esophageal adenocarcinoma. Cancer Prev Res (Phila) 2010;3:1388–97. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Mroz EA, et al. High intratumor genetic heterogeneity is related to worse outcome in patients with head and neck squamous cell carcinoma. Cancer. 2013;119:3034–42. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Rabinovitch PS, Longton G, Blount PL, Levine DS, Reid BJ. Predictors of progression in Barrett’s esophagus III: baseline flow cytometric variables. Am J Gastroenterol. 2001;96:3071–83. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    A’Hern RP, et al. Taxane benefit in breast cancer--a role for grade and chromosomal stability. Nat Rev Clin Oncol. 2013;10:357–64. [PubMed]
+                </CIT>
+                <CIT>
+                    Schwarzenberg J, et al. 3′-deoxy-3′-18F-fluorothymidine PET and MRI for early survival predictions in patients with recurrent malignant glioma treated with bevacizumab. J Nucl Med. 2012;53:29–36. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Etzioni R, et al. The case for early detection. Nat Rev Cancer. 2003;3:243–52. [PubMed]</CIT>
+                <CIT>
+                    Newman AM, et al. An ultrasensitive method for quantitating circulating tumor DNA with broad patient coverage. Nat Med. 2014;20:548–54. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Sahai E. Illuminating the metastatic process. Nat Rev Cancer. 2007;7:737–49. [PubMed]</CIT>
+                <CIT>
+                    Navin N, et al. Tumour evolution inferred by single-cell sequencing. Nature. 2011;472:90–4. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sottoriva A, Spiteri I, Shibata D, Curtis C, Tavare S. Single-molecule genomic data delineate patient-specific tumor profiles and cancer stem cell organization. Cancer Res. 2013;73:41–9. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Zhou M, et al. Radiologically defined ecological dynamics and clinical outcomes in glioblastoma multiforme: preliminary results. Transl Oncol. 2014;7:5–13. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gatenby RA, Silva AS, Gillies RJ, Frieden BR. Adaptive therapy. Cancer Res. 2009;69:4894–903. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Caplan ML, Bustin RM. Devonian–Carboniferous Hangenberg mass extinction event, widespread organic-rich mudrock and anoxia: causes and consequences. Palaeogeography, Palaeoclimatology, Palaeoecology. 1999;148:187–207.
+                </CIT>
+                <CIT>
+                    Streel M, Caputo MV, Loboziak S, Melo JHG. Late Frasnian–Famennian climates based on palynomorph analyses and the question of the Late Devonian glaciations. Earth-Science Reviews. 2000;52:121–173.
+                </CIT>
+                <CIT>
+                    Stigall AL. Speciation collapse and invasive species dynamics during the Late Devonian “Mass Extinction” GSA Today. 2012;22:6.
+                </CIT>
+                <CIT>
+                    Bambach RK, Knoll AH, Sepkoski JJ. Anatomical and ecological constraints on Phanerozoic animal diversity in the marine realm. Proceedings of the National Academy of Sciences. 2002;99:6854–6859. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Erwin DH, Bowring SA, Yugan J. End-Permian mass extinctions: A review. Geological Society of America Special Papers. 2002;356:363–383.
+                </CIT>
+                <CIT>
+                    Shen S-z, et al. Calibrating the End-Permian Mass Extinction. Science. 2011;334:1367–1372. [PubMed]
+                </CIT>
+                <CIT>
+                    Burgess SD, Bowring S, Shen S-z. High-precision timeline for Earth’s most severe extinction. Proceedings of the National Academy of Sciences. 2014 [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Benton MJ. More than one event in the late Triassic mass extinction. Nature. 1986;321:857–861.
+                </CIT>
+                <CIT>
+                    Deng S, Lu Y, Xu D. Progress and review of the studies on the end-Triassic mass extinction event. Science in China Series D: Earth Sciences. 2005;48:2049–2060.
+                </CIT>
+                <CIT>
+                    Hautmann M. eLS. John Wiley &amp; Sons Ltd; Chichester: 2012. Extinction: End-Triassic Mass Extinction.
+                </CIT>
+                <CIT>
+                    Blackburn TJ, et al. Zircon U-Pb Geochronology Links the End-Triassic Extinction with the Central Atlantic Magmatic Province. Science. 2013;340:941–945. [PubMed]
+                </CIT>
+                <CIT>
+                    Alvarez LW, Alvarez W, Asaro F, Michel HV. Extraterrestrial cause for the cretaceous-tertiary extinction. Science. 1980;208:1095–108. [PubMed]
+                </CIT>
+                <CIT>
+                    Melosh HJ, Schneider NM, Zahnle KJ, Latham D. Ignition of global wildfires at the Cretaceous/Tertiary boundary. Nature. 1990;343:251–254. [PubMed]
+                </CIT>
+                <CIT>
+                    Robertson DS, McKenna MC, Toon OB, Hope S, Lillegraven JA. Survival in the first hours of the Cenozoic. Geological Society of America Bulletin. 2004;116:760–768.
+                </CIT>
+                <CIT>
+                    Schulte P, et al. The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous-Paleogene Boundary. Science. 2010;327:1214–1218. [PubMed]
+                </CIT>
+                <CIT>
+                    Burrell RA, McGranahan N, Bartek J, Swanton C. The causes and consequences of genetic heterogeneity in cancer evolution. Nature. 2013;501:338–345. [PubMed]
+                </CIT>
+                <CIT>
+                    Kostadinov RL, et al. NSAIDs modulate clonal evolution in Barrett’s esophagus. PLoS Genet. 2013;9:e1003553. [PMC free article] [PubMed]
+                </CIT>
+            </CITATIONS>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28848451?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28848451?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28848451</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>29</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>02</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">1664-042X</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>8</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Frontiers in physiology</Title>
+                            <ISOAbbreviation>Front Physiol</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Development and Growth of the Avian Pectoralis Major (Breast) Muscle: Function of Syndecan-4 and Glypican-1 in Adult Myoblast Proliferation and Differentiation.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>577</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.3389/fphys.2017.00577</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Muscle fiber number is determined around the time hatch with continued posthatch muscle growth being mediated by the adult myoblast, satellite cell, population of cells. Satellite cells are dynamic in their expression of proteins including the cell membrane associated proteoglycans, syndecan-4 and glypican-1. These proteoglycans play roles in organizing the extracellular environment in the satellite cell niche, cytoskeletal structure, cell-to-cell adhesion, satellite cell migration, and signal transduction. This review article focuses on syndecan-4 and glypican-1 as both are capable of regulating satellite cell responsiveness to fibroblast growth factor 2. Fibroblast growth factor 2 is a potent stimulator of muscle cell proliferation and a strong inhibitor of differentiation. Proteoglycans are composed of a central core protein defined functional domains, and covalently attached glycosaminoglycans and N-glycosylation chains. The functional association of these components with satellite cell function is discussed as well as an emerging role for microRNA regulation of syndecan-4 and glypican-1.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Velleman</LastName>
+                                <ForeName>Sandra G</ForeName>
+                                <Initials>SG</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Animal Sciences, The Ohio State UniversityWooster, OH, United States.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Song</LastName>
+                                <ForeName>Yan</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical SchoolBoston, MA, United States.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                            <PublicationType UI="D016454">Review</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>08</Month>
+                            <Day>08</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Switzerland</Country>
+                        <MedlineTA>Front Physiol</MedlineTA>
+                        <NlmUniqueID>101549006</NlmUniqueID>
+                        <ISSNLinking>1664-042X</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Histochem Cell Biol. 1997 Mar;107(3):215-21</RefSource>
+                            <PMID Version="1">9105892</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2012 Jan;161(1):44-52</RefSource>
+                            <PMID Version="1">21939780</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1991 Jun 21;252(5013):1705-8</RefSource>
+                            <PMID Version="1">1646484</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1999 Mar 16;96(6):2805-10</RefSource>
+                            <PMID Version="1">10077592</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2002 Jun 7;277(23):20367-71</RefSource>
+                            <PMID Version="1">11916978</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Biochem. 1990;59:237-52</RefSource>
+                            <PMID Version="1">2197976</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Anim Sci. 2012 Mar;90(3):936-41</RefSource>
+                            <PMID Version="1">21890503</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2017 Apr 24;:null</RefSource>
+                            <PMID Version="1">28444312</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2006 Mar;85(3):422-8</RefSource>
+                            <PMID Version="1">16553270</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>EMBO J. 1986 Apr;5(4):665-70</RefSource>
+                            <PMID Version="1">3709521</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 May 22;273(21):13022-9</RefSource>
+                            <PMID Version="1">9582338</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2013 Jan;164(1):36-43</RefSource>
+                            <PMID Version="1">23069913</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Arch Biochem Biophys. 2000 Feb 1;374(1):66-72</RefSource>
+                            <PMID Version="1">10640397</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Exp Cell Res. 1981 Sep;135(1):47-61</RefSource>
+                            <PMID Version="1">6456923</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem J. 2000 May 15;348 Pt 1:1-13</RefSource>
+                            <PMID Version="1">10794707</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2013 Jun 06;8(6):e65671</RefSource>
+                            <PMID Version="1">23762407</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2012 Feb;161(2):271-8</RefSource>
+                            <PMID Version="1">22115678</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Dev Biol. 1991 Sep;147(1):46-61</RefSource>
+                            <PMID Version="1">1879615</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1992 Nov 25;267(33):23439-42</RefSource>
+                            <PMID Version="1">1429685</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Cell Dev Biol. 1995;11:549-99</RefSource>
+                            <PMID Version="1">8689569</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2014 Jun;93(6):1484-94</RefSource>
+                            <PMID Version="1">24879698</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem J. 2001 Jun 1;356(Pt 2):531-7</RefSource>
+                            <PMID Version="1">11368782</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochemistry. 1999 Nov 30;38(48):15871-7</RefSource>
+                            <PMID Version="1">10625452</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2007 Jul;86(7):1406-13</RefSource>
+                            <PMID Version="1">17575189</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Cell. 1994 Feb;5(2):183-92</RefSource>
+                            <PMID Version="1">8019004</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1997 May 2;272(18):11805-11</RefSource>
+                            <PMID Version="1">9115237</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biol. 2010 Apr;30(7):1634-49</RefSource>
+                            <PMID Version="1">20100867</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Crit Rev Biochem Mol Biol. 2013 Jan-Feb;48(1):51-68</RefSource>
+                            <PMID Version="1">23163351</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Cell. 1994 Apr;5(4):413-21</RefSource>
+                            <PMID Version="1">8054685</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biol. 2011 Jan;31(1):203-14</RefSource>
+                            <PMID Version="1">21041476</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 Oct 2;273(40):25548-51</RefSource>
+                            <PMID Version="1">9748216</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1992 Jun 1;89(11):5192-6</RefSource>
+                            <PMID Version="1">1594631</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 Apr 24;273(17):10624-9</RefSource>
+                            <PMID Version="1">9553124</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biochem. 2012 Apr;363(1-2):437-44</RefSource>
+                            <PMID Version="1">22203420</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 2010 Sep 6;190(5):867-79</RefSource>
+                            <PMID Version="1">20819939</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Matrix Biol. 2008 Sep;27(7):619-30</RefSource>
+                            <PMID Version="1">18602469</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Development. 2013 Jul;140(14):3008-17</RefSource>
+                            <PMID Version="1">23760952</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Dev Biol. 2010 Dec 1;348(1):107-18</RefSource>
+                            <PMID Version="1">20883685</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2005 Apr;84(4):601-6</RefSource>
+                            <PMID Version="1">15844817</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 2006 Aug 28;174(5):677-87</RefSource>
+                            <PMID Version="1">16923828</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2010 Jan;89(1):123-34</RefSource>
+                            <PMID Version="1">20008810</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Cell Dev Biol. 1996;12:463-518</RefSource>
+                            <PMID Version="1">8970735</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1995 Apr 14;268(5208):233-9</RefSource>
+                            <PMID Version="1">7716514</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Rep. 2012 Aug;39(8):8251-64</RefSource>
+                            <PMID Version="1">22660841</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Physiol Rep. 2016 Apr;4(8):null</RefSource>
+                            <PMID Version="1">27125667</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Biochem. 1998;67:609-52</RefSource>
+                            <PMID Version="1">9759499</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Sci. 2006 Jul 1;119(Pt 13):2837-46</RefSource>
+                            <PMID Version="1">16787950</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Neurosci. 2006;29:363-86</RefSource>
+                            <PMID Version="1">16776590</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Nutr. 2000 Apr;130(4):858-64</RefSource>
+                            <PMID Version="1">10736342</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2017 Jun 1;96(6):1910-1917</RefSource>
+                            <PMID Version="1">27920196</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1990 Apr 15;265(11):5960-3</RefSource>
+                            <PMID Version="1">1690720</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Genet. 2005 May;37(5):495-500</RefSource>
+                            <PMID Version="1">15806104</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1997 Mar 28;272(13):8133-6</RefSource>
+                            <PMID Version="1">9079625</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Biochem. 1985;54:631-64</RefSource>
+                            <PMID Version="1">3896128</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 May 1;273(18):10914-8</RefSource>
+                            <PMID Version="1">9556568</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2007 Sep;86(9):2020-8</RefSource>
+                            <PMID Version="1">17704393</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1992 Sep 15;89(18):8487-91</RefSource>
+                            <PMID Version="1">1528852</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem J. 2004 Mar 15;378(Pt 3):1007-14</RefSource>
+                            <PMID Version="1">14670076</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biochem. 2013 Mar;375(1-2):115-30</RefSource>
+                            <PMID Version="1">23212449</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1995 Nov 7;92(23):10678-82</RefSource>
+                            <PMID Version="1">7479864</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2002 May 31;277(22):19946-51</RefSource>
+                            <PMID Version="1">11889131</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Sci. 1999 Oct;112 ( Pt 20):3433-41</RefSource>
+                            <PMID Version="1">10504292</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 1998 Jun;120(2):317-23</RefSource>
+                            <PMID Version="1">9773510</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Regul. 1991 Nov;2(11):951-64</RefSource>
+                            <PMID Version="1">1725602</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Development. 1988 Apr;102(4):639-55</RefSource>
+                            <PMID Version="1">3048970</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Opin Struct Biol. 2012 Oct;22(5):583-90</RefSource>
+                            <PMID Version="1">22841476</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2012 Feb 23;482(7386):524-8</RefSource>
+                            <PMID Version="1">22358842</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Am J Physiol Cell Physiol. 2010 Apr;298(4):C831-46</RefSource>
+                            <PMID Version="1">19923420</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2002 Dec 20;277(51):49296-303</RefSource>
+                            <PMID Version="1">12377772</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 1988 Mar;106(3):945-52</RefSource>
+                            <PMID Version="1">3346331</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Mol Cell Biol. 2003 Dec;4(12):926-37</RefSource>
+                            <PMID Version="1">14685171</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Cell. 1999 Oct;10(10):3489-505</RefSource>
+                            <PMID Version="1">10512882</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Cell Dev Biol. 2010;26:89-114</RefSource>
+                            <PMID Version="1">20565253</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Neuron. 2013 Aug 7;79(3):478-91</RefSource>
+                            <PMID Version="1">23931997</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Morphol. 1989 Jul;201(1):85-103</RefSource>
+                            <PMID Version="1">2746647</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Differentiation. 2001 Oct;68(4-5):245-53</RefSource>
+                            <PMID Version="1">11776477</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1987 May;84(10):3194-8</RefSource>
+                            <PMID Version="1">3472204</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biochem. 2016 Jan;412(1-2):181-95</RefSource>
+                            <PMID Version="1">26715133</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2003 Apr 18;278(16):13795-802</RefSource>
+                            <PMID Version="1">12571249</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 1999 Nov;78(11):1619-26</RefSource>
+                            <PMID Version="1">10560838</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Poult Sci. 2014 Oct;93(10):2622-7</RefSource>
+                            <PMID Version="1">25085937</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1999 Aug 13;285(5430):1028-32</RefSource>
+                            <PMID Version="1">10446041</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Development. 1997 Oct;124(20):4113-20</RefSource>
+                            <PMID Version="1">9374407</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Growth Differ. 1999 May;10(5):343-52</RefSource>
+                            <PMID Version="1">10359015</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1991 Mar 22;251(5000):1451-5</RefSource>
+                            <PMID Version="1">2006419</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2000 Feb 18;275(7):4599-606</RefSource>
+                            <PMID Version="1">10671486</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Skelet Muscle. 2014 Feb 12;4(1):5</RefSource>
+                            <PMID Version="1">24517345</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2001 Jan 19;276(3):2168-73</RefSource>
+                            <PMID Version="1">11036075</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Am J Physiol Cell Physiol. 2008 Feb;294(2):C627-40</RefSource>
+                            <PMID Version="1">18045857</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Genet. 2006 Feb;38(2):228-33</RefSource>
+                            <PMID Version="1">16380711</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1995 Nov 10;270(45):27127-35</RefSource>
+                            <PMID Version="1">7592967</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 2006 Jan 16;172(2):259-68</RefSource>
+                            <PMID Version="1">16401722</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Circ Res. 1998 Feb 9;82(2):157-65</RefSource>
+                            <PMID Version="1">9468186</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>FASEB J. 1996 Apr;10(5):598-614</RefSource>
+                            <PMID Version="1">8621059</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1999 Dec 31;274(53):37876-84</RefSource>
+                            <PMID Version="1">10608853</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Mol Cell Biol. 2013 Aug;14(8):475-88</RefSource>
+                            <PMID Version="1">23800994</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell. 1992 Apr 3;69(1):11-25</RefSource>
+                            <PMID Version="1">1555235</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Signal. 2009 Nov;21(11):1548-58</RefSource>
+                            <PMID Version="1">19427900</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochim Biophys Acta. 2004 Jul 5;1692(2-3):103-19</RefSource>
+                            <PMID Version="1">15246682</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Biol Int. 2012 May 1;36(5):433-40</RefSource>
+                            <PMID Version="1">22272563</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Opin Cell Biol. 2001 Oct;13(5):578-83</RefSource>
+                            <PMID Version="1">11544026</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Mol Cell Biol. 2007 Dec;8(12):957-69</RefSource>
+                            <PMID Version="1">17971838</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Am J Physiol Regul Integr Comp Physiol. 2001 Jul;281(1):R302-9</RefSource>
+                            <PMID Version="1">11404306</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Differentiation. 2017 Jan - Feb;93:15-26</RefSource>
+                            <PMID Version="1">27689814</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Glycoconj J. 2002 May-Jun;19(4-5):305-13</RefSource>
+                            <PMID Version="1">12975609</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 1993 Feb;91(2):379-87</RefSource>
+                            <PMID Version="1">7679406</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1997 Jul 18;272(29):18418-24</RefSource>
+                            <PMID Version="1">9218485</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nucleic Acids Res. 2008 May;36(8):2690-9</RefSource>
+                            <PMID Version="1">18353861</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Dev Growth Differ. 2011 Jan;53(1):97-109</RefSource>
+                            <PMID Version="1">21261615</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Biochem Cell Biol. 2014 Jan;46:103-12</RefSource>
+                            <PMID Version="1">24275095</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell. 2008 Oct 10;32(1):140-9</RefSource>
+                            <PMID Version="1">18851840</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Sci. 1999 Oct;112 ( Pt 20):3421-31</RefSource>
+                            <PMID Version="1">10504291</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Sci. 2004 Oct 15;117(Pt 22):5393-404</RefSource>
+                            <PMID Version="1">15466890</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 1996 Apr;133(2):405-16</RefSource>
+                            <PMID Version="1">8609172</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biol. 2006 Jul 17;174(2):277-88</RefSource>
+                            <PMID Version="1">16847103</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Circ Res. 1999 May 14;84(9):980-8</RefSource>
+                            <PMID Version="1">10325235</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Differentiation. 2012 Nov;84(4):314-21</RefSource>
+                            <PMID Version="1">23023067</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">glypican-1</Keyword>
+                        <Keyword MajorTopicYN="N">microRNA</Keyword>
+                        <Keyword MajorTopicYN="N">muscle</Keyword>
+                        <Keyword MajorTopicYN="N">satellite cell</Keyword>
+                        <Keyword MajorTopicYN="N">syndecan-4</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2017</Year>
+                            <Month>04</Month>
+                            <Day>11</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>07</Month>
+                            <Day>25</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28848451</ArticleId>
+                        <ArticleId IdType="doi">10.3389/fphys.2017.00577</ArticleId>
+                        <ArticleId IdType="pmc">PMC5550705</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

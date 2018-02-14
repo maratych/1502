@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480421/?report=classic</prop>
+        <prop name="date">2017-10-01</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <TITLE>The history and future of targeting cyclin-dependent kinases in cancer therapy</TITLE>
+    <BODY>
+        <ITEM>
+            <ITEM_TITLE>
+                The history and future of targeting cyclin-dependent kinases in cancer therapy
+            </ITEM_TITLE>
+            <ITEM_AUTHORS>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Uzma Asghar</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>2</AUTH_REF>
+                    <AUTH_NAME>Agnieszka K. Witkiewicz</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>3</AUTH_REF>
+                    <AUTH_NAME>Nicholas C. Turner</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>2</AUTH_REF>
+                    <AUTH_NAME>Erik S. Knudsen</AUTH_NAME>
+                </AUTHOR>
+            </ITEM_AUTHORS>
+            <AUTHOR_INFORMATION>
+                <AUTH_INFO>
+                    <INFO_VALUE>
+                        1Breakthrough Breast Cancer Research Centre, Chester Beatty Laboratories, Institute of Cancer Research, London, SW3 6JB, UK 2Simmons Cancer Center and Department of Pathology, University of Texas Southwestern, Dallas, USA 3Institute of Cancer Research and Royal Marsden NHS Foundation Trust Breast Cancer Unit, London, SW3 6JJ, UK Correspondence to E.S.K. ude.nretsewhtuostu@nesdunk.kire
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>1</INFO_REF>
+                    <INFO_VALUE>
+                        Breakthrough Breast Cancer Research Centre, Chester Beatty Laboratories, Institute of Cancer Research, London, SW3 6JB, UK
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>2</INFO_REF>
+                    <INFO_VALUE>
+                        Simmons Cancer Center and Department of Pathology, University of Texas Southwestern, Dallas, USA
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>3</INFO_REF>
+                    <INFO_VALUE>
+                        Institute of Cancer Research and Royal Marsden NHS Foundation Trust Breast Cancer Unit, London, SW3 6JJ, UK
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_VALUE>Correspondence to E.S.K. ude.nretsewhtuostu@nesdunk.kire</INFO_VALUE>
+                </AUTH_INFO>
+            </AUTHOR_INFORMATION>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4480421/?report=classic</ITEM_LINK>
+            <ITEM_DATE>2015-02-01</ITEM_DATE>
+            <ITEM_BODY>
+                <P>Abstract</P>
+                <P>
+                    Cancer represents a pathological manifestation of uncontrolled cell division; therefore, it has long been anticipated that our understanding of the basic principles of cell cycle control would result in effective cancer therapies. In particular, cyclin-dependent kinases (CDKs) that promote transition through the cell cycle were expected to be key therapeutic targets because many tumorigenic events ultimately drive proliferation by impinging on CDK4 or CDK6 complexes in the G1 phase of the cell cycle. Moreover, perturbations in chromosomal stability and aspects of S phase and G2/M control mediated by CDK2 and CDK1 are pivotal tumorigenic events. Translating this knowledge into successful clinical development of CDK inhibitors has historically been challenging, and numerous CDK inhibitors have demonstrated disappointing results in clinical trials. Here, we review the biology of CDKs, the rationale for therapeutically targeting discrete kinase complexes and historical clinical results of CDK inhibitors. We also discuss how CDK inhibitors with high selectivity (particularly for both CDK4 and CDK6), in combination with patient stratification, have resulted in more substantial clinical activity.
+                </P>
+                <P>The biology of CDKs</P>
+                <P>Integration of multiple signalling pathways through control of CDK4 and CDK6 activation</P>
+                <P>
+                    An understanding of the biology of CDKs is critical to deciphering the clinical results seen with CDK inhibitors, particularly in regard to determining biomarker and combination strategies. In most adult tissues, the majority of cells exit the cell cycle with diploid DNA content and are maintained in a quiescent G0 state. Tissue maintenance involves cues that physiologically induce cell cycle entry in a highly regulated manner. The mechanisms through which cells initiate entry into the cell cycle have been comprehensively described. Extracellular signals — including those activated by peptide growth factors (for example, RAS, mitogen-activated protein kinase (MAPK) and mammalian target of rapamycin (mTOR)) and nuclear receptors (for example, the oestrogen receptor (ER) in mammary epithelia) — converge on the cell cycle to drive progression from G0 or G1 phase into S phase through regulation of the metazoan-specific CDK4 or CDK6 complex2,3,12,13. CDK4 and CDK6 emerged phylogenetically with the appearance of multicellular organisms, and are subjected to multiple levels of regulation to control the transition into S phase. CDK4 and CDK6 are structurally related proteins that harbour many biochemical and biological similarities, although most published studies have focused on CDK4 (REF. 14). CDK6 is particularly important in promoting the proliferation of haematological precursors15,16.
+                </P>
+                <P>
+                    The activity of CDK4 and CDK6 is primarily controlled by their association with D-type cyclins (that is, cyclin D1, cyclin D2 and cyclin D3)17,18. Among these, cyclin D1 is the best characterized. The expression of cyclin D1 is characterized as a ‘delayed-early’ response to mitogenic signalling, and intricate promoter and enhancer interactions control its transcription19. Although less well studied, cyclin D3 conforms to a similar pattern as cyclin D1, whereas the regulation of cyclin D2 remains more enigmatic, although cyclin D2 also drives proliferation in certain contexts20-24. The differential expression of paralogues of D-type cyclins is likely to reflect tissue-specific aspects of normal physiology, wherein different D-type cyclins are expressed to promote CDK4 or CDK6 activation3,25.
+                </P>
+                <P>
+                    In addition to the transcriptional regulation of CDK4 and CDK6, the stability, intracellular localization and association of cyclin D with CDK4 and CDK6 are tightly regulated (FIG. 2a). In particular, cyclin D1 is unstable and actively shuttles between the cytoplasm and the nucleus. Phosphorylation of threonine 286 on cyclin D1 actively promotes its export and ubiquitinmediated degradation26,27. In contrast to other CDKs, for which cyclin association seems to occur relatively spontaneously, for CDK4 and CDK6 this process is regulated by multiple mechanisms28. The inhibitor of CDK4 (INK4) proteins, which include p16INK4A, p15INK4B, p18INK4C and p19INK4D, represent CDK4- and CDK6-interacting proteins that seem to solely function as inhibitors of CDK4 and CDK6 (REFS 3,29,30). The INK4 proteins weaken the binding of D-type cyclins to CDK4 and CDK6, and also interact with the catalytic domains of CDK4 and CDK6 to potently suppress kinase activity14,31,32. These proteins therefore negatively regulate CDK4 and CDK6 in response to stress conditions33. For example, p16INK4A is induced by multiple oncoproteins to counteract transformation. Moreover, under stress conditions associated with cellular ageing34, overexpression of p16INK4A results in a profound G1 arrest of the cell cycle. Similarly, p15INK4B is induced by transforming growth factor-β-mediated suppression of epithelial cell proliferation35. CDK4 and CDK6, similar to other CDK proteins, are also subjected to phosphoregulation36,37. Thus, CDK4 and CDK6 serve as key nodes of integration downstream of multiple signalling pathways, in which their activation initiates progression into the cell cycle (FIG. 2a).
+                </P>
+                <P>
+                    The association of D-type cyclins with CDK4 and CDK6 can induce kinase activity with a unique substrate spectrum compared with other CDKs38. In particular, CDK4 and CDK6 have a specific preference for the phosphorylation of the tumour suppressor retinoblastoma protein (RB) and the related proteins p107 (also known as RBL1) and p130 (also known as RBL2)39,40 (FIG. 2b). RB, the first tumour suppressor identified, has been extensively studied41,42. The RB protein does not have catalytic activity but functions through the assembly of multiprotein complexes to control the cell cycle. In particular, RB can bind to the E2F transcription factors, recruit co-repressors and repress the transcription of target genes that are regulated by E2Fs41,42 (FIG. 2b). The E2Fs regulate the expression of a set of genes involved in cell cycle control (for example, cyclin E (CCNE), CCNA and CCNB1), dNTP biosynthesis (for example, dihydrofolate reductase (DHFR), ribonucleotide reductase M1 (RRM1) and RRM2) and mitotic progression (for example, polo-like kinase 1 (PLK1), BUB1 mitotic checkpoint serine/threonine kinase (BUB1) and spindle checkpoint protein MAD2 (MAD2)). The phosphorylation of RB by CDK4 and CDK6 initiates an intricate process of phosphorylation-mediated disruption of RB function that releases E2F and initiates subsequent progression through the cell cycle (FIG. 2c). CDK4 and CDK6 also phosphorylate forkhead box protein M1 (FOXM1), leading to stabilization of FOXM1 as a further mediator in the expression of genes required for progression though mitosis38 (FIG. 3).
+                </P>
+                <P>Deregulation of the CDK4/6-RB-p16INK4A pathway in cancer</P>
+                <P>
+                    The CDK4/6–RB axis is critical to cell cycle entry; therefore, it is unsurprising that the vast majority of cancers subvert this axis to promote proliferation2,42,43 (FIG. 4). Most oncogenes promote the induction of p16INK4A as an intrinsic break to deregulated proliferation34,44-46. Overexpression of p16INK4A ultimately engages RB to suppress growth and cell cycle progression, and promotes oncogene-induced senescence. Oncogene-induced senescence must be subverted to enable subsequent oncogenic proliferation, which occurs through two principal means in tumours: loss of p16INK4A or loss of RB29,47. Loss of p16INK4A uncouples the oncogenic stress from the suppression of CDK4 or CDK6 activity, whereas loss of RB deregulates downstream signalling in the cell cycle. Consistent with this model, RB is required for the cell cycle arrest mediated by p16INK4A (REFS 48,49). In addition, RB-negative tumours express super-physiological levels of p16INK4A and are therefore insensitive to additional expression of p16INK4A owing to the absence of RB29.
+                </P>
+                <P>
+                    A contrasting mechanism of deregulating the CDK4/6–RB axis is the direct oncogenic activation of CDK4 or CDK6 activity. Deregulated cyclin D1 protein expression, gene translocation and gene amplification are observed in many tumour types50-54, and a plethora of functional data support the specific oncogenic activity of cyclin D1 (REFS 17,18,51). Furthermore, amplification of CDK4 and CDK6 is observed in several different types of cancer55,56. Importantly, the distinct mechanisms of pathway dysregulation are mutually exclusive and are frequently tumour type-specific. For example, RB loss is a hallmark of small cell lung cancer, deregulation of cyclin D1 is common in breast cancer, and loss of p16INK4A is particularly common in glioblastoma (FIG. 4).
+                </P>
+                <P>Distal regulation of CDK2 and its deregulation in cancer</P>
+                <P>
+                    Although all CDKs have similarities, CDK2 is structurally and functionally related to CDK1 (REF. 3). CDK2 has a considerably broader substrate profile than CDK4 and CDK6, and it phosphorylates a large number of proteins involved in cell cycle progression (for example, p27KIP1 and RB), DNA replication (for example, replication factors A and C), histone synthesis (for example, NPAT), centrosome duplication (for example, nucleophosmin (NPM)), among other processes57-59 (FIG. 3). In vitro, CDK2 and its preferred E-type and A-type cyclin partners assemble spontaneously to form active kinase complexes3,60. Much of the control over CDK2 involves the synthesis and availability of the cyclins, with RB and E2F regulating the abundance of CDK2, cyclin E1 and cyclin E2 transcripts and proteins61-65. This process couples mitogen-mediated activation of CDK4 and CDK6 with the activation of CDK2 (REFS 66,67) (FIG. 2c). In contrast to CDK4 and CDK6, CDK2 is not regulated by INK4 proteins30,68 but by the CDK-interacting protein/kinase inhibitory protein (CIP/KIP) class of CDK inhibitors, which bind to CDK2–cyclin complexes and render them inactive60,69-71. For example, p21CIP1 acts as a DNA damage checkpoint (it is a critical downstream target gene of p53 that inhibits DNA synthesis), whereas p27KIP1 is responsive to mitogenic signalling as a further control on deregulated proliferation71,72. Additionally, CDK2 is regulated by phosphorylation events73. Therefore, multiple mechanisms in addition to the CDK4/6–RB axis can modulate the activity of CDK2 and subsequent DNA replication.
+                </P>
+                <P>
+                    Recently, it has become clear that deregulation of CDK2 also occurs frequently in certain types of cancer74. Cyclin E1 or cyclin E2 amplifications are key oncogenic events in multiple cancers, particularly in uterine and ovarian cancers75-77 (FIG. 4). Ectopic expression of cyclin E bypasses the need for CDK4 or CDK6 activity to initiate the S phase78-80, and it is therefore assumed that amplification of E-type cyclins may be oncogenic in a similar manner (that is, bypassing the physiological requirement for CDK4 or CDK6 activity to initiate expression of E-type cyclins). The CDK inhibitor p27KIP1 is downregulated in many cancers, although the genetic loss of p27KIP1 is fairly rare81,82.
+                </P>
+                <P>CDK1 is a key determinant of mitotic progression</P>
+                <P>
+                    CDK1 was cloned on the basis of complementarity to the cdc2 gene of Schizosaccharomyces pombe83. The expression of CDK1 and associated cyclins (cyclin A2 and cyclin B1) is coordinated through the activity of E2F-assembled complexes63,65. These include the canonical E2F and RB constituents, as well as the transcription factor FOXM1 and the DREAM (dimerization partner, RB-like, E2F and multivulval class B) complex, which are particularly relevant for the coordination of transcripts involved in mitotic progression84-86. The cyclins that assemble with CDK1 are intrinsically unstable and are regulated by ubiquitin-mediated degradation mechanisms, and the assembly and localization of CDK1 complexes are regulated by multiple overlapping mechanisms87-90.
+                </P>
+                <P>
+                    Mouse knockout experiments have shown that CDK1 is required for mammalian cell proliferation; it is the only CDK that can initiate the onset of mitosis (that is, the M phase)91. Premature initiation of mitosis before completion of the S phase results in chromosomal shattering and cell death92. Multiple factors restrain the activity of CDK1 until DNA replication is complete and there is minimal DNA damage. This integration of DNA replication and CDK1 activity is mediated by checkpoint signalling kinases such as CHK1 and WEE1, which suppress the activity of CDK1 via inhibitory phosphorylation93, as well as through the cell division cycle 25 (CDC25) family of phosphatases. At the onset of mitosis, activation of CDK1 occurs rapidly through a positive feedback loop whereby CDK1 phosphorylates and inactivates WEE1. CDK1 subsequently phosphorylates multiple substrates, leading to nuclear envelope breakdown, chromosome condensation and mitotic spindle assembly94 (FIG. 3). The subsequent progression from metaphase to anaphase is controlled by the spindle assembly checkpoints, and progression through anaphase is dependent on the attenuation of CDK1 activity through the degradation of cyclin B1 by the anaphase-promoting complex95,96.
+                </P>
+                <P>
+                    Interestingly, in contrast to the genetic deregulation of the CDKs that coordinate the S phase, there is limited evidence to show that CDK1 activity is dysregulated by direct genetic alteration in tumorigenesis. Derangement of p53 signalling or of DNA damage checkpoints indirectly leads to the deregulation of CDK1 (REFS 97,98), and high cyclin B1 expression is generally associated with a more aggressive cancer phenotype99,100. However, the requirement that CDK1 activity must be attenuated to exit mitosis and the lethal aspects of uncoordinated CDK1 activity are likely to limit its potential as a direct oncogenic driver.
+                </P>
+                <P>The role of cell cycle-independent CDKs</P>
+                <P>
+                    In addition to the well-known CDKs involved in regulating the cell cycle, there is an equivalent number of CDKs involved in basal transcriptional regulation3,10,11 (FIG. 3). In particular, CDK8 is part of the mediator complex that regulates a plethora of genes101,102. CDK7 has a general role in the phosphorylation of the RNA polymerase II carboxyterminal domain that contributes to the initiation of transcription103, and CDK9 also phosphorylates RNA polymerase II, thereby promoting elongation of transcription. Finally, CDK11 acts on the splicing machinery. In each of these contexts, the CDK activity is directed by specific cyclin interactions. Accumulating evidence suggests that these transcription-regulating CDKs may represent therapeutic targets in cancer.
+                </P>
+                <P>
+                    In addition to the CDKs involved in transcriptional regulation, there remains a class of CDKs, including CDK3 and CDK5, for which the underlying functions are elusive. CDK3 was found to be intrinsically important for cell cycle control based on cell-based experiments that used a dominant-negative version of CDK3 (REF. 72) (FIG. 3). However, it was subsequently revealed that many mouse strains harbour an inactive CDK3, suggesting that its role in the cell cycle can be readily compensated104. CDK5 was largely viewed as a neuronal kinase implicated in the protection of the nervous system from injury105. However, recent work suggests that it harbours many functions similar to CDK4 and CDK2 in driving progression from G1–S and in RB phosphorylation in medullary thyroid cancer models106. CDK5 might therefore have potential as a therapeutic target in this thyroid cancer subtype106.
+                </P>
+                <P>Development of pan-CDK inhibitors</P>
+                <P>The first generation of CDK inhibitors</P>
+                <P>
+                    Over the past 20 years, several CDK inhibitors have been developed as potential cancer therapeutics and tested in numerous trials and in several tumour types (FIG. 5). The first-generation CDK inhibitors developed were relatively nonspecific and may therefore be referred to as ‘pan-CDK’ inhibitors (an example of which is flavopiridol (also known as alvocidib; developed by Sanofi-Aventis), although some compounds, such as olomucine (not commercially developed) and roscovitine (also known as seliciclib; developed by Cyclacel), have relatively low affinity for CDK4 and CDK6). As the field of CDK biology progressed in parallel with the development of these agents, our understanding of their targets and interpretation of their behaviour have also evolved. For example, it was initially believed that roscovitine was a relatively specific inhibitor of CDK1, CDK2 and CDK5; however, subsequent data demonstrated that it also inhibited transcription, probably through the inhibition of CDK7 and CDK9 (REF. 107).
+                </P>
+                <P>
+                    Of these first-generation inhibitors, flavopiridol is the most extensively investigated CDK inhibitor so far, with &gt;60 clinical trials carried out between 1998 and 2014 (see Supplementary information S1 (box)). Flavopiridol is a semi-synthetic flavonoid derived from rohitukine, a chromone alkaloid, and has been shown to inhibit CDK1, CDK2, CDK4, CDK6, CDK7 and CDK9 (REFS 108,109). Although flavopiridol can induce cell cycle arrest in G1 and G2 phases, in certain contexts it also induces a cytotoxic response, probably as a result of CDK7 and CDK9 inhibition that leads to suppression of transcription110. Although the underlying broad-spectrum nature of flavopiridol results in substantial in vitro activity, substantially less activity was observed in vivo110. Consequently, flavopiridol did not meet the initial high expectations for a CDK inhibitor, and low levels of clinical activity were seen in Phase II studies in several solid tumour types (see Supplementary information S1 (box)). There is evidence to indicate that flavopiridol may have clinical activity in haematological malignancies, such as chronic lymphocytic leukaemia (CLL) and mantle cell lymphoma111,112, in which scheduling also seems to influence flavopiridol efficacy. For example, a relatively short infusion time (4 hours) resulted in response rates of 41% in 22 assessable patients with CLL113,114. Patients with a high disease burden and high-risk genetic features achieved durable responses, and tumour lysis syndrome was reported in approximately 40% of patients with CLL treated with flavopiridol115. Despite these reports and extensive investment, no Phase III studies have emerged and drug development of flavopiridol was consequently discontinued in 2012.
+                </P>
+                <P>
+                    In parallel with flavopiridol, roscovitine, a purine-based CDK inhibitor, was among the first agents to be evaluated in the clinic (see Supplementary information S1 (box)). Of the 56 patients treated in the Phase I setting, 1 patient achieved a partial response116. A subsequent blinded, randomized Phase II trial (APPRAISE) that compared roscovitine with the best supportive care was performed in patients with advanced non-small cell lung cancer. The APPRAISE study was terminated after 187 patients were enrolled; although results were never published, roscovitine did not seem to improve progression-free survival in this patient population (see Cyclacel press release). Currently, only a single trial is ongoing for roscovitine in Cushing disease.
+                </P>
+                <P>Second-generation inhibitors of multiple CDKs</P>
+                <P>
+                    Following on from flavopiridol and roscovitine, other CDK inhibitors were developed with the aim of increasing selectivity for CDK1 and CDK2 and/or increasing overall potency (FIG. 5). Again, numerous CDK inhibitors seemed to be particularly promising in preclinical studies, but only a few progressed past Phase I clinical trials117-120 (see Supplementary information S1 (box)).
+                </P>
+                <P>
+                    Of these second-generation CDK inhibitors, dinaciclib (also known as MK-7965 and SCH727965; developed by Merck) has been most extensively studied in the clinic. Dinaciclib was specifically developed as a highly potent inhibitor of CDK1, CDK2, CDK5 and CDK9 (half-maximal inhibitory concentration (IC50) values in the range of 1–4 nM), with less activity against CDK4, CDK6 and CDK7 (IC50 values in the range of 60–100 nM). Compared to flavopiridol, dinaciclib exhibited superior activity with regard to suppression of RB phosphorylation in cell-based assays118. Moreover, dinaciclib inhibited cell cycle progression in &gt;100 tumour cell lines of various tumour types and induced the regression of established solid tumours in a range of mouse models118. Initial results from Phase I studies were promising: dinaciclib induced stable disease in a range of malignancies and displayed tolerable toxicity121. However, results from recent randomized Phase II trials of dinaciclib in solid tumours have been disappointing. A randomized Phase II trial of dinaciclib versus the chemotherapeutic agent capecitabine in advanced breast cancer was stopped after 30 patients were enrolled because interim analysis showed that the time to disease progression was inferior with dinaciclib treatment122. In a study evaluating dinaciclib monotherapy in patients with non-small cell lung cancer, dinaciclib showed no activity in previously treated patients123. In adult patients with advanced acute myeloid leukaemia (patients ≥60 years of age) or acute lymphoblastic leukaemia, no objective responses were observed with dinaciclib124. However, in patients with relapsed multiple myeloma, preliminary encouraging single-agent activity was reported in a Phase I/II trial, with 2 patients of 27 achieving partial responses125, and dinaciclib, similar to flavopiridol, demonstrated clinical activity in pretreated patients with CLL126. Based on these data, a randomized Phase III study of dinaciclib in refractory CLL is ongoing. Therefore, dinaciclib may prove useful in the treatment of certain haematological malignancies, in which flavopiridol also had evidence of activity.
+                </P>
+                <P>
+                    Other CDK inhibitors include AT7519 (developed by Astex), a pyrazole 3-carboxyamide compound that acts as an inhibitor of CDK1, CDK2, CDK4, CDK6 and CDK9. AT7519 has been evaluated in combination with bortezomib in a Phase II clinical trial enrolling patients with previously treated multiple myeloma. The combination was well tolerated, and more than one-third of patients achieved partial response127. R547 (developed by Hoffman-La Roche) is an inhibitor of CDK1, CDK2 and CDK4 with less potency for CDK7, glycogen synthase kinase 3α (GSK3α) and GSK3β. R547 was tested in a Phase I study in 2007 as an intravenous weekly infusion128. Although reported to have manageable side effects, there have not been further clinical trials with this compound. SNS-032 (also known as BMS-387032; developed by Bristol-Myers Squibb), which was initially described as having greater selectivity for CDK2 than CDK1 and CDK4, is now recognized to also target CDK7 and CDK9. Two Phase I clinical studies with SNS-032, one in 2010 in advanced lymphoid malignancies129 and one in 2008 in selected advanced tumours130, have been reported, but no further developments are apparent. The development of AZD5438 (developed by Astra Zeneca) — an orally bioavailable, potent inhibitor of CDK1, CDK2 and CDK9 with less selectivity for CDK5 and CDK6 (REF. 131) — was discontinued after it was reported to be intolerable when administered continuously in patients with advanced solid tumours132. AG-024322 (developed by Pfizer) — a potent inhibitor of CDK1, CDK2 and CDK4 — was also discontinued in 2007 after the Phase I study was terminated, as it failed to achieve an acceptable clinical end point (see Supplementary information S1 (box)).
+                </P>
+                <P>Reasons for failure of CDK inhibitors with low selectivity</P>
+                <P>
+                    The general failure of non-selective CDK inhibitors in the clinic can be partly explained by at least three key underlying principles. First, there was a lack of clear understanding of the mechanism of action. For many of the CDK inhibitors with low specificity, there remains a lack of clarity with regard to which CDKs are actually being inhibited in vivo and therefore the corresponding mechanism that could underlie the therapeutic effect. For example, flavopiridol has been associated with diverse distal cellular effects, including cell cycle inhibition, transcriptional suppression, apoptosis, autophagy and endoplasmic reticulum stress133-135. This lack of understanding confounds the ability to develop these agents as targeted therapies and to design effective combination strategies.
+                </P>
+                <P>
+                    Second, there was a lack of appropriate patient selection. The vast majority of studies conducted with CDK inhibitors with low specificity were in unstratified patient cohorts. This is because there are essentially no biomarkers that may select for sensitive subpopulations for this class of inhibitors. The potential activity of both flavopiridol and dinaciclib in CLL and the rare ‘extraordinary’ responders suggest that there are molecular-based reasons that some tumours are vulnerable to such agents. Although the molecular underpinnings for these responses are unknown, it is tempting to speculate that the inhibition of CDKs that control transcription could underlie at least part of this activity.
+                </P>
+                <P>
+                    Third, there is a lack of a therapeutic window. Many of these CDK inhibitors target several proteins that are critical to the proliferation (for example, CDK1) and survival (for example, CDK9) of normal cells. This limits the ability to achieve therapeutic levels of these drugs because of their intrinsic inability to discriminate between cancerous and healthy tissues. Consistent with this point, the toxicities associated with non-selective CDK inhibitors include diarrhoea, myelosuppression, anaemia and nausea116,121,136.
+                </P>
+                <P>A case for selectivity of CDK inhibitors</P>
+                <P>
+                    The ascribed weaknesses of pan-CDK inhibitors suggest that improved selectivity for certain CDKs is the key to the successful development of CDK inhibitors as therapeutic cancer agents. Selective inhibitors of CDK2 might provide the ability to target genetic and/or driver events in tumours driven by cyclin E amplification. Emerging data suggest that targeting CDK1 is toxic in certain contexts, and it may be challenging to achieve a therapeutic window. For example, synthetic lethal screens against KRAS mutations have indicated a potential sensitivity to CDK1 knockdown, although follow-up studies are required137. Similarly, CDK1 or CDK9 inhibition is synthetically lethal with MYC138,139. Pharmacologically, CDK1 inhibitors seem to potently cooperate with inhibitors of poly(ADP-ribose) polymerase140 by compromising DNA repair pathways. An alternative strategy is to selectively target CDK7, CDK8 or CDK9, which are associated with basal transcription, because cancer cells may harbour unique vulnerabilities to selective suppression. CDK8 may function as an oncoprotein in colorectal cancer by regulating the transcription of β-catenin target genes141. A covalent inhibitor of CDK7 (THZ1), which is relatively specific for CDK7 compared with other CDKs, has shown activity in multiple cancer cell models142. Similarly, a specific inhibitor for CDK9 (CDKI-73) that exhibited activity in animal models of leukaemia was recently developed143.
+                </P>
+                <P>Targeted inhibition of CDK4 and CDK6</P>
+                <P>Rationale for targeting CDK4 and CDK6</P>
+                <P>
+                    Based on the myriad findings from mechanistic studies and studies of CDK4 and CDK6 deregulation in cancer, three important features and expectations arose for CDK4 and CDK6 inhibitors in the clinic. First, one would expect that a pure CDK4 or CDK6 inhibitor would elicit a single phenotype in tumours: cytostatic G0/G1 arrest. Second, this effect would be a direct reflection of the engagement of RB to suppress gene expression and proliferation. Third, such effects would be particularly actionable in tumours that exhibit deregulation of CDK4 and CDK6 activity as opposed to other CDKs. Initial data from mouse models seeded confusion as to whether CDK4 and CDK6 were therapeutic targets because many tissues in the mouse developed normally despite the absence of CDK4 and/or CDK6 (REFS 15,144) and in the absence of D-type cyclins145. These data reflected substantial compensatory plasticity with other CDKs. Despite uncertainties arising from the mouse knockout models, it subsequently became clear that attenuation of CDK4 and CDK6 activity could prevent the development of specific mouse tumour types. For example, cyclin D1 is crucial for the development of mammary tumours driven by HER2 (also known as ERBB2)146, and similar observations were obtained in NOTCH-driven T cell leukaemia mouse models147 and cell lines147,148.
+                </P>
+                <P>Pharmacological approaches</P>
+                <P>
+                    The development of selective inhibitors of both CDK4 and CDK6 has markedly changed the perception of CDKs as therapeutic targets in cancer. Through a combination of chemical screening and optimization, it was found that pyrido[2,3-d]pyrimidin-7-one compounds with a 2-amino pyridine side chain at the C2 position act as CDK inhibitors with a high degree of selectivity for CDK4 and CDK6 relative to other CDKs149 (FIG. 5). Subsequent optimization resulted in the compound PD-0332991 (also known as palbociclib; developed by Pfizer) that induced potent G1 arrest in cell culture and xenograft models150,151. As anticipated from the basic biology of G1–S transition, the effects of palbociclib were dependent on the presence of a functional RB protein, thus demonstrating a degree of biological specificity that had not been previously described for CDK inhibitors150,151. Subsequently, multiple independent groups have demonstrated that specific CDK4 and CDK6 inhibitors arrest the cell cycle through the downstream blockade of phosphorylation of RB, as well as the related p107 and p130 proteins. This blockade results in the loss of expression of S-phase cyclins, nucleotide biosynthesis, DNA replication machinery and mitotic regulatory genes152,153. Dual CDK4 and CDK6 inhibitors have been shown to be active in multiple preclinical models, including xenografts, genetically engineered mouse models and primary human tumour explants152,154-156 (TABLE 1). Parallel drug discovery efforts at Eli Lilly and Novartis resulted in the development of the drugs LY-2835219 (also known as abemaciclib) and LEE011, respectively157-162. Each drug is structurally similar and chemically distinct from the less specific pan-CDK inhibitors (FIG. 5). The selectivity of all of these compounds is likely to reflect binding to the specialized ATP-binding pocket of CDK4 and CDK6 and specific interactions with residues in the ATP-binding cleft, although this has not been proven by structural analysis. In contrast to other CDK4- and CDK6-selective compounds, abemaciclib inhibits CDK9 in in vitro kinase assays, although there is no evidence of functional inhibition in cellular models158.
+                </P>
+                <P>Single-agent clinical outcomes</P>
+                <P>
+                    There are numerous emerging clinical studies with dual CDK4 and CDK6 inhibitors (TABLE 2). Results from a Phase I study with palbociclib monotherapy indicated promising clinical efficacy and a well-tolerated toxicity profile in patients with RB-positive advanced solid tumours and non-Hodgkin lymphoma. Of the 33 patients enrolled and treated with palbociclib (once daily for 14 days followed by 7 days off), 1 patient with testicular cancer achieved a partial response and 9 patients achieved stable disease163. The anticipated cytostatic nature of dual CDK4 and CDK6 inhibitors resulted in prolonged stable disease duration of 18, 22 and 24 months in 3 men with growing teratoma syndrome with inoperable tumours164. In patients with relapsed mantle cell lymphoma (which exhibits frequent cyclin D1 amplification) receiving palbociclib monotherapy, 5 of the 17 patients had &gt;1 year progression-free survival, with 1 complete response and 2 partial responses165. A Phase II study in liposarcoma, a disease with frequent CDK4 amplification, also reported favourable progression-free rates in patients with CDK4 amplification and RB expression165,166. The recently reported Phase I study with LEE011 monotherapy in patients with advanced solid tumours demonstrated that LEE011 was well tolerated, with 2 confirmed partial responses and 40% of patients with stable disease167. Similarly, abemaciclib exhibited single-agent activity associated with delayed disease progression and particularly robust activity in metastatic ER-positive breast cancer, although data are from a relatively small study with one group of patients168. There are multiple ongoing Phase II trials evaluating dual CDK4 and CDK6 inhibitors as monotherapy in various tumour types (TABLE 2).
+                </P>
+                <P>
+                    These early trials defined several key clinical hallmarks of inducing CDK4 and CDK6 inhibition in patients with cancer. Most importantly, it seems that neutropaenia is the principal dose-limiting toxicity of palbociclib and LEE011. Although neutropaenia is a common side effect of cytotoxic agents, the neutropaenia associated with palbociclib and LEE011 is distinct in that it is rapidly reversible, reflecting a cytostatic effect on neutrophil precursors in the bone marrow. Consequently, both palbociclib and LEE011 are dosed intermittently to accommodate a break for haematological recovery167. Interestingly, abemaciclib exhibits more prominent gastrointestinal-associated toxicity, whereas neutropaenia is less evident, enabling continuous dosing. The reasons behind these observations and implications for future development remain unclear.
+                </P>
+                <P>Hormone therapy combination strategies</P>
+                <P>
+                    Preclinical investigation suggested that dual CDK4 and CDK6 inhibitors positively interact with other therapeutic agents. In particular, synergy was observed when palbociclib was combined with hormone therapy in ER-positive breast cancer cell lines, although the observed effects can range from additive to synergistic depending on the model155. Additionally, CDK4 and CDK6 inhibition has shown activity in multiple ER-positive breast cancer models that have acquired resistance to ER antagonists155,169,170. Importantly, resistance to endocrine therapy is associated with the deregulation of proliferation-associated genes that are regulated by the CDK4/6–RB-E2F axis, suggesting a basis for cooperativity in the clinic43,171. These observations triggered a series of randomized Phase II studies that have consequently transformed the CDK field.
+                </P>
+                <P>
+                    The PALOMA-1 Phase II clinical trial randomized 165 women with advanced ER-positive breast cancer into two treatment groups: the aromatase inhibitor letrozole versus letrozole plus palbociclib. Data from this trial showed that the combination of palbociclib plus letrozole elicited significant improvement in median progression-free survival compared with letrozole alone (20.2 months compared with 10.2 months; hazard ratio (HR) = 0.488 (95% CI: 0.319–0.748) and one-sided p = 0.0004). The overall survival analysis after 61 deaths demonstrated a trend in favour of the letrozole plus palbociclib combination (37.5 months versus 33.3 months, respectively; HR = 0.813; p = 0.2105)172-174. Consequently, palbociclib received Breakthrough Therapy designation by the US Food and Drug Administration in April 2013. ER-positive breast cancer is characterized by frequent dysregulation of CDK4 and CDK6 activity due to the overexpression and amplification of the gene encoding cyclin D1 (CCND1). Those cancers with amplification of CCND1 seemed to derive no greater benefit from palbociclib, an observation that is likely to reflect the central nature of cyclin D1 in promoting ER-positive breast cancer proliferation regardless of whether high CCND1 expression was due to amplification or other mechanisms.
+                </P>
+                <P>
+                    As a follow-up to these findings, multiple Phase II and III trials of combination therapies were initiated. The combination therapies tested each include a dual CDK4 and CDK6 inhibitor (abemaciclib, LEE011 or palbociclib) and a hormone therapy (letrozole, anastrazole or fulvestrant) (TABLE 2).
+                </P>
+                <P>CDK4 and CDK6 inhibitor biomarker strategies</P>
+                <P>
+                    Preclinical work has defined a series of biomarkers that may be used in the selection of tumours that may respond to dual CDK4 and CDK6 inhibitors. The most conservative and best supported of these markers is the direct assessment of the CDK4–RB–p16INK4A pathway. Data from multiple groups have demonstrated that RB is necessary for the arrest induced by CDK4 and CDK6 inhibition152-157,175,176, and loss of RB is therefore a marker of resistance to CDK4 and CDK6 inhibition. Loss of RB results in supra-physiological expression of p16INK4A, which may also be a biomarker of resistance. For example, high levels of p16INK4A are identified in malignancies caused by human papilloma virus, a virus that can inactivate RB in cervical and in head and neck cancers29,177. Whether dual assessment of RB loss and induction of p16INK4A expression is better than either biomarker alone is uncertain. There remains a considerable need to identify other predictive markers for tumours with CDK4 and/or CDK6 dependence or ‘addiction’ that can be selectively targeted. Examples of other predictive markers could be the amplification of cyclin D1 or CDK4 and CDK6, loss of p16INK4A or other genetic alterations leading to the deregulation of CDK4 or CDK6 activity. This concept has been incorporated into ‘basket trial’ designs with palbociclib (LUNG-MAP) and LEE011 (SIGNATURE), in which patients with specific signature mutations that would be expected to deregulate CDK4 and CDK6 activity can be enrolled for treatment with these inhibitors.
+                </P>
+                <P>The future of CDK4 and CDK6 inhibitors</P>
+                <P>
+                    Preclinical and clinical data suggest that dual CDK4 and CDK6 inhibitors could have broad-ranging efficacy in many cancer indications. Several questions have arisen from the published work regarding understanding which diseases would benefit the most from dual CDK4 and CDK6 inhibitors.
+                </P>
+                <P>
+                    One important question is how to determine whether an RB-proficient tumour benefits from CDK4 and CDK6 inhibition. In some tumour types, CDK4 and CDK6 inhibition has a surprisingly modest clinical effect despite molecular alterations indicating a robust response163,178. Some cancer types seem either to be innately resistant or to acquire rapid resistance to the effects of CDK4 and CDK6 inhibition. For example, CDK4 and CDK6 suppression seems to have little clinical effect in colorectal cancer, triple-negative breast cancer and melanomas. Therefore, such tumours would not benefit from monotherapy in the absence of potent combination strategies and robust predictive markers. In these cancers, other CDKs, particularly CDK2, are likely to compensate for selective CDK4 and CDK6 inhibition. However, the factors that determine whether other CDKs can compensate for CDK4 and CDK6 inhibition are poorly understood.
+                </P>
+                <P>
+                    Another question is how to optimize schedules for treatment. CDK4 and CDK6 inhibition antagonizes the effect of cytotoxic chemotherapy and radiotherapy because the vast majority of cytotoxic chemotherapies require cells to be cycling179-181. Despite this requirement, several studies are underway to evaluate scheduling with CDK4 and CDK6 inhibition, following the concept that release from CDK4 and CDK6 inhibition may synchronize cells and thereby sensitize cancer cells to a subsequent cytotoxic treatment, or may prevent ongoing proliferation or re-population of cancer cells between cytotoxic administrations182. Although such scheduling approaches have been shown to be potentially beneficial in preclinical models, translating this to the clinic, where proliferation rates of tumours are highly variable, will be challenging. A variation of this principle in patients with a known RB-inactivated cancer is the potential use of CDK4 and CDK6 inhibition to protect normal cells from the effect of chemotherapy or radiotherapy while rendering the tumour vulnerable179.
+                </P>
+                <P>
+                    Finally, it is important to determine ideal combinations. Considerable interest lies in the potential for combining CDK4 and CDK6 inhibitors with other targeted therapies. Substantial preclinical work has demonstrated that CDK4 and CDK6 inhibition may be synergistic with MEK inhibition in NRAS-positive melanoma183. Similarly, in pancreatic cancer, CDK4 and CDK6 inhibition is synergistic with inhibitors of insulin-like growth factor 1 receptor and mTOR184,185. Furthermore, in cancers with mutated phosphatidylinositol-4,5-bisphosphate 3-kinase (PI3K), catalytic subunit-α (PIK3CA), PI3K inhibitors may synergize with CDK4 and CDK6 inhibitors160. Studies with LEE011 have incorporated this CDK4 and CDK6 inhibitor into the triplet combinations with a PIK3CA inhibitor (BYL719) and letrozole (ClinicalTrials.gov identifier: {&quot;type&quot;:&quot;clinical-trial&quot;,&quot;attrs&quot;:{&quot;text&quot;:&quot;NCT01872260&quot;,&quot;term_id&quot;:&quot;NCT01872260&quot;}}NCT01872260), and the mTOR inhibitor everolimus with exemestane in ER-positive breast cancers ({&quot;type&quot;:&quot;clinical-trial&quot;,&quot;attrs&quot;:{&quot;text&quot;:&quot;NCT01857193&quot;,&quot;term_id&quot;:&quot;NCT01857193&quot;}}NCT01857193). Recently released data from a study in melanoma suggest that such rational combinations are effective and that CDK4 and CDK6 inhibition could represent a preferred combination agent with a range of targeted agents186.
+                </P>
+                <P>Conclusion</P>
+                <P>
+                    CDK complexes have critical roles in multiple aspects of biology, including proliferation control and transcription. After the generally disappointing results seen in clinical trials with non-selective CDK inhibitors, the importance of selectivity of compounds for specific CDKs and of patient selection is now widely accepted. The main challenges will be in the development of a suite of highly selective agents against specific CDKs, companion diagnostics that will enable the selection of appropriate patient populations, and a firm understanding of the intersection of pharmacology and biology that will provide the basis for rational drug combinations. Now, &gt;10 years after Hunt, Nurse and Hartwell were awarded the Nobel Prize for the identification of CDKs, the promise of their seminal studies is finally beginning to be realized.
+                </P>
+                <P>Supplementary Material</P>
+                <P>supll file</P>
+                <P>Acknowledgements</P>
+                <P>
+                    The authors thank their colleagues in the field for guidance, critical discussion and editorial advice related to the preparation of this manuscript. They also regret any omissions. N.C.T. acknowledges funding from the UK National Health Service to the Royal Marsden and the Institute of Cancer Research NIHR Biomedical Research Centre. E.S.K. acknowledges research funding from the US National Institutes of Health/National Cancer Institute (NIH/NCI) (CA129134 and CA188650). A.K.W. acknowledges research funding from the NIH/NCI (CA163863).
+                </P>
+                <P>Footnotes</P>
+                <P>Competing interests statement</P>
+                <P>The authors declare competing interests: see Web version for details.</P>
+                <P>SUPPLEMENTARY INFORMATION</P>
+                <P>See online article: S1 (box)</P>
+                <P>References</P>
+            </ITEM_BODY>
+            <CITATIONS>
+                <CIT>
+                    Nurse P, Masui Y, Hartwell L. Understanding the cell cycle. Nature Med. 1998;4:1103–1106. [PubMed]
+                </CIT>
+                <CIT>Sherr CJ. Cancer cell cycles. Science. 1996;274:1672–1677. [PubMed]</CIT>
+                <CIT>
+                    Lim S, Kaldis P. Cdks, cyclins and CKIs: roles beyond cell cycle regulation. Development. 2013;140:3079–3093. [PubMed]
+                </CIT>
+                <CIT>
+                    Malumbres M. Therapeutic opportunities to control tumor cell cycles. Clin. Transl. Oncol. 2006;8:399–408. [PubMed]
+                </CIT>
+                <CIT>
+                    Hunt T, Nasmyth K, Novak B. The cell cycle. Phil. Trans. R. Soc. B. 2011;366:3494–3497. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hunt T. Nobel Lecture. Protein synthesis, proteolysis, and cell cycle transitions. Biosci. Rep. 2002;22:465–486. [PubMed]
+                </CIT>
+                <CIT>
+                    Nurse PM. Nobel Lecture. Cyclin dependent kinases and cell cycle control. Biosci. Rep. 2002;22:487–499. [PubMed]
+                </CIT>
+                <CIT>Hartwell LH. Nobel Lecture. Yeast and cancer. Biosci. Rep. 2002;22:373–394. [PubMed]</CIT>
+                <CIT>
+                    Drapkin R, Roy G, Cho H, Akoulitchev S, Reinberg D. Human cyclin-dependent kinase-activating kinase exists in three distinct complexes. Proc. Natl Acad. Sci. USA. 1996;93:6488–6493. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Bregman DB, Pestell RG, Kidd VJ. Cell cycle regulation and RNA polymerase II. Front. Biosci. 2000;5:D244–D257. [PubMed]
+                </CIT>
+                <CIT>
+                    Nemet J, Jelicic B, Rubelj I, Sopta M. The two faces of Cdk8, a positive/negative regulator of transcription. Biochimie. 2014;97:22–27. [PubMed]
+                </CIT>
+                <CIT>
+                    Malumbres M, Barbacid M. To cycle or not to cycle: a critical decision in cancer. Nature Rev. Cancer. 2001;1:222–231. [PubMed]
+                </CIT>
+                <CIT>
+                    Rodgers JT, et al. mTORC1 controls the adaptive transition of quiescent stem cells from G0 to G(Alert) Nature. 2014;510:393–396. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Pavletich NP. Mechanisms of cyclin-dependent kinase regulation: structures of CDKs, their cyclin activators, and CIP and INK4 inhibitors. J. Mol. Biol. 1999;287:821–828. [PubMed]
+                </CIT>
+                <CIT>
+                    Malumbres M, et al. Mammalian cells cycle without the D-type cyclin-dependent kinases Cdk4 and Cdk6. Cell. 2004;118:493–504. [PubMed]
+                </CIT>
+                <CIT>
+                    Hu MG, et al. A requirement for cyclin-dependent kinase 6 in thymocyte development and tumorigenesis. Cancer Res. 2009;69:810–818. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Sherr CJ. D-type cyclins. Trends Biochem. Sci. 1995;20:187–190. [PubMed]</CIT>
+                <CIT>Diehl JA. Cycling to cancer with cyclin D1. Cancer Biol. Ther. 2002;1:226–231. [PubMed]</CIT>
+                <CIT>
+                    Matsushime H, Roussel MF, Ashmun RA, Sherr CJ. Colony-stimulating factor 1 regulates novel cyclins during the G1 phase of the cell cycle. Cell. 1991;65:701–713. [PubMed]
+                </CIT>
+                <CIT>
+                    Spofford LS, Abel EV, Boisvert-Adamo K, Aplin AE. Cyclin D3 expression in melanoma cells is regulated by adhesion-dependent phosphatidyl-inositol 3-kinase signaling and contributes to G1–S progression. J. Biol. Chem. 2006;281:25644–25651. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sicinski P, et al. Cyclin D2 is an FSH-responsive gene involved in gonadal cell proliferation and oncogenesis. Nature. 1996;384:470–474. [PubMed]
+                </CIT>
+                <CIT>
+                    Kushner JA, et al. Cyclins D2 and D1 are essential for postnatal pancreatic β-cell growth. Mol. Cell. Biol. 2005;25:3752–3762. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Yu Q, Ciemerych MA, Sicinski P. Ras and Myc can drive oncogenic cell proliferation through individual D-cyclins. Oncogene. 2005;24:7114–7119. [PubMed]
+                </CIT>
+                <CIT>
+                    Cooper AB, et al. A unique function for cyclin D3 in early B cell development. Nature Immunol. 2006;7:489–497. [PubMed]
+                </CIT>
+                <CIT>
+                    Ciemerych MA, et al. Development of mice expressing a single D-type cyclin. Genes Dev. 2002;16:3277–3289. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Diehl JA, Zindy F, Sherr CJ. Inhibition of cyclin D1 phosphorylation on threonine-286 prevents its rapid degradation via the ubiquitin-proteasome pathway. Genes Dev. 1997;11:957–972. [PubMed]
+                </CIT>
+                <CIT>
+                    Diehl JA, Cheng M, Roussel MF, Sherr CJ. Glycogen synthase kinase-3β regulates cyclin D1 proteolysis and subcellular localization. Genes Dev. 1998;12:3499–3511. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Cheng M, Sexl V, Sherr CJ, Roussel MF. Assembly of cyclin D-dependent kinase and titration of p27Kip1 regulated by mitogen-activated protein kinase kinase (MEK1) Proc. Natl Acad. Sci. USA. 1998;95:1091–1096. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Witkiewicz AK, Knudsen KE, Dicker AP, Knudsen ES. The meaning of p16INK4A expression in tumors: functional significance, clinical associations and future developments. Cell Cycle. 2011;10:2497–2503. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Serrano M, Hannon GJ, Beach D. A new regulatory motif in cell-cycle control causing specific inhibition of cyclin D/CDK4. Nature. 1993;366:704–707. [PubMed]
+                </CIT>
+                <CIT>
+                    Jeffrey PD, Tong L, Pavletich NP. Structural basis of inhibition of CDK-cyclin complexes by INK4 inhibitors. Genes Dev. 2000;14:3115–3125. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Russo AA, Tong L, Lee JO, Jeffrey PD, Pavletich NP. Structural basis for inhibition of the cyclin-dependent kinase Cdk6 by the tumour suppressor p16INK4a. Nature. 1998;395:237–243. [PubMed]
+                </CIT>
+                <CIT>
+                    Serrano M, Blasco MA. Putting the stress on senescence. Curr. Opin. Cell Biol. 2001;13:748–753. [PubMed]
+                </CIT>
+                <CIT>
+                    Serrano M, Lin AW, McCurrach ME, Beach D, Lowe SW. Oncogenic ras provokes premature cell senescence associated with accumulation of p53 and p16INK4a. Cell. 1997;88:593–602. [PubMed]
+                </CIT>
+                <CIT>
+                    Reynisdottir I, Polyak K, Iavarone A, Massague J. Kip/Cip and INK4 CDK inhibitors cooperate to induce cell cycle arrest in response to TGF-β Genes Dev. 1995;9:1831–1845. [PubMed]
+                </CIT>
+                <CIT>
+                    Terada Y, Tatsuka M, Jinno S, Okayama H. Requirement for tyrosine phosphorylation of Cdk4 in G1 arrest induced by ultraviolet irradiation. Nature. 1995;376:358–362. [PubMed]
+                </CIT>
+                <CIT>
+                    Bertero T, et al. CDC25A targeting by miR-483-3p decreases CCND-CDK4/6 assembly and contributes to cell cycle arrest. Cell Death Differ. 2013;20:800–811. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Anders L, et al. A systematic screen for CDK4/6 substrates links FOXM1 phosphorylation to senescence suppression in cancer cells. Cancer Cell. 2011;20:620–634. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kato J, Matsushime H, Hiebert SW, Ewen ME, Sherr CJ. Direct binding of cyclin D to the retinoblastoma gene product (pRb) and pRb phosphorylation by the cyclin D-dependent kinase CDK4. Genes Dev. 1993;7:331–342. [PubMed]
+                </CIT>
+                <CIT>
+                    Matsushime H, et al. D-type cyclin-dependent kinase activity in mammalian cells. Mol. Cell. Biol. 1994;14:2066–2076. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Wang JY, Knudsen ES, Welch PJ. The retinoblastoma tumor suppressor protein. Adv. Cancer Res. 1994;64:25–85. [PubMed]
+                </CIT>
+                <CIT>
+                    Burkhart DL, Sage J. Cellular mechanisms of tumour suppression by the retinoblastoma gene. Nature Rev. Cancer. 2008;8:671–682. [PubMed]
+                </CIT>
+                <CIT>
+                    Knudsen ES, Knudsen KE. Tailoring to RB: tumour suppressor status and therapeutic response. Nature Rev. Cancer. 2008;8:714–724. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Bartkova J, et al. Oncogene-induced senescence is part of the tumorigenesis barrier imposed by DNA damage checkpoints. Nature. 2006;444:633–637. [PubMed]
+                </CIT>
+                <CIT>
+                    Michaloglou C, et al. BRAFE600-associated senescence-like cell cycle arrest of human naevi. Nature. 2005;436:720–724. [PubMed]
+                </CIT>
+                <CIT>
+                    Burd CE, et al. Monitoring tumorigenesis and senescence in vivo with a p16INK4a-luciferase model. Cell. 2013;152:340–351. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    LaPak KM, Burd CE. The molecular balancing act of p16INK4a in cancer and aging. Mol. Cancer Res. 2014;12:167–183. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Lukas J, et al. Retinoblastoma-protein-dependent cell-cycle inhibition by the tumour suppressor p16. Nature. 1995;375:503–506. [PubMed]
+                </CIT>
+                <CIT>
+                    Lukas J, Bartkova J, Rohde M, Strauss M, Bartek J. Cyclin D1 is dispensable for G1 control in retinoblastoma gene-deficient cells independently of cdk4 activity. Mol. Cell. Biol. 1995;15:2600–2611. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Motokura T, et al. A novel cyclin encoded by a bcl1-linked candidate oncogene. Nature. 1991;350:512–515. [PubMed]
+                </CIT>
+                <CIT>
+                    Knudsen KE, Diehl JA, Haiman CA, Knudsen ES. Cyclin D1: polymorphism, aberrant splicing and cancer risk. Oncogene. 2006;25:1620–1628. [PubMed]
+                </CIT>
+                <CIT>
+                    Jiang W, et al. Amplification and expression of the human cyclin D gene in esophageal cancer. Cancer Res. 1992;52:2980–2983. [PubMed]
+                </CIT>
+                <CIT>
+                    Buckley MF, et al. Expression and amplification of cyclin genes in human breast cancer. Oncogene. 1993;8:2127–2133. [PubMed]
+                </CIT>
+                <CIT>
+                    Bartkova J, et al. Cyclin D1 protein expression and function in human breast cancer. Int. J. Cancer. 1994;57:353–361. [PubMed]
+                </CIT>
+                <CIT>
+                    Khatib ZA, et al. Coamplification of the CDK4 gene with MDM2 and GLI in human sarcomas. Cancer Res. 1993;53:5535–5541. [PubMed]
+                </CIT>
+                <CIT>
+                    Park S, et al. Aberrant CDK4 amplification in refractory rhabdomyosarcoma as identified by genomic profiling. Sci. Rep. 2014;4:3623. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Ma T, et al. Cell cycle-regulated phosphorylation of p220(NPAT) by cyclin E/Cdk2 in Cajal bodies promotes histone gene transcription. Genes Dev. 2000;14:2298–2313. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Okuda M, et al. Nucleophosmin/B23 is a target of CDK2/cyclin E in centrosome duplication. Cell. 2000;103:127–140. [PubMed]
+                </CIT>
+                <CIT>
+                    Sever-Chroneos Z, et al. Retinoblastoma tumor suppressor protein signals through inhibition of cyclin-dependent kinase 2 activity to disrupt PCNA function in S phase. Mol. Cell. Biol. 2001;21:4032–4045. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sherr CJ, Roberts JM. CDK inhibitors: positive and negative regulators of G1-phase progression. Genes Dev. 1999;13:1501–1512. [PubMed]
+                </CIT>
+                <CIT>
+                    Herrera RE, et al. Altered cell cycle kinetics, gene expression, and G1 restriction point regulation in Rb-deficient fibroblasts. Mol. Cell. Biol. 1996;16:2402–2407. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Zhu W, Giangrande PH, Nevins JR. E2Fs link the control of G1/S and G2/M transcription. EMBO J. 2004;23:4615–4626. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Markey MP, et al. Unbiased analysis of RB-mediated transcriptional repression identifies novel targets and distinctions from E2F action. Cancer Res. 2002;62:6587–6597. [PubMed]
+                </CIT>
+                <CIT>Moroy T, Geisen C, Cyclin E. Int. J. Biochem. Cell Biol. 2004;36:1424–1439. [PubMed]</CIT>
+                <CIT>
+                    Ren B, et al. E2F integrates cell cycle progression with DNA repair, replication, and G2/M checkpoints. Genes Dev. 2002;16:245–256. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>Sherr CJ. Cell cycle control and cancer. Harvey Lect. 2000;96:73–92. [PubMed]</CIT>
+                <CIT>
+                    Bartek J, Bartkova J, Lukas J. The retinoblastoma protein pathway in cell cycle control and cancer. Exp. Cell Res. 1997;237:1–6. [PubMed]
+                </CIT>
+                <CIT>
+                    Xiong Y, Zhang H, Beach D. Subunit rearrangement of the cyclin-dependent kinases is associated with cellular transformation. Genes Dev. 1993;7:1572–1583. [PubMed]
+                </CIT>
+                <CIT>
+                    el-Deiry WS, et al. WAF1, a potential mediator of p53 tumor suppression. Cell. 1993;75:817–825. [PubMed]
+                </CIT>
+                <CIT>
+                    Polyak K, et al. p27Kip1, a cyclin-Cdk inhibitor, links transforming growth factor-β and contact inhibition to cell cycle arrest. Genes Dev. 1994;8:9–22. [PubMed]
+                </CIT>
+                <CIT>
+                    Polyak K, et al. Cloning of p27Kip1, a cyclin-dependent kinase inhibitor and a potential mediator of extracellular antimitogenic signals. Cell. 1994;78:59–66. [PubMed]
+                </CIT>
+                <CIT>
+                    van den Heuvel S, Harlow E. Distinct roles for cyclin-dependent kinases in cell cycle control. Science. 1993;262:2050–2054. [PubMed]
+                </CIT>
+                <CIT>
+                    Wu CL, et al. Cables enhances cdk2 tyrosine 15 phosphorylation by Wee1, inhibits cell growth, and is lost in many human colon and squamous cancers. Cancer Res. 2001;61:7325–7332. [PubMed]
+                </CIT>
+                <CIT>
+                    Scaltriti M, et al. Cyclin E amplification/overexpression is a mechanism of trastuzumab resistance in HER2+ breast cancer patients. Proc. Natl Acad. Sci. USA. 2011;108:3761–3766. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Etemadmoghadam D, et al. Synthetic lethality between CCNE1 amplification and loss of BRCA1. Proc. Natl Acad. Sci. USA. 2013;110:19489–19494. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Karst AM, et al. Cyclin E1 deregulation occurs early in secretory cell transformation to promote formation of fallopian tube-derived high-grade serous ovarian cancers. Cancer Res. 2014;74:1141–1152. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kuhn E, Bahadirli-Talbott A, Shih IEM. Frequent CCNE1 amplification in endometrial intraepithelial carcinoma and uterine serous carcinoma. Mod. Pathol. 2014;27:1014–1019. [PubMed]
+                </CIT>
+                <CIT>
+                    Caldon CE, et al. Cyclin E2 overexpression is associated with endocrine resistance but not insensitivity to CDK2 inhibition in human breast cancer cells. Mol. Cancer Ther. 2012;11:1488–1499. [PubMed]
+                </CIT>
+                <CIT>
+                    Lukas J, et al. Cyclin E-induced S phase without activation of the pRB/E2F pathway. Genes Dev. 1997;11:1479–1492. [PubMed]
+                </CIT>
+                <CIT>
+                    Knudsen ES, Buckmaster C, Chen TT, Feramisco JR, Wang JY. Inhibition of DNA synthesis by RB: effects on G1/S transition and S-phase progression. Genes Dev. 1998;12:2278–2292. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Hershko DD. Cyclin-dependent kinase inhibitor p27 as a prognostic biomarker and potential cancer therapeutic target. Future Oncol. 2010;6:1837–1847. [PubMed]
+                </CIT>
+                <CIT>
+                    Chu IM, Hengst L, Slingerland JM. The CDK inhibitor p27 in human cancer: prognostic potential and relevance to anticancer therapy. Nature Rev. Cancer. 2008;8:253–267. [PubMed]
+                </CIT>
+                <CIT>
+                    Draetta G, Brizuela L, Potashkin J, Beach D. Identification of p34 and p13, human homologs of the cell cycle regulators of fission yeast encoded by cdc2+ and suc1+ Cell. 1987;50:319–325. [PubMed]
+                </CIT>
+                <CIT>
+                    Sadasivam S, Duan S, DeCaprio JA. The MuvB complex sequentially recruits B-Myb and FoxM1 to promote mitotic gene expression. Genes Dev. 2012;26:474–489. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sadasivam S, DeCaprio JA. The DREAM complex: master coordinator of cell cycle-dependent gene expression. Nature Rev. Cancer. 2013;13:585–595. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Wang IC, et al. Forkhead box M1 regulates the transcriptional network of genes essential for mitotic progression and genes encoding the SCF (Skp2-Cks1) ubiquitin ligase. Mol. Cell. Biol. 2005;25:10875–10894. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Draviam VM, Orrechia S, Lowe M, Pardi R, Pines J. The localization of human cyclins B1 and B2 determines CDK1 substrate specificity and neither enzyme requires MEK to disassemble the Golgi apparatus. J. Cell Biol. 2001;152:945–958. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gavet O, Pines J. Progressive activation of CyclinB1-Cdk1 coordinates entry to mitosis. Dev. Cell. 2010;18:533–543. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gavet O, Pines J. Activation of cyclin B1-Cdk1 synchronizes events in the nucleus and the cytoplasm at mitosis. J. Cell Biol. 2010;189:247–259. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Nigg EA. Polo-like kinases: positive regulators of cell division from start to finish. Curr. Opin. Cell Biol. 1998;10:776–783. [PubMed]
+                </CIT>
+                <CIT>
+                    Santamaria D, et al. Cdk1 is sufficient to drive the mammalian cell cycle. Nature. 2007;448:811–815. [PubMed]
+                </CIT>
+                <CIT>
+                    Aarts M, et al. Forced mitotic entry of S-phase cells as a therapeutic strategy induced by inhibition of WEE1. Cancer Discov. 2012;2:524–539. [PubMed]
+                </CIT>
+                <CIT>
+                    Nigg EA. Mitotic kinases as regulators of cell division and its checkpoints. Nature Rev. Mol. Cell Biol. 2001;2:21–32. [PubMed]
+                </CIT>
+                <CIT>
+                    Nigg EA, Blangy A, Lane HA. Dynamic changes in nuclear architecture during mitosis: on the role of protein phosphorylation in spindle assembly and chromosome segregation. Exp. Cell Res. 1996;229:174–180. [PubMed]
+                </CIT>
+                <CIT>
+                    Bharadwaj R, Yu H. The spindle checkpoint, aneuploidy, and cancer. Oncogene. 2004;23:2016–2027. [PubMed]
+                </CIT>
+                <CIT>
+                    Morgan DO. Regulation of the APC and the exit from mitosis. Nature Cell Biol. 1999;1:E47–E53. [PubMed]
+                </CIT>
+                <CIT>
+                    Taylor WR, Stark GR. Regulation of the G2/M transition by p53. Oncogene. 2001;20:1803–1815. [PubMed]
+                </CIT>
+                <CIT>
+                    Bayart E, Grigorieva O, Leibovitch S, Onclercq-Delic R, Amor-Gueret M. A major role for mitotic CDC2 kinase inactivation in the establishment of the mitotic DNA damage checkpoint. Cancer Res. 2004;64:8954–8959. [PubMed]
+                </CIT>
+                <CIT>
+                    Aaltonen K, et al. High cyclin B1 expression is associated with poor survival in breast cancer. Br. J. Cancer. 2009;100:1055–1060. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Nimeus-Malmstrom E, et al. Cyclin B1 is a prognostic proliferation marker with a high reproducibility in a population-based lymph node negative breast cancer cohort. Int. J. Cancer. 2010;127:961–967. [PubMed]
+                </CIT>
+                <CIT>
+                    Tassan JP, Jaquenoud M, Leopold P, Schultz SJ, Nigg EA. Identification of human cyclin-dependent kinase 8, a putative protein kinase partner for cyclin C. Proc. Natl Acad. Sci. USA. 1995;92:8871–8875. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Akoulitchev S, Chuikov S, Reinberg D. TFIIH is negatively regulated by CDK8-containing mediator complexes. Nature. 2000;407:102–106. [PubMed]
+                </CIT>
+                <CIT>
+                    Spangler L, Wang X, Conaway JW, Conaway RC, Dvir A. TFIIH action in transcription initiation and promoter escape requires distinct regions of downstream promoter DNA. Proc. Natl Acad. Sci. USA. 2001;98:5544–5549. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Ye X, Zhu C, Harper JW. A premature-termination mutation in the Mus musculus cyclin-dependent kinase 3 gene. Proc. Natl Acad. Sci. USA. 2001;98:1682–1686. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Ohshima T, et al. Targeted disruption of the cyclin-dependent kinase 5 gene results in abnormal corticogenesis, neuronal pathology and perinatal death. Proc. Natl Acad. Sci. USA. 1996;93:11173–11178. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Pozo K, et al. The role of CDK5 in neuroendocrine thyroid cancer. Cancer Cell. 2013;24:499–511. [PubMed]
+                </CIT>
+                <CIT>
+                    Whittaker SR, Walton MI, Garrett MD, Workman P. The Cyclin-dependent kinase inhibitor CYC202 (R-roscovitine) inhibits retinoblastoma protein phosphorylation, causes loss of Cyclin D1, and activates the mitogen-activated protein kinase pathway. Cancer Res. 2004;64:262–272. [PubMed]
+                </CIT>
+                <CIT>
+                    Shapiro GI. Cyclin-dependent kinase pathways as targets for cancer treatment. J. Clin. Oncol. 2006;24:1770–1783. [PubMed]
+                </CIT>
+                <CIT>
+                    Sedlacek H, et al. Flavopiridol (L86 8275; NSC 649890), a new kinase inhibitor for tumor therapy. Int. J. Oncol. 1996;9:1143–1168. [PubMed]
+                </CIT>
+                <CIT>
+                    Bose P, S GL, Grant S. Cyclin-dependent kinase inhibitor therapy for hematologic malignancies. Expert Opin. Investig. Drugs. 2013;22:723–738. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Lin TS, et al. Flavopiridol, fludarabine, and rituximab in mantle cell lymphoma and indolent B-cell lymphoproliferative disorders. J. Clin. Oncol. 2010;28:418–423. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kouroukis CT, et al. Flavopiridol in untreated or relapsed mantle-cell lymphoma: results of a phase II study of the National Cancer Institute of Canada Clinical Trials Group. J. Clin. Oncol. 2003;21:1740–1745. [PubMed]
+                </CIT>
+                <CIT>
+                    Byrd JC, et al. Flavopiridol administered using a pharmacologically derived schedule is associated with marked clinical efficacy in refractory, genetically high-risk chronic lymphocytic leukemia. Blood. 2007;109:399–404. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Lapenna S, Giordano A. Cell cycle kinases as therapeutic targets for cancer. Nature Rev. Drug Discov. 2009;8:547–566. [PubMed]
+                </CIT>
+                <CIT>
+                    Blum KA, et al. Risk factors for tumor lysis syndrome in patients with chronic lymphocytic leukemia treated with the cyclin-dependent kinase inhibitor, flavopiridol. Leukemia. 2011;25:1444–1451. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Le Tourneau C, et al. Phase I evaluation of seliciclib (R-roscovitine), a novel oral cyclin-dependent kinase inhibitor, in patients with advanced malignancies. Eur. J. Cancer. 2010;46:3243–3250. [PubMed]
+                </CIT>
+                <CIT>
+                    Payton M, et al. Discovery and evaluation of dual CDK1 and CDK2 inhibitors. Cancer Res. 2006;66:4299–4308. [PubMed]
+                </CIT>
+                <CIT>
+                    Parry D, et al. Dinaciclib (SCH 727965), a novel and potent cyclin-dependent kinase inhibitor. Mol. Cancer Ther. 2010;9:2344–2353. [PubMed]
+                </CIT>
+                <CIT>
+                    DePinto W, et al. In vitro and in vivo activity of R547: a potent and selective cyclin-dependent kinase inhibitor currently in Phase I clinical trials. Mol. Cancer Ther. 2006;5:2644–2658. [PubMed]
+                </CIT>
+                <CIT>
+                    Misra RN, et al. N-(cycloalkylamino) acyl-2-aminothiazole inhibitors of cyclin-dependent kinase 2. N-[5-[[[5-(1,1-dimethylethyl)-2-oxazolyl] methyl]thio]-2-thiazolyl]-4- piperidinecarboxamide (BMS-387032), a highly efficacious and selective antitumor agent. J. Med. Chem. 2004;47:1719–1728. [PubMed]
+                </CIT>
+                <CIT>
+                    Nemunaitis JJ, et al. A first-in-human, Phase 1, dose-escalation study of dinaciclib, a novel cyclin-dependent kinase inhibitor, administered weekly in subjects with advanced malignancies. J. Transl. Med. 2013;11:259. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Mita MM, et al. Randomized Phase II trial of the cyclin-dependent kinase inhibitor dinaciclib (MK-7965) versus capecitabine in patients with advanced breast cancer. Clin. Breast Cancer. 2014;14:169–176. [PubMed]
+                </CIT>
+                <CIT>
+                    Stephenson JJ, et al. Randomized Phase 2 study of the cyclin-dependent kinase inhibitor dinaciclib (MK-7965) versus erlotinib in patients with non-small cell lung cancer. Lung Cancer. 2014;83:219–223. [PubMed]
+                </CIT>
+                <CIT>
+                    Gojo I, et al. Phase II study of the cyclin-dependent kinase (CDK) inhibitor dinaciclib (SCH 727965) in patients with advanced acute leukemias. ASH Annual Meeting Abstracts. 2010;116:3287.
+                </CIT>
+                <CIT>
+                    Kumar SK, et al. Phase 1/2 trial of a novel CDK inhibitor dinaciclib (SCH727965) in patients with relapsed multiple myeloma demonstrates encouraging single agent activity. ASH Annual Meeting Abstracts. 2012;120:76.
+                </CIT>
+                <CIT>
+                    Blachly JS, Byrd JC. Emerging drug profile: cyclin-dependent kinase inhibitors. Leuk. Lymphoma. 2013;54:2133–2143. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Raje N, et al. A Phase I/II open-label multicenter study of the cyclin kinase inhibitor AT7519M alone and in combination with bortezomib in patients with previously treated multiple myeloma (ASH 55th meeting abstract) Blood. 2013;122:1976.
+                </CIT>
+                <CIT>
+                    Diab S, et al. A Phase I study of R547, a novel, selective inhibitor of cell cycle and transcriptional cyclin dependent kinases (CDKs) J. Clin. Oncol. 2007;25:3528.
+                </CIT>
+                <CIT>
+                    Tong WG, et al. Phase I and pharmacologic study of SNS-032, a potent and selective Cdk2, 7, and 9 inhibitor, in patients with advanced chronic lymphocytic leukemia and multiple myeloma. J. Clin. Oncol. 2010;28:3015–3022. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Heath EI, B K, Martell RE, Adelman DC, Lorusso PM. A phase 1 study of SNS-032 (formerly BMS-387032), a potent inhibitor of cyclin-dependent kinases 2, 7 and 9 administered as a single oral dose and weekly infusion in patients with metastatic refractory solid tumors. Invest. New Drugs. 2008;26:59–65. [PubMed]
+                </CIT>
+                <CIT>
+                    Byth KF, et al. AZD5438, a potent oral inhibitor of cyclin-dependent kinases 1, 2, and 9, leads to pharmacodynamic changes and potent antitumor effects in human tumor xenografts. Mol. Cancer Ther. 2009;8:1856–1866. [PubMed]
+                </CIT>
+                <CIT>
+                    Boss DS, et al. Safety, tolerability, pharmacokinetics and pharmacodynamics of the oral cyclin-dependent kinase inhibitor AZD5438 when administered at intermittent and continuous dosing schedules in patients with advanced solid tumours. Ann. Oncol. 2010;21:884–894. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Mahoney E, Byrd JC, Johnson AJ. Autophagy and ER stress play an essential role in the mechanism of action and drug resistance of the cyclin-dependent kinase inhibitor flavopiridol. Autophagy. 2013;9:434–435. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Carlson BA, Dubay MM, Sausville EA, Brizuela L, Worland PJ. Flavopiridol induces G1 arrest with inhibition of cyclin-dependent kinase (CDK) 2 and CDK4 in human breast carcinoma cells. Cancer Res. 1996;56:2973–2978. [PubMed]
+                </CIT>
+                <CIT>
+                    Kelland LR. Flavopiridol, the first cyclin-dependent kinase inhibitor to enter the clinic: current status. Expert Opin. Investig. Drugs. 2000;9:2903–2911. [PubMed]
+                </CIT>
+                <CIT>
+                    Senderowicz AM, et al. Phase I trial of continuous infusion flavopiridol, a novel cyclin-dependent kinase inhibitor, in patients with refractory neoplasms. J. Clin. Oncol. 1998;16:2986–2999. [PubMed]
+                </CIT>
+                <CIT>
+                    Barbie DA, et al. Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1. Nature. 2009;462:108–112. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kang J, Sergio CM, Sutherland RL, Musgrove EA. Targeting cyclin-dependent kinase 1 (CDK1) but not CDK4/6 or CDK2 is selectively lethal to MYC-dependent human breast cancer cells. BMC Cancer. 2014;14:32. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Huang CH, et al. CDK9-mediated transcription elongation is required for MYC addiction in hepatocellular carcinoma. Genes Dev. 2014;28:1800–1814. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Johnson N, et al. Compromised CDK1 activity sensitizes BRCA-proficient cancers to PARP inhibition. Nature Med. 2011;17:875–882. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Firestein R, et al. CDK8 is a colorectal cancer oncogene that regulates β-catenin activity. Nature. 2008;455:547–551. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kwiatkowski N, et al. Targeting transcription regulation in cancer with a covalent CDK7 inhibitor. Nature. 2014;511:616–620. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Walsby E, et al. A novel Cdk9 inhibitor preferentially targets tumor cells and synergizes with fludarabine. Oncotarget. 2014;5:375–385. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kozar K, Sicinski P. Cell cycle progression without cyclin D–CDK4 and cyclin D–CDK6 complexes. Cell Cycle. 2005;4:388–391. [PubMed]
+                </CIT>
+                <CIT>
+                    Kozar K, et al. Mouse development and cell proliferation in the absence of D-cyclins. Cell. 2004;118:477–491. [PubMed]
+                </CIT>
+                <CIT>
+                    Yu Q, Geng Y, Sicinski P. Specific protection against breast cancers by cyclin D1 ablation. Nature. 2001;411:1017–1021. [PubMed]
+                </CIT>
+                <CIT>
+                    Choi YJ, et al. The requirement for cyclin D function in tumor maintenance. Cancer Cell. 2012;22:438–451. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Sawai CM, et al. Therapeutic targeting of the cyclin D3:CDK4/6 complex in T cell leukemia. Cancer Cell. 2012;22:452–465. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    VanderWel SN, et al. Pyrido[2,3-d]pyrimidin-7-ones as specific inhibitors of cyclin-dependent kinase 4. J. Med. Chem. 2005;48:2371–2387. [PubMed]
+                </CIT>
+                <CIT>
+                    Fry DW, et al. Specific inhibition of cyclin-dependent kinase 4/6 by PD 0332991 and associated antitumor activity in human tumor xenografts. Mol. Cancer Ther. 2004;3:1427–1438. [PubMed]
+                </CIT>
+                <CIT>
+                    Toogood PL, et al. Discovery of a potent and selective inhibitor of cyclin-dependent kinase 4/6. J. Med. Chem. 2005;48:2388–2406. [PubMed]
+                </CIT>
+                <CIT>
+                    Dean JL, Thangavel C, McClendon AK, Reed CA, Knudsen ES. Therapeutic CDK4/6 inhibition in breast cancer: key mechanisms of response and failure. Oncogene. 2010;29:4018–4032. [PubMed]
+                </CIT>
+                <CIT>
+                    Rivadeneira DB, et al. Proliferative suppression by CDK4/6 inhibition: complex function of the retinoblastoma pathway in liver tissue and hepatoma cells. Gastroenterology. 2010;138:1920–1930. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dean JL, et al. Therapeutic response to CDK4/6 inhibition in breast cancer defined by ex vivo analyses of human tumors. Cell Cycle. 2012;11:2756–2761. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Finn RS, et al. PD 0332991, a selective cyclin D kinase 4/6 inhibitor, preferentially inhibits proliferation of luminal estrogen receptor-positive human breast cancer cell lines in vitro. Breast Cancer Res. 2009;11:R77. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Michaud K, et al. Pharmacologic inhibition of cyclin-dependent kinases 4 and 6 arrests the growth of glioblastoma multiforme intracranial xenografts. Cancer Res. 2010;70:3228–3238. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Rader J, et al. Dual CDK4/CDK6 inhibition induces cell-cycle arrest and senescence in neuroblastoma. Clin. Cancer Res. 2013;19:6173–6182. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dickson MA. Molecular pathways: CDK4 inhibitors for cancer therapy. Clin. Cancer Res. 2014;20:3379–3383. [PubMed]
+                </CIT>
+                <CIT>
+                    Zhang YX, et al. Antiproliferative effects of CDK4/6 inhibition in CDK4-amplified human liposarcoma in vitro and in vivo. Mol. Cancer Ther. 2014;13:2184–2193. [PubMed]
+                </CIT>
+                <CIT>
+                    Vora SR, et al. CDK 4/6 inhibitors sensitize PIK3CA mutant breast cancer to PI3K inhibitors. Cancer Cell. 2014;26:136–149. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Gelbert LM, et al. Preclinical characterization of the CDK4/6 inhibitor LY2835219: in-vivo cell cycle-dependent/independent anti-tumor activities alone/in combination with gemcitabine. Invest. New Drugs. 2014;32:825–837. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Tate SC, et al. Semi-mechanistic pharmacokinetic/Pharmacodynamic modeling of the antitumor activity of LY2835219, a new cyclin-dependent kinase 4/6 inhibitor, in mice bearing human tumor xenografts. Clin. Cancer Res. 2014;20:3763–3774. [PubMed]
+                </CIT>
+                <CIT>
+                    Schwartz GK, et al. Phase I study of PD 0332991, a cyclin-dependent kinase inhibitor, administered in 3-week cycles (Schedule 2/1) Br. J. Cancer. 2011;104:1862–1868. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Vaughn D, et al. Treatment of growing teratoma syndrome. N. Engl J. Med. 2009;360:423–424. [PubMed]
+                </CIT>
+                <CIT>
+                    Leonard JP, et al. Selective CDK4/6 inhibition with tumor responses by PD0332991 in patients with mantle cell lymphoma. Blood. 2012;119:4597–4607. [PubMed]
+                </CIT>
+                <CIT>
+                    Dickson MA, et al. Phase II trial of the CDK4 inhibitor PD0332991 in patients with advanced CDK4-amplified well-differentiated or dedifferentiated liposarcoma. J. Clin. Oncol. 2013;31:2024–2028. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Infante JR, et al. A Phase I study of the single-agent CDK4/6 inhibitor LEE011 in pts with advanced solid tumors and lymphomas. J. Clin. Oncol. 2014;32(Suppl.):2528.
+                </CIT>
+                <CIT>
+                    Shapiro G, et al. A first-in-human phase I study of the CDK4/6 inhibitor, LY2835219, for patients with advanced cancer. J. Clin. Oncol. 2013;31(Suppl.):2500.
+                </CIT>
+                <CIT>
+                    Miller TW, et al. ERα-dependent E2F transcription can mediate resistance to estrogen deprivation in human breast cancer. Cancer Discov. 2011;1:338–351. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Thangavel C, et al. Therapeutically activating RB: reestablishing cell cycle control in endocrine therapy-resistant breast cancer. Endocr. Relat. Cancer. 2011;18:333–345. [PubMed]
+                </CIT>
+                <CIT>
+                    Desmedt C, Sotiriou C. Proliferation: the most prominent predictor of clinical outcome in breast cancer. Cell Cycle. 2006;5:2198–2202. [PubMed]
+                </CIT>
+                <CIT>
+                    Finn RS, et al. S1-6 Results of a randomized phase 2 study of PD 0332991, a cyclin-dependent kinase (CDK) 4/6 inhibitor, in combination with letrozole vs letrozole alone for first-line treatment of ER+/HER2- advanced breast cancer (BC) Cancer Res. 2012;72(Suppl. 24)
+                </CIT>
+                <CIT>
+                    Finn RS, et al. Final results of a randomized Phase II study of PD 0332991, a cyclin-dependent kinase (CDK)-4/6 inhibitor, in combination with letrozole versus letrozole alone for first-line treatment of ER+/HER2- advanced breast cancer (PALOMA-1; TRIO-18) Cancer Res. 2014;74:CT101.
+                </CIT>
+                <CIT>
+                    Finn RS, et al. The cyclin-dependent kinase 4/6 inhibitor palbociclib in combination with letrozole versus letrozole alone as first-line treatment of oestrogen receptor-positive, HER2-negative, advanced breast cancer (PALOMA-1/TRIO-18): a randomised phase 2 study. Lancet Oncol. 2015;16:25–35. [PubMed]
+                </CIT>
+                <CIT>
+                    Konecny GE, et al. Expression of p16 and retinoblastoma determines response to CDK4/6 inhibition in ovarian cancer. Clin. Cancer Res. 2011;17:1591–1602. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Logan JE, et al. PD-0332991, a potent and selective inhibitor of cyclin-dependent kinase 4/6, demonstrates inhibition of proliferation in renal cell carcinoma at nanomolar concentrations and molecular markers predict for sensitivity. Anticancer Res. 2013;33:2997–3004. [PubMed]
+                </CIT>
+                <CIT>
+                    Carozzi F, et al. Use of p16-INK4A overexpression to increase the specificity of human papillomavirus testing: a nested substudy of the NTCC randomised controlled trial. Lancet Oncol. 2008;9:937–945. [PubMed]
+                </CIT>
+                <CIT>
+                    Flaherty KT, et al. Phase I, dose-escalation trial of the oral cyclin-dependent kinase 4/6 inhibitor PD 0332991, administered using a 21-day schedule in patients with advanced cancer. Clin. Cancer Res. 2012;18:568–576. [PubMed]
+                </CIT>
+                <CIT>
+                    Roberts PJ, et al. Multiple roles of cyclin-dependent kinase 4/6 inhibitors in cancer therapy. J. Natl Cancer Inst. 2012;104:476–487. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    McClendon AK, et al. CDK4/6 inhibition antagonizes the cytotoxic response to anthracycline therapy. Cell Cycle. 2012;11:2747–2755. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Dean JL, McClendon AK, Knudsen ES. Modification of the DNA damage response by therapeutic CDK4/6 inhibition. J Biol Chem. 2012;287:29075–29087. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Witkiewicz AK, Cox D, Knudsen ES. CDK4/6 inhibition provides a potent adjunct to Her2-targeted therapies in preclinical breast cancer models. Genes Cancer. 2014;5:261–272. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Kwong LN, et al. Oncogenic NRAS signaling differentially regulates survival and proliferation in melanoma. Nature Med. 2012;18:1503–1510. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Heilmann AM, et al. CDK4/6 and IGF1 receptor inhibitors synergize to suppress the growth of p16INK4A-deficient pancreatic cancers. Cancer Res. 2014;74:3947–3958. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Franco J, Witkiewicz AK, Knudsen ES. CDK4/6 inhibitors have potent activity in combination with pathway selective therapeutic agents in models of pancreatic cancer. Oncotarget. 2014;5:6512–6525. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Drug combo shows promise in NRAS-mutant melanoma. Cancer Discov. 2014 [No authors listed.] http://dx.doi.org/10.1158/2159-8290.CD-NB2014-098. [PubMed]
+                </CIT>
+                <CIT>
+                    Marzec M, et al. Mantle cell lymphoma cells express predominantly cyclin D1a isoform and are highly sensitive to selective inhibition of CDK4 kinase activity. Blood. 2006;108:1744–1750. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Menu E, et al. A novel therapeutic combination using PD 0332991 and bortezomib: study in the 5T33MM myeloma model. Cancer Res. 2008;68:5519–5523. [PubMed]
+                </CIT>
+                <CIT>
+                    Puyol M, et al. A synthetic lethal interaction between K-RAS oncogenes and CDK4 unveils a therapeutic strategy for non-small cell lung carcinoma. Cancer Cell. 2010;18:63–73. [PubMed]
+                </CIT>
+                <CIT>
+                    Comstock CE, et al. Targeting cell cycle and hormone receptor pathways in cancer. Oncogene. 2013;32:5481–5491. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Barton KL, et al. PD-0332991, a CDK4/6 inhibitor, significantly prolongs survival in a genetically engineered mouse model of brainstem glioma. PLoS ONE. 2013;8:e77639. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Wiedemeyer WR, et al. Pattern of retinoblastoma pathway inactivation dictates response to CDK4/6 inhibition in GBM. Proc. Natl Acad. Sci. USA. 2010;107:11501–11506. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Young RJ, et al. Loss of CDKN2A expression is a frequent event in primary invasive melanoma and correlates with sensitivity to the CDK4/6 inhibitor PD0332991 in melanoma cell lines. Pigment Cell. Melanoma Res. 2014;27:590–600. [PubMed]
+                </CIT>
+                <CIT>
+                    Yadav V, et al. The CDK4/6 inhibitor LY2835219 overcomes vemurafenib resistance resulting from MAPK reactivation and cyclin D1 upregulation. Mol. Cancer Ther. 2014;13:2253–2263. [PubMed]
+                </CIT>
+                <CIT>
+                    Whiteway SL, et al. Inhibition of cyclin-dependent kinase 6 suppresses cell proliferation and enhances radiation sensitivity in medulloblastoma cells. J. Neurooncol. 2013;111:113–121. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Ismail A, et al. Early G1 cyclin-dependent kinases as prognostic markers and potential therapeutic targets in esophageal adenocarcinoma. Clin. Cancer Res. 2011;17:4513–4522. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Liu F, Korc M. Cdk4/6 inhibition induces epithelial-mesenchymal transition and enhances invasiveness in pancreatic cancer cells. Mol. Cancer Ther. 2012;11:2138–2148. [PMC free article] [PubMed]
+                </CIT>
+                <CIT>
+                    Slamon DJ, et al. Phase I study of PD 0332991, cyclin-D kinase (CDK) 4/6 inhibitor in combination with letrozole for first-line treatment of patients with ER-positive, HER2-negative breast cancer. J Clin Oncol Abstr. 2010;28:15s:3060.
+                </CIT>
+                <CIT>
+                    DeMichele A, et al. A Phase II trial of an oral CDK 4/6 inhibitor, D0332991, in advanced breast cancer. J. Clin Oncol Abstr. 2013;31:519.
+                </CIT>
+                <CIT>
+                    Bardia A, et al. Phase Ib/II study of LEE011, everolimus, and exemestane in postmenopausal women with ER+/HER2-metastatic breast cancer. J. Clin. Oncol. 2014;32(Suppl.):535.
+                </CIT>
+                <CIT>
+                    Munster P, et al. Phase lb study of LEE011 and BYL719 in combination with letrozole in estrogen receptor-positive, HER2-negative breast cancer (ER+, HER2- BC) J. Clin Oncol. 2014;32(Suppl.):533.
+                </CIT>
+                <CIT>
+                    Sosman J, et al. A phase 1b/2 study of LEE011 in combination with binimetinib (MEK162) in patients with NRAS-mutant melanoma: early encouraging clinical activity. J. Clin. Oncol. 2014;32(Suppl.):9009.
+                </CIT>
+                <CIT>
+                    Goldman JW, et al. Clinical activity of LY2835219, a novel cell cycle inhibitor selective for CDK4 and CDK6, in patients with non-small cell lung cancer. J. Clin. Oncol. 2014;32(Suppl.):8026.
+                </CIT>
+                <CIT>
+                    Patnaik A, et al. LY2825219, a novel cell cycle inhibitor for CDK4/6, in combination with fulvestrant for patients with hromone receptor positive (HR+ve) metastatic breast cancer. J. Clin Oncol. 2014;32(Suppl.):524.
+                </CIT>
+            </CITATIONS>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

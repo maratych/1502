@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28955993?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28955993?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28955993</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>28</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>28</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">2405-5808</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>9</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                    <Month>Mar</Month>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Biochemistry and biophysics reports</Title>
+                            <ISOAbbreviation>Biochem Biophys Rep</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            LSD1/KDM1 isoform LSD1+8a contributes to neural differentiation in small cell lung cancer.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>86-94</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1016/j.bbrep.2016.11.015</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Small cell lung cancer (SCLC) is an aggressive neuroendocrine tumor characterized by rapid progression. The mechanisms that lead to a shift from initial therapeutic sensitivity to ultimate therapeutic resistance are poorly understood. Although the SCLC genomic landscape led to the discovery of promising agents targeting genetic alterations that were already under investigation, results have been disappointing. Achievements in targeted therapeutics have not been observed for over 30 years. Therefore, the underlying disease biology and novel targets urgently require a better understanding. Epigenetic regulation is deeply involved in the cellular plasticity that could shift tumor cells to the malignant phenotype. We have focused on a histone modifier, LSD1, that is overexpressed in SCLC and is a potent therapeutic target. Interestingly, the LSD1 splice variant LSD1+8a, the expression of which has been reported to be restricted to neural tissue, was detected and was involved in the expression of neuroendocrine marker genes in SCLC cell lines. Cells with high expression of LSD1+8a were resistant to CDDP and LSD1 inhibitor. Moreover, suppression of LSD1+8a inhibited cell proliferation, indicating that LSD1+8a could play a critical role in SCLC. These findings suggest that LSD1+8a should be considered a novel therapeutic target in SCLC.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Jotatsu</LastName>
+                                <ForeName>Takanobu</ForeName>
+                                <Initials>T</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, University of Occupational and Environmental Health, 1-1, Iseigaoka, Yahata-nishi-ku, Fukuoka 807-8555, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yagishita</LastName>
+                                <ForeName>Shigehiro</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Tajima</LastName>
+                                <ForeName>Ken</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Takahashi</LastName>
+                                <ForeName>Fumiyuki</ForeName>
+                                <Initials>F</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Mogushi</LastName>
+                                <ForeName>Kaoru</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Center for Genomic and Regenerative Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Hidayat</LastName>
+                                <ForeName>Moulid</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wirawan</LastName>
+                                <ForeName>Aditya</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Ko</LastName>
+                                <ForeName>Ryo</ForeName>
+                                <Initials>R</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Kanemaru</LastName>
+                                <ForeName>Ryota</ForeName>
+                                <Initials>R</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Shimada</LastName>
+                                <ForeName>Naoko</ForeName>
+                                <Initials>N</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Leading Center for the Development and Research of Cancer Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Mitani</LastName>
+                                <ForeName>Keiko</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Human Pathology, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Saito</LastName>
+                                <ForeName>Tsuyoshi</ForeName>
+                                <Initials>T</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Human Pathology, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Takamochi</LastName>
+                                <ForeName>Kazuya</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of General Thoracic Surgery, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Suzuki</LastName>
+                                <ForeName>Kenji</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of General Thoracic Surgery, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Kohsaka</LastName>
+                                <ForeName>Shinji</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Medical Genomics, Graduate School of Medicine, The University of Tokyo, 1-7-1, Sakamoto, Nagasaki 852-8501, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Kojima</LastName>
+                                <ForeName>Shinya</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Cellular Signaling, Graduate School of Medicine, The University of Tokyo, 1-7-1, Sakamoto, Nagasaki 852-8501, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Mukae</LastName>
+                                <ForeName>Hiroshi</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Diseases, Nagasaki University Graduate School of Biomedical Sciences, 1-7-1, Sakamoto, Nagasaki 852-8501, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yatera</LastName>
+                                <ForeName>Kazuhiro</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, University of Occupational and Environmental Health, 1-1, Iseigaoka, Yahata-nishi-ku, Fukuoka 807-8555, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Takahashi</LastName>
+                                <ForeName>Kazuhisa</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Respiratory Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Research Institute for Diseases of Old Ages, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Leading Center for the Development and Research of Cancer Medicine, Juntendo University, Faculty of Medicine, 2-1-1 Hongo, Bunkyo-Ku, Tokyo 113-8421, Japan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2016</Year>
+                            <Month>12</Month>
+                            <Day>01</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Netherlands</Country>
+                        <MedlineTA>Biochem Biophys Rep</MedlineTA>
+                        <NlmUniqueID>101660999</NlmUniqueID>
+                        <ISSNLinking>2405-5808</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">KDM</Keyword>
+                        <Keyword MajorTopicYN="N">KDM, lysine demethylase</Keyword>
+                        <Keyword MajorTopicYN="N">LSD1</Keyword>
+                        <Keyword MajorTopicYN="N">LSD1+8a</Keyword>
+                        <Keyword MajorTopicYN="N">LSD1, lysine specific demethylase 1</Keyword>
+                        <Keyword MajorTopicYN="N">NSCLC, non-small cell lung cancer</Keyword>
+                        <Keyword MajorTopicYN="N">Neuroendocrine marker</Keyword>
+                        <Keyword MajorTopicYN="N">Resistance to chemotherapy</Keyword>
+                        <Keyword MajorTopicYN="N">SCLC</Keyword>
+                        <Keyword MajorTopicYN="N">SCLC, small cell lung cancer</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2016</Year>
+                            <Month>07</Month>
+                            <Day>07</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="revised">
+                            <Year>2016</Year>
+                            <Month>11</Month>
+                            <Day>14</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2016</Year>
+                            <Month>11</Month>
+                            <Day>17</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>29</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28955993</ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.bbrep.2016.11.015</ArticleId>
+                        <ArticleId IdType="pii">S2405-5808(16)30323-5</ArticleId>
+                        <ArticleId IdType="pmc">PMC5614583</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

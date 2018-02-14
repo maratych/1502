@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28848348?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28848348?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28848348</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>29</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>02</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1178-2013</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>12</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>International journal of nanomedicine</Title>
+                            <ISOAbbreviation>Int J Nanomedicine</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Co-delivery nanocarriers targeting folate receptor and encapsulating 2-deoxyglucose and α-tocopheryl succinate enhance anti-tumor effect in vivo.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>5701-5715</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.2147/IJN.S135849</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                A combination administration of chemical agents was highlighted to treat tumors. Recently, tumor cell has been found to be different from normal cell in metabolic manner. Most of cancer cells prefer aerobic glycolysis to mitochondrial oxidative phosphorylation (OXPHOS) to satisfy energy and biomass synthesis requirement to survive, grow and proliferate, which provides novel and potential therapeutic targets for chemotherapy. Here, 2-deoxy-d-glucose (2-DG), a potent inhibitor of glucose metabolism, was used to inhibit glycolysis of tumor cells; α-tocopheryl succinate (α-TOS), a water-insoluble vitamin E derivative, was chosen to suppress OXPHOS. Our data demonstrated that the combination treatment of 2-DG and α-TOS could significantly promote the anti-tumor efficiency in vitro compared with administration of the single drug. In order to maximize therapeutic activity and minimize negative side effects, a co-delivery nanocarrier targeting folate receptor (FR) was developed to encapsulate 2-DG and α-TOS simultaneously based on our previous work. Transmission electron microscope, dynamic light scattering method and UV-visible spectrophotometers were used to investigate morphology, size distribution and loading efficiency of the α-TOS-2-DG-loaded and FR-targeted nanoparticles (TDF NPs). The TDF NPs were found to possess a layer-by-layer shape, and the dynamic size was &lt;100 nm. The final encapsulation efficiencies of α-TOS and 2-DG in TDF NPs were 94.3%±1.3% and 61.7%±7.7% with respect to drug-loading capacities of 8.9%±0.8% and 13.2%±2.6%, respectively. Almost no α-TOS release was found within 80 h, and release of 2-DG was sustained and slow within 72 h. The results of FR binding assay and fluorescence biodistribution revealed that TDF NPs could target FR highly expressed on tumor cell in vitro and in vivo. Further, in vivo anti-tumor experiments showed that TDF NPs had an improved biological function with less toxicity. Thus, our work indicates that the co-delivery TDF NPs have a great potential in tumor therapy.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Lei</LastName>
+                                <ForeName>Xiaoying</ForeName>
+                                <Initials>X</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Li</LastName>
+                                <ForeName>Ke</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Shaanxi Key Laboratory of Ischemic Cardiovascular Disease, Institute of Basic and Translational Medicine, Xi'an Medical University, Xi'an, Shaanxi.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Key Laboratory of Biomedical Information Engineering of Education Ministry, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liu</LastName>
+                                <ForeName>Yan</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Genetic Engineering Laboratory of PLA, The Eleventh Institute of Academy of Military Medical Sciences of PLA, Changchun, Jilin, People's Republic of China.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wang</LastName>
+                                <ForeName>Zhen Yu</ForeName>
+                                <Initials>ZY</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Ruan</LastName>
+                                <ForeName>Ban Jun</ForeName>
+                                <Initials>BJ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wang</LastName>
+                                <ForeName>Li</ForeName>
+                                <Initials>L</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Xiang</LastName>
+                                <ForeName>An</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wu</LastName>
+                                <ForeName>Daocheng</ForeName>
+                                <Initials>D</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Key Laboratory of Biomedical Information Engineering of Education Ministry, School of Life Science and Technology, Xi'an Jiaotong University, Xi'an.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Lu</LastName>
+                                <ForeName>Zifan</ForeName>
+                                <Initials>Z</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        State Key Laboratory of Cancer Biology, Department of Pharmacogenomics, School of Pharmacy, The Fourth Military Medical University.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>08</Month>
+                            <Day>08</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>New Zealand</Country>
+                        <MedlineTA>Int J Nanomedicine</MedlineTA>
+                        <NlmUniqueID>101263847</NlmUniqueID>
+                        <ISSNLinking>1176-9114</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Control Release. 2015 Jun 10;207:59-69</RefSource>
+                            <PMID Version="1">25861728</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Biophys Res Commun. 2005 Feb 25;327(4):1024-7</RefSource>
+                            <PMID Version="1">15652498</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Nucl Med Mol Imaging. 2006 Oct;33(10 ):1162-70</RefSource>
+                            <PMID Version="1">16721570</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2011 Dec;10(12):2350-62</RefSource>
+                            <PMID Version="1">21992792</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2011 Feb;11(2):85-95</RefSource>
+                            <PMID Version="1">21258394</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biomaterials. 2011 Dec;32(36):9826-38</RefSource>
+                            <PMID Version="1">21925726</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2012 Mar;26(3):451-60</RefSource>
+                            <PMID Version="1">21869839</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Metab. 2008 Jan;7(1):11-20</RefSource>
+                            <PMID Version="1">18177721</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Mol Life Sci. 2012 Jun;69(12 ):2091-9</RefSource>
+                            <PMID Version="1">22286068</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Macromol Biosci. 2016 Mar;16(3):395-411</RefSource>
+                            <PMID Version="1">26632009</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Antioxid Redox Signal. 2011 Dec 15;15(12):2951-74</RefSource>
+                            <PMID Version="1">21777145</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2016 Sep 27;7(39):63342-63351</RefSource>
+                            <PMID Version="1">27556511</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Acc Chem Res. 2008 Jan;41(1):120-9</RefSource>
+                            <PMID Version="1">17655275</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncol Lett. 2012 Dec;4(6):1151-1157</RefSource>
+                            <PMID Version="1">23226794</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Death Dis. 2013 Mar 07;4:e532</RefSource>
+                            <PMID Version="1">23470539</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Inorg Chem. 2011 Jan;16(1):117-23</RefSource>
+                            <PMID Version="1">20890718</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2006 Sep 15;66(18):8927-30</RefSource>
+                            <PMID Version="1">16982728</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biomaterials. 2013 Aug;34(25):6058-67</RefSource>
+                            <PMID Version="1">23694904</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biomaterials. 2015 Jan;39:131-44</RefSource>
+                            <PMID Version="1">25477180</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochim Biophys Acta. 2013 May;1827(5):552-64</RefSource>
+                            <PMID Version="1">23142170</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Lett. 2011 Aug 28;307(2):174-81</RefSource>
+                            <PMID Version="1">21536373</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2011 Feb 1;71(3):946-54</RefSource>
+                            <PMID Version="1">21245099</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2008 Jun;13(6):472-82</RefSource>
+                            <PMID Version="1">18538731</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2009 Mar 1;15(5):1593-600</RefSource>
+                            <PMID Version="1">19223492</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2002 Sep 23;87(7):805-12</RefSource>
+                            <PMID Version="1">12232767</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Bioenerg Biomembr. 2007 Jun;39(3):267-74</RefSource>
+                            <PMID Version="1">17551814</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2006 Aug 7;25(34):4633-46</RefSource>
+                            <PMID Version="1">16892078</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biomaterials. 2013 Jan;34(2):598-605</RefSource>
+                            <PMID Version="1">23099063</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Death Dis. 2012 Mar 15;3:e284</RefSource>
+                            <PMID Version="1">22419113</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2009 May 22;324(5930):1029-33</RefSource>
+                            <PMID Version="1">19460998</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Apoptosis. 2010 Jul;15(7):782-94</RefSource>
+                            <PMID Version="1">20217235</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Mater Chem B Mater Biol Med. 2014 Aug 28;2(32):5238-5248</RefSource>
+                            <PMID Version="1">26893903</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2003 Jun 15;63(12):3413-7</RefSource>
+                            <PMID Version="1">12810678</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Free Radic Biol Med. 2011 Jun 1;50(11):1546-55</RefSource>
+                            <PMID Version="1">21402148</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Biochem Cell Biol. 2007;39(7-8):1358-66</RefSource>
+                            <PMID Version="1">17499003</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Nanomedicine. 2015 Mar 27;10:2461-73</RefSource>
+                            <PMID Version="1">25848264</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">2-deoxyglucose</Keyword>
+                        <Keyword MajorTopicYN="N">anti-tumor</Keyword>
+                        <Keyword MajorTopicYN="N">co-delivery nanocarrier</Keyword>
+                        <Keyword MajorTopicYN="N">α-tocopheryl succinate</Keyword>
+                    </KeywordList>
+                    <CoiStatement>Disclosure The authors report no conflicts of interest in this work.</CoiStatement>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28848348</ArticleId>
+                        <ArticleId IdType="doi">10.2147/IJN.S135849</ArticleId>
+                        <ArticleId IdType="pii">ijn-12-5701</ArticleId>
+                        <ArticleId IdType="pmc">PMC5557622</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

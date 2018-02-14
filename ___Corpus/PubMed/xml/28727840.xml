@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28727840?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28727840?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28727840</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>07</Month>
+                        <Day>20</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>08</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1932-6203</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>12</Volume>
+                                <Issue>7</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>PloS one</Title>
+                            <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Dual inhibition of Fes and Flt3 tyrosine kinases potently inhibits Flt3-ITD+ AML cell growth.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>e0181178</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1371/journal.pone.0181178</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Acute myelogenous leukemia (AML) is often associated with activating mutations in the receptor tyrosine kinase, Flt3, including internal tandem duplications (ITDs) within the regulatory juxtamembrane region. Previous studies have linked Flt3-ITD to the activation of the Fes protein tyrosine kinase in AML, and RNAi-knockdown studies suggest that Fes may be required for Flt3 function. In this study, we tested Fes inhibitors from three different chemical classes for their growth-suppressive activity against Flt3-ITD+ myeloid leukemia cell lines (MV4-11, MOLM-13 and MOLM-14) vs. myeloid cells with wild-type Flt3 (THP-1). All Fes inhibitors selectively inhibited the growth of Flt3-ITD+ AML cells, with IC50 values for diaminopyrimidine and pyrrolopyridine inhibitors ranging from 19 to 166 nM. In contrast, a pyrazolopyrimidine inhibitor was less potent in Flt3-ITD+ AML cells, with IC50 values in the 1.0 μM range. In vitro kinase assays showed that the most potent inhibitors of Flt3-ITD+ AML cell proliferation blocked both Fes and Flt3-ITD kinase activity, while the pyrazolopyrimidine was more selective for Fes vs. Flt3-ITD. All three inhibitors induced significant apoptosis in Flt3-ITD+ AML cells, with potency equivalent to or greater than the established Flt3-ITD inhibitor, tandutinib. Transformation of TF-1 cells with Flt3-ITD resulted in constitutive activation of endogenous Fes, and rendered the cells highly sensitive to all three Fes inhibitors with IC50 values in the 30-500 nM range. The pyrrolopyridine compound also induced apoptotic responses in patient-derived Flt3-ITD+ AML bone marrow cells but not in normal bone marrow mononuclear cells. These results demonstrate that Fes kinase activity contributes to Flt3-ITD signaling in AML, and suggests that dual inhibition of both Flt3 and Fes may provide a therapeutic advantage for the treatment of Flt3-ITD+ AML.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Weir</LastName>
+                                <ForeName>Mark C</ForeName>
+                                <Initials>MC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Hellwig</LastName>
+                                <ForeName>Sabine</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Tan</LastName>
+                                <ForeName>Li</ForeName>
+                                <Initials>L</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School and Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liu</LastName>
+                                <ForeName>Yao</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School and Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Gray</LastName>
+                                <ForeName>Nathanael S</ForeName>
+                                <Initials>NS</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School and Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, Massachusetts, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Smithgall</LastName>
+                                <ForeName>Thomas E</ForeName>
+                                <Initials>TE</Initials>
+                                <Identifier Source="ORCID">http://orcid.org/0000-0001-5238-3806</Identifier>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Microbiology and Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>07</Month>
+                            <Day>20</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>United States</Country>
+                        <MedlineTA>PLoS One</MedlineTA>
+                        <NlmUniqueID>101285081</NlmUniqueID>
+                        <ISSNLinking>1932-6203</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Am J Hematol. 2016 Jan;91(1):131-45</RefSource>
+                            <PMID Version="1">26598393</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Cancer. 1980 Aug;26(2):171-6</RefSource>
+                            <PMID Version="1">6970727</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2015 Sep 17;373(12):1136-52</RefSource>
+                            <PMID Version="1">26376137</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet. 2006 Nov 25;368(9550):1894-907</RefSource>
+                            <PMID Version="1">17126723</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Biotechnol. 2011 Oct 30;29(11):1046-51</RefSource>
+                            <PMID Version="1">22037378</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Mol Cell Biol. 2002 Apr;3(4):278-89</RefSource>
+                            <PMID Version="1">11994747</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2013 Sep 12;122(11):1900-13</RefSource>
+                            <PMID Version="1">23896410</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2012 Apr 26;119(17):4026-33</RefSource>
+                            <PMID Version="1">22411868</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2007 Jan 2;104(1):270-5</RefSource>
+                            <PMID Version="1">17185414</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Chem Biol. 2012 Apr 20;19(4):529-40</RefSource>
+                            <PMID Version="1">22520759</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochemistry. 2003 Apr 1;42(12):3567-74</RefSource>
+                            <PMID Version="1">12653561</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2007 Mar;21(3):403-10</RefSource>
+                            <PMID Version="1">17230226</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2013 Dec 24;110(52):21113-8</RefSource>
+                            <PMID Version="1">24255108</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2010 Apr;24(4):721-8</RefSource>
+                            <PMID Version="1">20111072</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2014 Feb 10;25(2):226-42</RefSource>
+                            <PMID Version="1">24525236</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2013 Feb 28;121(9):1633-43</RefSource>
+                            <PMID Version="1">23297133</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2002 Sep 1;100(5):1532-42</RefSource>
+                            <PMID Version="1">12176867</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leuk Lymphoma. 2014 Feb;55(2):243-55</RefSource>
+                            <PMID Version="1">23631653</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2008 Nov 27;27(56):7055-69</RefSource>
+                            <PMID Version="1">18794796</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Biosci (Schol Ed). 2012 Jan 01;4:489-501</RefSource>
+                            <PMID Version="1">22202072</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Dis Primers. 2016 Mar 10;2:16010</RefSource>
+                            <PMID Version="1">27159408</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Expert Opin Ther Targets. 2015 Jan;19(1):37-54</RefSource>
+                            <PMID Version="1">25231999</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2016 May;27(5):770-8</RefSource>
+                            <PMID Version="1">26802152</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1987 Dec;84(24):9228-32</RefSource>
+                            <PMID Version="1">3122217</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Biosci (Landmark Ed). 2011 Jun 01;16:3146-55</RefSource>
+                            <PMID Version="1">21622225</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2011 Jan 06;6(1):e15640</RefSource>
+                            <PMID Version="1">21253578</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2006 Dec 1;108(12):3674-81</RefSource>
+                            <PMID Version="1">16902153</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2004 Feb;18(2):227-32</RefSource>
+                            <PMID Version="1">14671638</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1988 Oct 15;263(29):15050-5</RefSource>
+                            <PMID Version="1">3170574</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2010 Dec 9;116(24):5089-102</RefSource>
+                            <PMID Version="1">20705759</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2013 Mar 1;288(9):6116-29</RefSource>
+                            <PMID Version="1">23303187</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2004 Mar 1;103(5):1883-90</RefSource>
+                            <PMID Version="1">14592841</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2008 Feb 15;111(4):2269-79</RefSource>
+                            <PMID Version="1">18056483</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Crit Rev Oncog. 1998;9(1):43-62</RefSource>
+                            <PMID Version="1">9754447</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2002 Jun;1(5):421-32</RefSource>
+                            <PMID Version="1">12124172</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2016</Year>
+                            <Month>11</Month>
+                            <Day>28</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>06</Month>
+                            <Day>27</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28727840</ArticleId>
+                        <ArticleId IdType="doi">10.1371/journal.pone.0181178</ArticleId>
+                        <ArticleId IdType="pii">PONE-D-16-47097</ArticleId>
+                        <ArticleId IdType="pmc">PMC5519068</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

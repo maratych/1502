@@ -1,0 +1,284 @@
+<paragraph># Things to be recognised by the named entity recongniser.
+# Any token without a $ on the start will be recognised as a literal string
+# (except &gt;&gt;&gt; which indicates that a line-break should not be interpreted as the
+# end of a term definition.
+#
+# $CM, $RN, $CJ, $ASE, $CPR - may be found through n-gram (or other scoring)
+# or via token-level regexes.
+# $NED, $OX, $PN - from token-level regexes.
+# $CMS - plural of $CM. 
+# 
+# $HYPH - any hyphen-like character.
+# $DOTS - unicode characters for ellipses.
+#
+# $( $) $| $+ $* $? - regex operations - remove the $ to get the meaning.
+# NB You should ALWAYS wrap something up in brackets before using $?, $* or $+.
+# A $( B $) $* C              is correct, meaning one A, zero or more B&apos;s, one C.
+# A B $* C is incorrect, and liable to lead to undefined behaviour.</paragraph>
+
+<paragraph># Definitions. NB: don&apos;t make a definition name that is a part of another definition name. For
+# example, if you have $ABC, then don&apos;t have $ABCD, and vice versa.
+[DEFINE]
+$CHEMEND = $( reagent $| reagents $| salt $| salts $| catalyst $| catalysts $| acid $| acids &gt;&gt;&gt;
+$| base $| bases $| compound $| compounds $| $CM $| $CMS $| <Person>ester</Person> $| esters $| $-<Person>ester</Person> $| $-esters $)
+$RNEND = $( reaction $| reactions $| photoreaction $| photoreactions $| elimination &gt;&gt;&gt;
+$| eliminations $| cyclisation $| cyclisations $| cyclization $| cyclizations &gt;&gt;&gt;
+$| addition $| additions $| cycloaddition $| cycloadditions &gt;&gt;&gt;
+$| rearrangement $| rearrangements $| substitution $| substitutions &gt;&gt;&gt;
+$| $( <Person>ester</Person> $) $? $( condensation $| condensations $) &gt;&gt;&gt;
+$| coupling $| couplings $| metathesis $| metatheses &gt;&gt;&gt;
+$| $( $CM $) $? $( synthesis $| syntheses $) $| oxidation &gt;&gt;&gt;
+$| oxidations $| reduction $| reductions $| polymerization $| polymerizations $| $RN &gt;&gt;&gt;
+$| transformation $| transformations $| degradation $| degradations $| fragmentation $| fragmentations &gt;&gt;&gt;
+$| pyrolysis $| pyrolyses $| ring closure $| ring closures $| ring enlargement $| ring enlargements &gt;&gt;&gt;
+$| inversion $| inversions $| kinetic resolution $| kinetic resolutions &gt;&gt;&gt;
+$)
+$ROMAN = ${II?I?I?|I?I?I?[XV]|[XV]I?I?I?I?}
+$RNINTER = $( asymmetric $| assymmetric $| asymetric $| assymetric $| &gt;&gt;&gt;
+reductive $| oxidative $| type $( $ROMAN $) $? $| cyclo $HYPH $) $*
+$PNSEQ = $( $PN $HYPH $) $* $PN $( $HYPH $) $?
+$BONDCHAR = $( $HYPH $| $DOTS $)
+$CONJ = $( and $| and the $| or $| or ( better ) $| and/or $| to $)
+$HALIDE = $( fluoride $| fluorides $| chloride $| chlorides $| bromide $| bromides $| iodide $| iodides $| halide $| halides $) 
+$<Person>YLORENE</Person> = $( $-yl $| $-ene $)
+$S_IDEITEATE = $( $-ide $| $-ite $| $-ate $) 
+$P_IDEITEATE = $( $-<Person>ides</Person> $| $-ites $| $-ates $)
+$PS_IDEITEATE = $( $S_IDEITEATE $| $P_IDEITEATE $)
+$IDEITEATEEND = $PS_IDEITEATE $( $( , $PS_IDEITEATE $) $* $CONJ $PS_IDEITEATE $) $?
+$CPRCONJ = $( $( $CPR , $) $* $CPR $CONJ $) 
+$BEFORESENTENCE = $( $^ $| : $| . $| ? $)
+$LETTER_OPTIONAL_NUM = ${[A-Z]\d*}
+$YLCONJ = $( $( $-yl , $) $* $-yl $CONJ $)
+$ICCONJ = $( $( $-ic , $) $* $-ic $CONJ $)
+$IUMCONJ = $( $( $-ium , $) $* $-ium $CONJ $)
+$ENECONJ = $( $( $-ene , $) $* $-ene $CONJ $)
+$INECONJ = $( $( $-<Person>ine</Person> , $) $* $-ene $CONJ $)
+$OUSCONJ = $( $( $-ous , $) $* $-ous $CONJ $)
+$OLCONJ = $( $( $-ol , $) $* $-ol $CONJ $)
+$ATECONJ = $( $( $-ate , $) $* $-ate $CONJ $)
+$EMCONJ = $( $( $EM , $) $* $EM $CONJ $)
+$ALL_SOMETHING = $( all-E $| all-Z $| all-cis $| all-trans $| all-syn $| all-anti $)
+$YLSTART = $( $YLCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$ICSTART = $( $ICCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$IUMSTART = $( $IUMCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$ENESTART = $( $ENECONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$INESTART = $( $INECONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$OUSSTART = $( $OUSCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$OLSTART = $( $OLCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$ATESTART = $( $ATECONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$EMSTART = $( $EMCONJ $| $ALL-SOMETHING $| $CPRCONJ $) $?
+$OTHERSTART = $( $ALL-SOMETHING $| $CPRCONJ $) $?
+$<Person>FIRSTYLORENE</Person> = $( $YLSTART $-yl $| $ENESTART $-ene $)
+$OX = ${\(([oO]|[iI]{1,4}|[iI]{0,3}[xvXV]|[xvXV][iI]{0,4})\)}
+$CARBONYL = $( carbonyl $| $-carbonyl $| carbonyls $| $-carbonyls $)</paragraph>
+
+<paragraph># These get converted to CM eventually, but are kept sepeate for now to
+# avoid forming multi-word names with them.
+[CM]
+$CM
+$CMS
+$MODIFIEDCOMPREF
+$EM
+$INCND
+$GP
+$GPS
+$BOND
+$ATOM
+$FORM
+$BIOOLIGO
+$CPR_FORMULA
+$CPRCONJ $CPR_FORMULA
+$CPR_COMPREF
+$CPRCONJ $CPR_COMPREF
+# Lab reagents
+petrol
+brine
+xylene
+petroleum ether
+pet. ether
+light petroleum
+molecular sieve
+molecular sieves
+celite
+silica
+silica gel
+Kieselgel
+$CPRCONJ $PNSEQ $CHEMEND
+$PNSEQ $CHEMEND
+$EM $OX
+$ENDSINEM $OX
+$ENDSINEM $OX $IDEITEATEEND
+$EMSTART $EM $( $OX $) $? $IDEITEATEEND
+$IUMSTART $-ium $OX $IDEITEATEEND
+$EMSTART $EM hydrogen $IDEITEATEEND
+$IUMSTART $-ium hydrogen $IDEITEATEEND
+$CM $( red $| orange $| yellow $| green $| blue $| indigo $| violet $)
+$CM $ROMAN $( $( , $ROMAN $) $* $CONJ $ROMAN $) $?
+$CMS $ROMAN $( $( , $ROMAN $) $* $CONJ $ROMAN $)
+$CM $LETTER_OPTIONAL_NUM $( $( , $LETTER_OPTIONAL_NUM $) $* $CONJ $LETTER_OPTIONAL_NUM $) $?
+$CMS $LETTER_OPTIONAL_NUM $( $( , $LETTER_OPTIONAL_NUM $) $* $CONJ $LETTER_OPTIONAL_NUM $)
+$YLSTART $-yl $-yl $-ate
+$YLSTART $-yl $IDEITEATEEND
+$YLSTART $-yl $BIOOLIGO
+$OUSSTART $-ous $IDEITEATEEND
+$IUMSTART $-ium $IDEITEATEEND
+$IUMSTART $-ium $-ium $IDEITEATEEND
+$OUSSTART $-ous acid
+$ICSTART $-ic acid
+$ICSTART $-ic anhydride
+$ICSTART -ic acid anhydride
+$ATESTART $-ate <Person>ester</Person>
+$<Person><Person>FIRSTYLORENE</Person> ester</Person>
+$<Person>FIRSTYLORENE</Person> $-<Person>ester</Person>
+$YLSTART $-yl alcohol
+$YLSTART $-yl ether
+$YLSTART $-yl $-yl ether
+$ICSTART $-ic acid $<Person><Person>YLORENE</Person> ester</Person>
+$ICSTART $-ic acid <Person>ester</Person>
+$<Person>FIRSTYLORENE</Person> ketone
+$<Person>FIRSTYLORENE</Person> $<Person>YLORENE</Person> ketone
+$<Person>FIRSTYLORENE</Person> $-ketone
+$<Person>FIRSTYLORENE</Person> $<Person>YLORENE</Person> $-ketone
+$<Person>FIRSTYLORENE</Person> aldehyde
+$ICSTART $-ic acid $-ium salt
+$YLSTART $-yl $-oside
+$INESTART $-<Person>ine</Person> amide
+$INESTART $-<Person>ine</Person> $-yl <Person>ester</Person>
+$ICSTART $-ic acid $-ide
+$-mino acid
+$-mino sugar
+$-mino $CM
+$YLSTART $-yl $-<Person>ine</Person>
+$-one hydrazone
+$-ile $-ide
+$YLSTART $-yl urea
+$YLSTART $-yl $-urea
+$YLSTART $-yl $-yl $-ates
+$OUSSTART $-ous acids
+$ICSTART $-ic acids
+$ICSTART $-ic anhydrides
+$ICSTART $-ic acid anhydrides
+$ATESTART $-ate esters
+$<Person>FIRSTYLORENE</Person> esters
+$<Person>FIRSTYLORENE</Person> $-esters
+$YLSTART $-yl alcohols
+$YLSTART $-yl ethers
+$YLSTART $-yl $-yl ethers
+$ICSTART $-ic acid $<Person>YLORENE</Person> esters
+$ICSTART $-ic acid esters
+$<Person>FIRSTYLORENE</Person> ketones
+$<Person>FIRSTYLORENE</Person> $<Person>YLORENE</Person> ketones
+$<Person>FIRSTYLORENE</Person> $-ketones
+$<Person>FIRSTYLORENE</Person> $<Person>YLORENE</Person> $-ketones
+$<Person>FIRSTYLORENE</Person> aldehydes
+$ICSTART $-ic acid $-ium salts
+$YLSTART $-yl $-osides
+$INESTART $-<Person>ine</Person> amides
+$INESTART $-<Person>ine</Person> $-yl esters
+$ICSTART $-ic acid $-<Person>ides</Person>
+$-mino acids
+$-mino sugars
+$-mino $CMS
+$YLSTART $-yl $-<Person>ine</Person>
+$-one hydrazones
+$-ile $-<Person>ides</Person>
+$YLSTART $-yl ureas
+$YLSTART $-yl $-ureas
+acid $HALIDE
+$-acid $HALIDE
+transition metal
+transition metals
+$CPR / $NOT
+$( $EM $| $ATOM $| $BOND $) $BONDCHAR $( $EM $| $ATOM $| $BOND $) $( $BONDCHAR $( $EM $| $ATOM $| $BOND $) $) $*
+$-(- acid )
+$-(- ether )
+$-(- $CM )
+$-(- acids )
+$-(- ethers )
+$-(- $CMS )
+$OTHERSTART $CM
+$OTHERSTART $CMS
+$OTHERSTART $GP
+$ENESTART $-ene glycol
+$ENESTART $-ene $-glycol
+$ENESTART $-ene glycols
+$ENESTART $-ene $-glycols
+$( $GP- , $) $* $GP- $CONJ $CM
+$( $GP- , $) $* $GP- $CONJ $CMS
+$CM $CONJ $-CM 
+$CM $CONJ $-CMS 
+$CMS $CONJ $-CM 
+$CMS $CONJ $-CMS 
+fatty acid
+fatty acids
+$-aldehyde oxime
+$-aldehyde oximes
+$-aldehyde $-oxime
+$-aldehyde $-oximes
+$YLSTART $-yl glycerol
+$YLSTART $-yl glycerols
+$INESTART $-<Person>ine</Person> hydrochloride
+$INESTART $-<Person>ine HCl</Person>
+$OTHERSTART $CM $IDEITEATEEND
+$EMSTART $EM $IDEITEATEEND
+$ICSTART $-ic lactone
+$ICSTART $-ic acid lactone
+$YLSTART $-yl lactone
+$ICSTART $-ic lactones
+$ICSTART $-ic acid lactones
+$YLSTART $-yl lactones
+$OLSTART $-ol <Person>ester</Person>
+$OLSTART $-ol esters
+$YLSTART $-yl $-oid
+$YLSTART $-yl $-oids
+# eg DMSO-d6
+${\S+-d\d+}
+# Inorganics
+${.*\[.+\].*}
+[ $FORM ]
+[ ${.*} ]
+${(\d+(,\d+)*)-[A-Z]+}
+$EM $CARBONYL
+$ENDSINEM $CARBONYL</paragraph>
+
+<paragraph>[CJ]
+$CJ
+aqueous
+ethereal</paragraph>
+
+<paragraph>[RN]
+$RN
+$( haloform $| aldol $| $PNSEQ $) $RNINTER $RNEND
+$CPR $CONJ $RN
+# Conjunctions
+mono- $CONJ $RN
+$CPR $CONJ $RN</paragraph>
+
+<paragraph>[ASE]
+$ASE
+$ASES</paragraph>
+
+<paragraph>[ONT]
+$ONTWORD</paragraph>
+
+<paragraph>[STOP]
+$STOP
+$BEFORESENTENCE In
+$BEFORESENTENCE As
+$BEFORESENTENCE At
+$BEFORESENTENCE No
+P &gt;
+P &lt;
+P =
+degrees C
+lead to
+${\d+((\.|-|[‐‑‒–—―])\d+)?} K
+${\d+((\.|-|[‐‑‒–—―])\d+)?} M
+${[A-Z]} . ${[a-z]+}
+acid
+$( cytochrome $) $? ${CYP.*|P450.*} $( ${\d+[A-Z]\d*} $) $?
+${[A-Za-z][A-Za-z]+50}</paragraph>
+
+<paragraph>[AHA]
+${[A-Z]+[a-z]?[A-Z]*}
+</paragraph>

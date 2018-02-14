@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28582447?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28582447?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="MEDLINE">
+                    <PMID Version="1">28582447</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>06</Month>
+                        <Day>05</Day>
+                    </DateCreated>
+                    <DateCompleted>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>18</Day>
+                    </DateCompleted>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>18</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1932-6203</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>12</Volume>
+                                <Issue>6</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>PloS one</Title>
+                            <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Action of YM155 on clear cell renal cell carcinoma does not depend on survivin expression levels.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>e0178168</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1371/journal.pone.0178168</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                The dioxonapthoimidazolium YM155 is a survivin suppressant which has been investigated as an anticancer agent in clinical trials. Here, we investigated its growth inhibitory properties on a panel of immortalized and patient derived renal cell carcinoma (RCC) cell lines which were either deficient in the tumour suppressor von Hippel-Lindau (VHL) protein or possessed a functional copy. Neither the VHL status nor the survivin expression levels of these cell lines influenced their susceptibility to growth inhibition by YM155. Of the various RCC lines, the papillary subtype was more resistant to YM155, suggesting that the therapeutic efficacy of YM155 may be restricted to clear cell subtypes. YM155 was equally potent in cells (RCC786.0) in which survivin expression had been stably silenced or overexpressed, implicating a limited reliance on survivin in the mode of action of YM155. A follow-up in-vitro high throughput RNA microarray identified possible targets of YM155 apart from survivin. Selected genes (ID1, FOXO1, CYLD) that were differentially expressed in YM155-sensitive RCC cells and relevant to RCC pathology were validated with real-time PCR and western immunoblotting analyses. Thus, there is corroboratory evidence that the growth inhibitory activity of YM155 in RCC cell lines is not exclusively mediated by its suppression of survivin. In view of the growing importance of combination therapy in oncology, we showed that a combination of YM155 and sorafenib at ½ x IC50 concentrations was synergistic on RCC786.0 cells. However, when tested intraperitoneally on a murine xenograft model derived from a nephrectomised patient with clear cell RCC, a combination of suboptimal doses of both drugs failed to arrest tumour progression. The absence of synergy in vivo highlighted the need to further optimize the dosing schedules of YM155 and sorafenib, as well as their routes of administration. It also implied that the expression of other oncogenic proteins which YM155 may target is either low or absent in this clear cell RCC.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Sim</LastName>
+                                <ForeName>Mei Yi</ForeName>
+                                <Initials>MY</Initials>
+                                <Identifier Source="ORCID">http://orcid.org/0000-0001-6546-4699</Identifier>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Urology, Singapore General Hospital, Republic of Singapore.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Huynh</LastName>
+                                <ForeName>Hung</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Molecular Endocrinology, Division of Molecular and Cellular Research, National Cancer Centre, Republic of Singapore.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Go</LastName>
+                                <ForeName>Mei Lin</ForeName>
+                                <Initials>ML</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Pharmacy, National University of Singapore, Republic of Singapore.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Yuen</LastName>
+                                <ForeName>John Shyi Peng</ForeName>
+                                <Initials>JSP</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Urology, Singapore General Hospital, Republic of Singapore.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>06</Month>
+                            <Day>05</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>United States</Country>
+                        <MedlineTA>PLoS One</MedlineTA>
+                        <NlmUniqueID>101285081</NlmUniqueID>
+                        <ISSNLinking>1932-6203</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <ChemicalList>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="C107489">BIRC5 protein, human</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="C409984">CYLD protein, human</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="C085126">FOXO1 protein, human</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D000071161">Forkhead Box Protein O1</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="C497453">ID1 protein, human</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D007093">Imidazoles</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D051034">Inhibitor of Apoptosis Proteins</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D051798">Inhibitor of Differentiation Protein 1</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D009285">Naphthoquinones</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D010671">Phenylurea Compounds</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>0</RegistryNumber>
+                            <NameOfSubstance UI="C523798">YM 155</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>25X51I8RD4</RegistryNumber>
+                            <NameOfSubstance UI="D009536">Niacinamide</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>9ZOQ3TZI87</RegistryNumber>
+                            <NameOfSubstance UI="C471405">sorafenib</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+                            <NameOfSubstance UI="D051794">Von Hippel-Lindau Tumor Suppressor Protein</NameOfSubstance>
+                        </Chemical>
+                        <Chemical>
+                            <RegistryNumber>EC 6.3.2.-</RegistryNumber>
+                            <NameOfSubstance UI="C497446">VHL protein, human</NameOfSubstance>
+                        </Chemical>
+                    </ChemicalList>
+                    <CitationSubset>IM</CitationSubset>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2007 Sep 1;67(17):8014-21</RefSource>
+                            <PMID Version="1">17804712</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer J Sci Am. 1995 Sep-Oct;1(3):180-1</RefSource>
+                            <PMID Version="1">9166471</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Mol Med. 2011 Nov;11(8):633-49</RefSource>
+                            <PMID Version="1">21902653</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Pathol. 2010 Jun;221(2):125-38</RefSource>
+                            <PMID Version="1">20225241</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Signal. 2013 May;25(5):1212-21</RefSource>
+                            <PMID Version="1">23416459</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Rep. 2013 Aug;40(8):4819-26</RefSource>
+                            <PMID Version="1">23645041</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2009 Sep 20;27(27):4481-6</RefSource>
+                            <PMID Version="1">19687333</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Biochem Mol Biol. 2012;3(2):179-97</RefSource>
+                            <PMID Version="1">22773958</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2015 May 30;6(15):13476-86</RefSource>
+                            <PMID Version="1">25974963</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2003 Aug 14;424(6950):801-5</RefSource>
+                            <PMID Version="1">12917691</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Death Differ. 2010 Jan;17 (1):25-34</RefSource>
+                            <PMID Version="1">19373246</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2006 Jul 15;12(14 Pt 1):4306-14</RefSource>
+                            <PMID Version="1">16857806</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2011 Mar 15;104(6):941-7</RefSource>
+                            <PMID Version="1">21407223</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Invest. 2008 Nov;26(9):929-35</RefSource>
+                            <PMID Version="1">19034775</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Am J Surg Pathol. 2002 Jan;26(1):119-24</RefSource>
+                            <PMID Version="1">11756779</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2010 Jan 1;16(1):77-87</RefSource>
+                            <PMID Version="1">20028744</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2011 Aug 15;17(16):5423-31</RefSource>
+                            <PMID Version="1">21737502</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Intern Med. 2016 Sep;33:102-7</RefSource>
+                            <PMID Version="1">27350406</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Anticancer Agents Med Chem. 2008 Jun;8(5):533-9</RefSource>
+                            <PMID Version="1">18537535</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2008 Oct 20;27(48):6252-75</RefSource>
+                            <PMID Version="1">18931692</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2004 May;4(5):381-93</RefSource>
+                            <PMID Version="1">15122209</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Histopathology. 2007 Mar;50(4):484-90</RefSource>
+                            <PMID Version="1">17448024</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Biophys Res Commun. 2012 Sep 7;425(4):711-6</RefSource>
+                            <PMID Version="1">22842455</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2001 Dec 15;61(24):8803-10</RefSource>
+                            <PMID Version="1">11751402</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2010 May 25;102(11):1555-77</RefSource>
+                            <PMID Version="1">20502460</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genome Res. 2012 Nov;22(11):2089-100</RefSource>
+                            <PMID Version="1">23038766</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Adv Enzyme Regul. 1984;22:27-55</RefSource>
+                            <PMID Version="1">6382953</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Biol Ther. 2006 Jun;5(6):615-22</RefSource>
+                            <PMID Version="1">16627981</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Protoc. 2006;1(5):2315-9</RefSource>
+                            <PMID Version="1">17406473</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Gene Ther. 2005 Jan;12 (1):90-100</RefSource>
+                            <PMID Version="1">15499378</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Surg Oncol. 2012 Jun 15;105(8):841-7</RefSource>
+                            <PMID Version="1">22213032</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Med Sci Monit. 2003 Apr;9(4):PI25-9</RefSource>
+                            <PMID Version="1">12709681</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Lett. 2013 May 28;332(2):225-8</RefSource>
+                            <PMID Version="1">22410464</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2010 Nov 16;18(5):472-84</RefSource>
+                            <PMID Version="1">21075312</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Biochem. 2010 Nov;344(1-2):23-31</RefSource>
+                            <PMID Version="1">20563741</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2005 Jan 31;92(2):212-6</RefSource>
+                            <PMID Version="1">15611788</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2007 Apr 26;26(19):2678-84</RefSource>
+                            <PMID Version="1">17072337</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 Dec 11;273(50):33533-9</RefSource>
+                            <PMID Version="1">9837934</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncol Rep. 2014 Jul;32(1):79-88</RefSource>
+                            <PMID Version="1">24804700</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2012 Apr;23 (4):968-73</RefSource>
+                            <PMID Version="1">21859898</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2014 Apr 1;20(7):1814-22</RefSource>
+                            <PMID Version="1">24486595</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2005 Sep;115(9):2382-92</RefSource>
+                            <PMID Version="1">16100571</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer. 2012 Jun 15;118(12):3128-34</RefSource>
+                            <PMID Version="1">22006123</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Chemother Pharmacol. 2012 Jul;70(1):207-12</RefSource>
+                            <PMID Version="1">22526412</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>BMC Cancer. 2012 Dec 26;12:619</RefSource>
+                            <PMID Version="1">23267699</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Commun. 2015 Apr 29;6:6840</RefSource>
+                            <PMID Version="1">25924227</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Oncol. 2011 Sep;39(3):569-75</RefSource>
+                            <PMID Version="1">21674125</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Med. 2003;54:217-33</RefSource>
+                            <PMID Version="1">12525673</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>BioDrugs. 2014 Feb;28(1):27-39</RefSource>
+                            <PMID Version="1">23955284</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Carcinogenesis. 2007 Jun;28(6):1133-9</RefSource>
+                            <PMID Version="1">17341657</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2003 Nov 24;22(53):8581-9</RefSource>
+                            <PMID Version="1">14634620</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Proteomics. 2012 Jul;11(7):M111.013243</RefSource>
+                            <PMID Version="1">22442257</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Immunol. 2002 Mar;3(3):221-7</RefSource>
+                            <PMID Version="1">11875461</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2013 Feb 1;73(3):1190-200</RefSource>
+                            <PMID Version="1">23204226</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Breast Cancer Res Treat. 2015 Jan;149(1):171-9</RefSource>
+                            <PMID Version="1">25547219</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Med. 2015 May;4(5):643-50</RefSource>
+                            <PMID Version="1">25533314</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Urology. 2007 Jan;69(1):34-7</RefSource>
+                            <PMID Version="1">17270609</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Biol Ther. 2010 Oct 1;10(7):658-64</RefSource>
+                            <PMID Version="1">20814228</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2015 Jun;14(6):1404-13</RefSource>
+                            <PMID Version="1">25808836</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2010 Jun 29;103(1):36-42</RefSource>
+                            <PMID Version="1">20517311</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem Pharmacol. 2011 Aug 1;82(3):216-26</RefSource>
+                            <PMID Version="1">21601561</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochim Biophys Acta. 2014 Apr;1845(2):202-20</RefSource>
+                            <PMID Version="1">24440709</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Differentiation. 2006 Dec;74(9-10):481-7</RefSource>
+                            <PMID Version="1">17177845</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Med. 1997 Aug;3(8):917-21</RefSource>
+                            <PMID Version="1">9256286</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer. 2006 Jul 1;107(1):37-45</RefSource>
+                            <PMID Version="1">16736510</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biostatistics. 2003 Apr;4(2):249-64</RefSource>
+                            <PMID Version="1">12925520</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2014 Apr 22;9(4):e95846</RefSource>
+                            <PMID Version="1">24755677</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <MeshHeadingList>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D000818">Animals</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D000970">Antineoplastic Agents</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D002292">Carcinoma, Renal Cell</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D045744">Cell Line, Tumor</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D002470">Cell Survival</DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000187">drug effects</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D004305">Dose-Response Relationship, Drug</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D004338">Drug Combinations</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D000071161">Forkhead Box Protein O1</DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D015972">
+                                Gene Expression Regulation, Neoplastic
+                            </DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D006801">Humans</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D007093">Imidazoles</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D051034">Inhibitor of Apoptosis Proteins</DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D051798">
+                                Inhibitor of Differentiation Protein 1
+                            </DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D007680">Kidney Neoplasms</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000188">drug therapy</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000473">pathology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D008297">Male</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D051379">Mice</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D016513">Mice, SCID</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D009285">Naphthoquinones</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D009536">Niacinamide</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000031">analogs &amp; derivatives</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000494">pharmacology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D010671">Phenylurea Compounds</DescriptorName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000494">pharmacology</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D061251">Primary Cell Culture</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D015398">Signal Transduction</DescriptorName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D025521">Tumor Suppressor Proteins</DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D051794">
+                                Von Hippel-Lindau Tumor Suppressor Protein
+                            </DescriptorName>
+                            <QualifierName MajorTopicYN="N" UI="Q000037">antagonists &amp; inhibitors</QualifierName>
+                            <QualifierName MajorTopicYN="Y" UI="Q000235">genetics</QualifierName>
+                            <QualifierName MajorTopicYN="N" UI="Q000378">metabolism</QualifierName>
+                        </MeshHeading>
+                        <MeshHeading>
+                            <DescriptorName MajorTopicYN="N" UI="D023041">Xenograft Model Antitumor Assays</DescriptorName>
+                        </MeshHeading>
+                    </MeshHeadingList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2016</Year>
+                            <Month>12</Month>
+                            <Day>24</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>05</Month>
+                            <Day>08</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>6</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>6</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>19</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28582447</ArticleId>
+                        <ArticleId IdType="doi">10.1371/journal.pone.0178168</ArticleId>
+                        <ArticleId IdType="pii">PONE-D-16-50933</ArticleId>
+                        <ArticleId IdType="pmc">PMC5459331</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

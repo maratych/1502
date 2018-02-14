@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28928866?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28928866?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28928866</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>20</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>22</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">1837-9664</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>8</Volume>
+                                <Issue>14</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Journal of Cancer</Title>
+                            <ISOAbbreviation>J Cancer</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            CT-721, a Potent Bcr-Abl Inhibitor, Exhibits Excellent In Vitro and In Vivo Efficacy in the Treatment of Chronic Myeloid Leukemia.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>2774-2784</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.7150/jca.18731</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Kinase inhibitors that target Bcr-Abl are highly effective in the treatment of chronic myeloid leukemia (CML). However, these inhibitors are often invalidated due to the drug resistance. Therefore, the discovery and development of novel Bcr-Abl inhibitors is required to overwhelm the drug resistance in the treatment of CML resistant to the currently used first-line Bcr-Abl inhibitors. Herein we have described a newly developed Bcr-Abl inhibitor CT-721, which displayed potent inhibitory effects on wild-type and T315I mutant Bcr-Abl. It functioned as a typically ATP-competitive inhibitor, superior to other existing Bcr-Abl inhibitors. CT-721 also demonstrated time-dependent inhibition of Bcr-Abl activation and the resultant downstream signaling transduction pathways in Bcr-Abl positive cells. Furthermore, CT-721 induced cell apoptosis and cell cycle arrest, and efficaciously inhibited tumor growth in Bcr-Abl-expressed K562 and KU812 xenograft models in a mechanism-based manner. Further PK/PD studies revealed a positive in vivo correlation between the compound concentration and inhibition of Bcr-Abl activity. Taken together, CT-721 is a potent and time-dependent Bcr-Abl kinase inhibitor, and has shown strong in vitro and in vivo anti-CML activities with a favorable pharmacokinetic profile, differentiating it from other Bcr-Abl kinase inhibitors already approved and current in development for the treatment of CML.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Sun</LastName>
+                                <ForeName>Yinghui</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Zhao</LastName>
+                                <ForeName>Na</ForeName>
+                                <Initials>N</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wang</LastName>
+                                <ForeName>Huan</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wu</LastName>
+                                <ForeName>Qiong</ForeName>
+                                <Initials>Q</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Han</LastName>
+                                <ForeName>Yunqi</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liu</LastName>
+                                <ForeName>Qichao</ForeName>
+                                <Initials>Q</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wu</LastName>
+                                <ForeName>Mangang</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liu</LastName>
+                                <ForeName>Yuliang</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Kong</LastName>
+                                <ForeName>Fansheng</ForeName>
+                                <Initials>F</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of DMPK, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wang</LastName>
+                                <ForeName>He</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of DMPK, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Sun</LastName>
+                                <ForeName>Ying</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of DMPK, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Sun</LastName>
+                                <ForeName>Deguang</ForeName>
+                                <Initials>D</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Jing</LastName>
+                                <ForeName>Lutao</ForeName>
+                                <Initials>L</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Tang</LastName>
+                                <ForeName>Guojing</ForeName>
+                                <Initials>G</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Hu</LastName>
+                                <ForeName>Yuandong</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Xiao</LastName>
+                                <ForeName>Dengming</ForeName>
+                                <Initials>D</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Luo</LastName>
+                                <ForeName>Hong</ForeName>
+                                <Initials>H</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of DMPK, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Han</LastName>
+                                <ForeName>Yongxin</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Medical Chemistry, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Peng</LastName>
+                                <ForeName>Yong</ForeName>
+                                <Initials>Y</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Biology, Centaurus BioPharma Co., Ltd.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>08</Month>
+                            <Day>23</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Australia</Country>
+                        <MedlineTA>J Cancer</MedlineTA>
+                        <NlmUniqueID>101535920</NlmUniqueID>
+                        <ISSNLinking>1837-9664</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2006 Jul 1;108(1):28-37</RefSource>
+                            <PMID Version="1">16522812</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2002 Dec 15;62(24):7149-53</RefSource>
+                            <PMID Version="1">12499247</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2010 Jun 24;53(12):4701-19</RefSource>
+                            <PMID Version="1">20513156</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1990 Feb 16;247(4944):824-30</RefSource>
+                            <PMID Version="1">2406902</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2004 Dec 30;47(27):6658-61</RefSource>
+                            <PMID Version="1">15615512</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2005 Feb;7(2):129-41</RefSource>
+                            <PMID Version="1">15710326</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2005 Jun 1;65(11):4500-5</RefSource>
+                            <PMID Version="1">15930265</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2004 Oct 15;104(8):2532-9</RefSource>
+                            <PMID Version="1">15256422</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2000 Nov 15;96(10):3343-56</RefSource>
+                            <PMID Version="1">11071626</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2009 Feb 19;113(8):1619-30</RefSource>
+                            <PMID Version="1">18827185</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2007 Oct 1;110(7):2242-9</RefSource>
+                            <PMID Version="1">17496200</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2011 Apr 12;19(4):556-68</RefSource>
+                            <PMID Version="1">21481795</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Recent Results Cancer Res. 2014;201:99-107</RefSource>
+                            <PMID Version="1">24756787</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2011 May 1;71(9):3189-95</RefSource>
+                            <PMID Version="1">21505103</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 1990 Mar 2;247(4946):1079-82</RefSource>
+                            <PMID Version="1">2408149</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2004 Jul 16;305(5682):399-401</RefSource>
+                            <PMID Version="1">15256671</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>South Asian J Cancer. 2013 Jan;2(1):38-43</RefSource>
+                            <PMID Version="1">24455544</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 1973 Jul 26;289(4):220-1</RefSource>
+                            <PMID Version="1">4514580</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2001 Apr 5;344(14):1031-7</RefSource>
+                            <PMID Version="1">11287972</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2006 Dec 1;66(23):11314-22</RefSource>
+                            <PMID Version="1">17114238</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Natl Compr Canc Netw. 2012 Oct 1;10 Suppl 3:S1-S13</RefSource>
+                            <PMID Version="1">23055247</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Natl Cancer Inst. 1960 Jul;25:85-109</RefSource>
+                            <PMID Version="1">14427847</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2001 Apr 5;344(14):1038-42</RefSource>
+                            <PMID Version="1">11287973</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Top Med Chem. 2008;8(10):905-21</RefSource>
+                            <PMID Version="1">18673174</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2005 Dec 1;106(12):3948-54</RefSource>
+                            <PMID Version="1">16105974</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2009 Nov 6;16(5):401-12</RefSource>
+                            <PMID Version="1">19878872</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 1996 Sep 15;88(6):2236-40</RefSource>
+                            <PMID Version="1">8822944</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2006 Dec 7;355(23):2408-17</RefSource>
+                            <PMID Version="1">17151364</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">Bcr-Abl</Keyword>
+                        <Keyword MajorTopicYN="N">CT-721</Keyword>
+                        <Keyword MajorTopicYN="N">anti-tumor</Keyword>
+                        <Keyword MajorTopicYN="N">leukemia.</Keyword>
+                    </KeywordList>
+                    <CoiStatement>
+                        Competing Interests: The authors have declared that no competing interest exists.
+                    </CoiStatement>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2016</Year>
+                            <Month>12</Month>
+                            <Day>13</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>05</Month>
+                            <Day>18</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>21</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28928866</ArticleId>
+                        <ArticleId IdType="doi">10.7150/jca.18731</ArticleId>
+                        <ArticleId IdType="pii">jcav08p2774</ArticleId>
+                        <ArticleId IdType="pmc">PMC5604209</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

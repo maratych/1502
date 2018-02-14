@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28695516?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28695516?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28695516</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>07</Month>
+                        <Day>11</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>07</Month>
+                        <Day>11</Day>
+                    </DateRevised>
+                    <Article PubModel="Print">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1940-6029</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>1608</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                            <ISOAbbreviation>Methods Mol. Biol.</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>Strategies Employed for the Development of PARP Inhibitors.</ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>271-297</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1007/978-1-4939-6993-7_18</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                This chapter describes the approaches taken in the development of the first PARP inhibitor to enter clinical trial, rucaparib (now called Rubraca), in 2003. We describe the general principles of crystal-based drug design, the purification and crystallization of the PARP-1 catalytic domain and how this was used to develop highly potent PARP inhibitors, based on the nicotinamide pharmacophore. Several methods have been used to determine the inhibitory potency in cell-free and whole cell assays, each described with reference to its advantages and disadvantages.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Canan</LastName>
+                                <ForeName>Stacie</ForeName>
+                                <Initials>S</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Celgene Corporation, 10300 Campus Point Drive, San Diego, CA, 92121, USA.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Maegley</LastName>
+                                <ForeName>Karen</ForeName>
+                                <Initials>K</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Oncology Research Unit, Pfizer Global Research and Development, La Jolla Laboratories, 10770 Science Center Dr, San Diego, CA, 92121, USA.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Curtin</LastName>
+                                <ForeName>Nicola J</ForeName>
+                                <Initials>NJ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Northern Institute for Cancer Research and Newcastle University Institute for Ageing, Newcastle University, Paul O'Gorman Building, Medical School, Newcastle upon Tyne, NE2 4HH, UK. nicola.curtin@ncl.ac.uk.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>United States</Country>
+                        <MedlineTA>Methods Mol Biol</MedlineTA>
+                        <NlmUniqueID>9214969</NlmUniqueID>
+                        <ISSNLinking>1064-3745</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">Crystallography</Keyword>
+                        <Keyword MajorTopicYN="N">PARP activity assay</Keyword>
+                        <Keyword MajorTopicYN="N">PARP inhibitors</Keyword>
+                        <Keyword MajorTopicYN="N">PARP1</Keyword>
+                        <Keyword MajorTopicYN="N">Protein purification</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>12</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>12</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>12</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>ppublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28695516</ArticleId>
+                        <ArticleId IdType="doi">10.1007/978-1-4939-6993-7_18</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28787001?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28787001?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28787001</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>08</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>13</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1932-6203</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>12</Volume>
+                                <Issue>8</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>PloS one</Title>
+                            <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            YM155 as an inhibitor of cancer stemness simultaneously inhibits autophosphorylation of epidermal growth factor receptor and G9a-mediated stemness in lung cancer cells.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>e0182149</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1371/journal.pone.0182149</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Cancer stem cell survival is the leading factor for tumor recurrence after tumor-suppressive treatments. Therefore, specific and efficient inhibitors of cancer stemness must be discovered for reducing tumor recurrence. YM155 has been indicated to significantly reduce stemness-derived tumorsphere formation. However, the pharmaceutical mechanism of YM155 against cancer stemness is unclear. This study investigated the potential mechanism of YM155 against cancer stemness in lung cancer. Tumorspheres derived from epidermal growth factor receptor (EGFR)-mutant HCC827 and EGFR wild-type A549 cells expressing higher cancer stemness markers (CD133, Oct4, and Nanog) were used as cancer stemness models. We observed that EGFR autophosphorylation (Y1068) was higher in HCC827- and A549-derived tumorspheres than in parental cells; this autophosphorylation induced tumorsphere formation by activating G9a-mediated stemness. Notably, YM155 inhibited tumorsphere formation by blocking the autophosphorylation of EGFR and the EGFR-G9a-mediated stemness pathway. The chemical and genetic inhibition of EGFR and G9a revealed the significant role of the EGFR-G9a pathway in maintaining the cancer stemness property. In conclusion, this study not only revealed that EGFR could trigger tumorsphere formation by elevating G9a-mediated stemness but also demonstrated that YM155 could inhibit this formation by simultaneously blocking EGFR autophosphorylation and G9a activity, thus acting as a potent agent against lung cancer stemness.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Cheng</LastName>
+                                <ForeName>Chun-Chia</ForeName>
+                                <Initials>CC</Initials>
+                                <Identifier Source="ORCID">http://orcid.org/0000-0002-6455-1798</Identifier>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Institute of Clinical Medicine, National Yang-Ming University, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Chang</LastName>
+                                <ForeName>Jungshan</ForeName>
+                                <Initials>J</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Graduate Institute of Medical Sciences, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Huang</LastName>
+                                <ForeName>Stanley Ching-Cheng</ForeName>
+                                <Initials>SC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Pathology &amp; Immunology, Washington University School of Medicine, St. Louis, Missouri, United States of America.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Lin</LastName>
+                                <ForeName>Huan-Chau</ForeName>
+                                <Initials>HC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Ho</LastName>
+                                <ForeName>Ai-Sheng</ForeName>
+                                <Initials>AS</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Gastroenterology, Cheng Hsin General Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Lim</LastName>
+                                <ForeName>Ken-Hong</ForeName>
+                                <Initials>KH</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Chang</LastName>
+                                <ForeName>Chun-Chao</ForeName>
+                                <Initials>CC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Gastroenterology and Hepatology, Department of Internal Medicine, Taipei Medical University Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Gastroenterology and Hepatology, Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Huang</LastName>
+                                <ForeName>Ling</ForeName>
+                                <Initials>L</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Chang</LastName>
+                                <ForeName>Yu-Cheng</ForeName>
+                                <Initials>YC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Chang</LastName>
+                                <ForeName>Yi-Fang</ForeName>
+                                <Initials>YF</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Division of Hematology and Oncology, Department of Internal Medicine, MacKay Memorial Hospital, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Laboratory of Good Clinical Research Center, Department of Medical Research, MacKay Memorial Hospital, Tamsui District, New Taipei City, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Wu</LastName>
+                                <ForeName>Cheng-Wen</ForeName>
+                                <Initials>CW</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Institute of Clinical Medicine, National Yang-Ming University, Taipei, Taiwan.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>08</Month>
+                            <Day>07</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>United States</Country>
+                        <MedlineTA>PLoS One</MedlineTA>
+                        <NlmUniqueID>101285081</NlmUniqueID>
+                        <ISSNLinking>1932-6203</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2007 Sep 1;67(17):8014-21</RefSource>
+                            <PMID Version="1">17804712</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Clin Oncol. 2013 Oct;10 (10 ):551-2</RefSource>
+                            <PMID Version="1">23959269</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2012 Nov 27;109(48):19673-8</RefSource>
+                            <PMID Version="1">23151507</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Biochem. 2012 Jul;113(7):2406-14</RefSource>
+                            <PMID Version="1">22389001</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Natl Cancer Inst. 2009 Mar 4;101(5):350-9</RefSource>
+                            <PMID Version="1">19244169</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Med. 2016 Jun;5(6):1251-8</RefSource>
+                            <PMID Version="1">26899963</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2012 Mar;11(3):784-91</RefSource>
+                            <PMID Version="1">22228822</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2016 Mar 15;7(11):12404-13</RefSource>
+                            <PMID Version="1">26862733</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nucleic Acids Res. 1995 Dec 11;23(23):4878-84</RefSource>
+                            <PMID Version="1">8532532</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Neurosci. 1992 Nov;12(11):4565-74</RefSource>
+                            <PMID Version="1">1432110</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2013 Nov 14;56(21):8931-42</RefSource>
+                            <PMID Version="1">24102134</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2015 Dec;125(12 ):4529-43</RefSource>
+                            <PMID Version="1">26571401</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Discov. 2012 Oct;2(10 ):922-33</RefSource>
+                            <PMID Version="1">22956644</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Histol Histopathol. 2010 Mar;25(3):405-12</RefSource>
+                            <PMID Version="1">20054811</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2005 Apr;5(4):275-84</RefSource>
+                            <PMID Version="1">15803154</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2013 May;12 (5):589-97</RefSource>
+                            <PMID Version="1">23443806</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2015 Mar 30;6(9):6887-901</RefSource>
+                            <PMID Version="1">25749385</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 2002 Jul 15;16(14):1779-91</RefSource>
+                            <PMID Version="1">12130538</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Surg Oncol. 2015 Dec;22 Suppl 3:S1556-65</RefSource>
+                            <PMID Version="1">25613390</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2015 Feb 10;112(6):1839-44</RefSource>
+                            <PMID Version="1">25605917</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gastroenterology. 2014 Apr;146(4):1108-18</RefSource>
+                            <PMID Version="1">24397969</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lung Cancer. 2015 Feb;87(2):98-106</RefSource>
+                            <PMID Version="1">25512094</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2005 Feb 24;352(8):786-92</RefSource>
+                            <PMID Version="1">15728811</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Clin Exp Pathol. 2015 Jun 01;8(6):6287-300</RefSource>
+                            <PMID Version="1">26261505</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2014 Mar 17;25(3):282-303</RefSource>
+                            <PMID Version="1">24651011</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2004 May 20;350(21):2129-39</RefSource>
+                            <PMID Version="1">15118073</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Epigenetics. 2013 Jan;8(1):16-22</RefSource>
+                            <PMID Version="1">23257913</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2014 Aug 15;74(16):4431-45</RefSource>
+                            <PMID Version="1">24972892</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2001 Jul 6;276(27):25309-17</RefSource>
+                            <PMID Version="1">11316813</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Exp Clin Cancer Res. 2012 Aug 18;31:65</RefSource>
+                            <PMID Version="1">22901364</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2010 Oct 15;70(20):7830-40</RefSource>
+                            <PMID Version="1">20940408</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2007 May 18;316(5827):1039-43</RefSource>
+                            <PMID Version="1">17463250</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2012;7(6):e38625</RefSource>
+                            <PMID Version="1">22723871</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Trends Mol Med. 2015 Jun;21(6):385-93</RefSource>
+                            <PMID Version="1">25979753</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2016 Feb 9;7(6):7096-109</RefSource>
+                            <PMID Version="1">26771139</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 2017 Feb 16;36(7):922-932</RefSource>
+                            <PMID Version="1">27452519</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cell Proteomics. 2012 Jul;11(7):M111.013243</RefSource>
+                            <PMID Version="1">22442257</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Arch Bronconeumol. 2011 Feb;47(2):103-5</RefSource>
+                            <PMID Version="1">20678850</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Transl Oncol. 2011 May;13(5):289-93</RefSource>
+                            <PMID Version="1">21596655</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2012 Jul 12;12 (8):553-63</RefSource>
+                            <PMID Version="1">22785351</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell. 1998 Oct 30;95(3):379-91</RefSource>
+                            <PMID Version="1">9814708</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2014 May 15;74(10 ):2825-34</RefSource>
+                            <PMID Version="1">24648348</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2010 Mar 26;285(13):9636-41</RefSource>
+                            <PMID Version="1">20118233</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Future Oncol. 2011 Jul;7(7):817-25</RefSource>
+                            <PMID Version="1">21732753</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 2005 Apr 1;19(7):815-26</RefSource>
+                            <PMID Version="1">15774718</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2017</Year>
+                            <Month>02</Month>
+                            <Day>01</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>07</Month>
+                            <Day>13</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>9</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>9</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>9</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28787001</ArticleId>
+                        <ArticleId IdType="doi">10.1371/journal.pone.0182149</ArticleId>
+                        <ArticleId IdType="pii">PONE-D-17-04178</ArticleId>
+                        <ArticleId IdType="pmc">PMC5546577</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

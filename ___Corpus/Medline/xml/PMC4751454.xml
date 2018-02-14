@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4751454/?report=classic</prop>
+        <prop name="date">2017-10-01</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <TITLE>
+        Selective inhibition of EZH2 by ZLD1039 blocks H3K27methylation and leads to potent anti-tumor activity in breast cancer
+    </TITLE>
+    <BODY>
+        <ITEM>
+            <ITEM_TITLE>
+                Selective inhibition of EZH2 by ZLD1039 blocks H3K27methylation and leads to potent anti-tumor activity in breast cancer
+            </ITEM_TITLE>
+            <ITEM_AUTHORS>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_REF>*</AUTH_REF>
+                    <AUTH_NAME>Xuejiao Song</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_REF>*</AUTH_REF>
+                    <AUTH_NAME>Tiantao Gao</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Ningyu Wang</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_REF>3</AUTH_REF>
+                    <AUTH_NAME>Qiang Feng</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>2</AUTH_REF>
+                    <AUTH_NAME>Xinyu You</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Tinghong Ye</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Qian Lei</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Yongxia Zhu</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Menghua Xiong</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Yong Xia</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Fangfang Yang</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Yaojie Shi</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Yuquan Wei</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>b</AUTH_REF>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Lidan Zhang</AUTH_NAME>
+                </AUTHOR>
+                <AUTHOR>
+                    <AUTH_REF>a</AUTH_REF>
+                    <AUTH_REF>1</AUTH_REF>
+                    <AUTH_NAME>Luoting Yu</AUTH_NAME>
+                </AUTHOR>
+            </ITEM_AUTHORS>
+            <AUTHOR_INFORMATION>
+                <AUTH_INFO>
+                    <INFO_VALUE>
+                        1State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, West China Medical School, Sichuan University, Chengdu 610041, China 2College of Chemical Engineering, Sichuan University, Chengdu, Sichuan 610065, China 3College of Chemistry and Life Science, Chengdu Normal University, Chengdu 611130, China aEmail: nc.ude.ucs@touluy bEmail: moc.qq@544406794 *These authors contributed equally to this work.
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>1</INFO_REF>
+                    <INFO_VALUE>
+                        State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, West China Medical School, Sichuan University, Chengdu 610041, China
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>2</INFO_REF>
+                    <INFO_VALUE>
+                        College of Chemical Engineering, Sichuan University, Chengdu, Sichuan 610065, China
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>3</INFO_REF>
+                    <INFO_VALUE>
+                        College of Chemistry and Life Science, Chengdu Normal University, Chengdu 611130, China
+                    </INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>a</INFO_REF>
+                    <INFO_VALUE>Email: nc.ude.ucs@touluy</INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>b</INFO_REF>
+                    <INFO_VALUE>Email: moc.qq@544406794</INFO_VALUE>
+                </AUTH_INFO>
+                <AUTH_INFO>
+                    <INFO_REF>*</INFO_REF>
+                    <INFO_VALUE>These authors contributed equally to this work.</INFO_VALUE>
+                </AUTH_INFO>
+            </AUTHOR_INFORMATION>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4751454/?report=classic</ITEM_LINK>
+            <ITEM_DATE>2016-01-01</ITEM_DATE>
+            <ITEM_BODY>
+                <P>Abstract</P>
+                <P>
+                    Enhancer of zeste homolog 2 (EZH2) is a candidate oncogenic driver due to its prevalent overexpression and aberrant repression of tumor suppressor genes in diverse cancers. Therefore, blocking EZH2 enzyme activity may present a valid therapeutic strategy for the treatment of cancers with EZH2 overexpression including breast cancers. Here, we described ZLD1039 a potent, highly selective, and orally bioavailable small molecule inhibitor of EZH2, which inhibited breast tumor growth and metastasis. ZLD1039 considerably inhibited EZH2 methyltransferase activity with nanomolar potency, decreased global histone-3 lysine-27 (H3K27) methylation, and reactivated silenced tumor suppressors connected to increased survival of patients with breast cancer. Comparable to conditional silencing of EZH2, its inhibition by ZLD1039 decreased cell proliferation, cell cycle arrest, and induced apoptosis. Comparably, treatment of xenograft-bearing mice with ZLD1039 led to tumor growth regression and metastasis inhibition. These data confirmed the dependency of breast cancer progression on EZH2 activity and the usefulness of ZLD1039 as a promising treatment for breast cancer.
+                </P>
+                <P>Results</P>
+                <P>Biochemical characterization of ZLD1039 as a potent and selective inhibitor of EZH2</P>
+                <P>
+                    Recently, several EZH2 small molecule inhibitors were discovered, and these compounds are structurally related to the pyridones23,24,25,26. We previously designed and synthesized numerous compounds based on a pyridone-containing chemical scaffold22 using classical medicinal chemistry to identify EZH2 small molecule inhibitors, and ZLD1039 (Fig. 1a) was selected as the lead compound for its desirable potency and physicochemical properties. In biochemical assays using reconstituted PRC2, ZLD1039 showed potent and concentration-dependent inhibition of PRC2 enzymatic activity against EZH2 wild-type as well as Y641F, and A677G mutant enzymes with half-maximal inhibitory concentration (IC50) values of 5.6 ± 0.36, 15 ± 0.51, and 4.0 ± 0.28 nM, respectively (Fig. 1b). To determine the mode of inhibition (MOI) of ZLD1039, S-adenosylmethionine (SAM) and H3 peptide competition experiments were performed under saturated substrate peptide conditions. Consistent with competitive inhibition, the IC50 for ZLD1039 inhibition of EZH2 increased linearly with increasing concentration of SAM (Fig. 1c,d). However, the IC50 was independent of the peptide substrate concentration (Fig. 1e). These results suggest that ZLD1039 inhibited EZH2 competitively and non-competitive with SAM and the peptide substrates, respectively.
+                </P>
+                <P>
+                    A previous study demonstrated that the enzymic catalytic reaction product S-adenosylhomocysteine (SAH) inhibited EZH2 in an SAM-competitive manner27. The overlapping binding sites for SAM and SAH have been confirmed by crystallographic analysis of the two ligands of PMTs28. To determine whether ZLD1039 bound in a mutually exclusive manner with SAH, the reaction velocity of SAH in the presence of several different ZLD1039 concentrations was detected. As shown in Fig. 1f, the data were best fit to parallel lines, which indicated the mutually exclusive binding of ZLD1039 and SAH.
+                </P>
+                <P>
+                    The above data suggest that the SAM binding pocket of the EZH2 SET domain was the most plausible binding site of ZLD1039. However, definitive proof of binding within the SET domain of EZH2 requires structural confirmation using crystallographic methods. Recently, the intact PRC2 and EZH2 crystal structures were reported29. Future structural studies of the ZLD1039-EZH2 co-crystal structure may help to confirm the binding site for ZLD1039.
+                </P>
+                <P>
+                    We also assessed the inhibitory effect of ZLD1039 against a panel of HMTs other than EZH2. ZLD1039 displayed a 14-fold selectivity for EZH2 over the closely related EZH1 and &gt;10,000-fold selectivity over 10 other HMTs tested (Fig. 1g,h and Supplementary Table S3). Taken together, our biochemical results suggest that ZLD1039 is a potent and selective inhibitor of EZH2.
+                </P>
+                <P>Intracellular inhibition of H3K27 methylation</P>
+                <P>
+                    Previous studies using small interfering/short hairpin RNA (si/shRNA) to knock down EZH2 or other components of PRC2 showed that breast and prostate cancer cells were highly dependent on PRC2 for proliferation18,19,20. Therefore, we tested the ability of ZLD1039 to block methylation of H3K27 in breast cancer cells. ZLD1039 inhibited the H3K27me3 and H3K27me2 levels in MCF-7 and MDA-MB-231 cells in a dose-dependent manner (Fig. 2a,b) whereas the H3 and EZH2 were not affected. The results indicate that the reduction of H3K27me3 by ZLD1039 was due to the direct inhibition of EZH2 methyltransferase activity but not degradation of histone H3 or PRC2. Quantification of H3K27me3 using an enzyme-linked immunosorbent assay (ELISA) yielded an IC50 of 0.29 ± 0.09 μM in MCF-7cells in Fig. 2C. Similar results were obtained for other breast cancer and EZH2 mutant lymphoma cell lines (Supplementary Fig. S1).
+                </P>
+                <P>
+                    A time-course study was performed in MCF-7 and MDA-MB-231 cells to elucidate the underlying mechanisms of the H3K27 methylation inhibition by ZLD1039. The H3K27me3 level was decreased 48 h after ZLD1039 treatment and reached the lowest level after 5 days (Fig. 2d). To test the specificity of ZLD1039, other histone methyl markers were examined and Fig. 2e shows that they were not changed, which was consistent with the biochemical assay data.
+                </P>
+                <P>Impact of ZLD1039 on breast cancer cell growth</P>
+                <P>
+                    To test whether downregulation of EZH2 contributes to the growth inhibition of breast cancer cells, three independent siRNAs specific to EZH2 were designed and transfected into MCF-7 and MDA-MB-231 cells. Two siRNAs, named siEZH2#2 and siEZH2#3, knocked down the EZH2 level by ~80% (Fig. 3a). Both siRNAs substantially reduced the viability of both cell lines (Fig. 3b), suggesting that the proliferation of breast cancer cells is dependent on EZH2.
+                </P>
+                <P>
+                    To explore whether ZLD1039 treatment has a similar effect on cell viability as EZH2 knockdown, the in vitro antiproliferative activities of ZLD1039 against various breast cancer cell lines were examined using the 3–(4,5-dimethylthiazol–2-yl)-2,5-diphenyltetrazolium bromide (MTT) method. Eight human breast cancer cell lines with different genetic backgrounds namely ZR-75-1, ZR-75-30, MCF-7, MDA-MB-231, MDA-MB-468, SKBR-3, BT474, and MDA-MB-435S were chosen for this assay. The dose-response curves of ZLD1039 and IC50 values are shown in Fig. 3c and Supplementary Fig. S2b, respectively. ZLD1039 showed considerable dose-dependent antiproliferative activity against the tumor cell lines tested. Among the cell lines, MCF-7 and ZR-75-1 were the most sensitive to ZLD1039 with IC50 values of 0.99 ± 0.23 and 0.089 ± 0.019 μM, respectively. In addition, the time-course of the ZLD1039-induced effects was examined in detail in two of the sensitive cell lines. The MCF-7 cell line showed potent inhibition of cell proliferation after 2 days and reached the highest level after 4 days (Fig. 3d,e).
+                </P>
+                <P>
+                    Then, we conducted a clonogenic assay to further evaluate the antiproliferative activity of ZLD1039. As shown in Fig. 3f and Supplementary Fig. S2c, both the size and the number of MCF-7, MDA-MB-231, and 4T1 clones were decreased even at low concentrations of ZLD1039.
+                </P>
+                <P>Induction of cell cycle arrest and apoptosis by ZLD1039 in breast cancer cells</P>
+                <P>
+                    To understand the role of EZH2 in the inhibition of the proliferation of breast cancer cells, we first performed a cell-cycle analysis. In MCF-7 cells treated with 2 μmol/L ZLD1039 for 1–7 days, a substantial accumulation of cells in G0/G1phase was detected (Fig. 4a). The percentage of cells in the G0/G1phase increased 2 days after ZLD1039 treatment and reached the highest level after 4 days. Then, MCF-7 and MDA-MB-231 cells were treated with increasing concentrations of ZLD1039 up to 2 and 5 μmol/L, respectively for 4 days and similar results were observed. Cell cycle progression is regulated by various cyclins and related cyclin-dependent kinases. Therefore, we determined the expression of cyclin-dependent kinases (CDKs) and cyclins in ZLD1039-treated cells. As shown in Fig. 4c, cyclin D and CDK2 protein levels were decreased after 4 days of treatment with ZLD1039, whereas cyclin E was increased and the other cyclins determined were not affected. These results were consistent with the accumulation of G0/G1 population in the fluorescence-activated cell sorting (FACS) analysis. Next, we investigated the induction of apoptosis by ZLD1039 treatment using Annexin V/propidium iodide (PI) staining. Exposure of MCF-7 and MDA-MB-231 cells to ZLD1039 for 4 days significantly increased the Annexin V positive cell population suggesting an increase in apoptosis (Fig. 4b). To further confirm the induction of apoptosis by ZLD1039, we examined the expression of apoptosis-related proteins in ZLD1039-treated cells (Fig. 4d). Indeed, the B-lymphoma 2 (Bcl-2) family members, Bcl-2 and Bcl-2 associated X protein (BAX) were decreased and increased, respectively. Furthermore, cleaved-caspase 3 and cleaved-caspase 9 levels were elevated with increasing concentrations (Fig. 4d). Taken together, these results indicate that inhibition of EZH2 by ZLD1039 may considerable block cell cycle progression and induce apoptosis in breast cancer cells.
+                </P>
+                <P>Identification of PRC2-repressed genes reactivated by ZLD1039 in breast cancer cells</P>
+                <P>
+                    EZH2 is associated with transcriptional repression in breast cancer and, therefore, we examined the ZLD1039-induced gene-expression changes in MCF-7 cells using gene expression arrays (Supplementary Fig. S3 and Table S5). Not surprisingly, more genes were up-regulated than down-regulated after ZLD1039 treatment (Fig. 5A), which was consistent with EZH2’s role in transcriptional repression. To further delineate the pathways that were regulated by ZLD1039 through EZH2 inhibition, we performed a Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis of the microarray data (P &lt; 0.05, Fig. 5B). Cell cycle and cytokine-cytokine receptor interaction-associated genes showed the highest significance in the microarray KEGG analysis, consistent with our data on cell cycle and apoptosis. We further selected six genes associated with cell cycle and metastasis that were up-regulated by ZLD1039 and validated their expression using quantitative real-time reverse transcription-polymerase chain reaction (qRT-PCR, Fig. 5C). Among the genes, RUNX3, CDKN1C, and CDH1 were considerable up-regulated. As shown in Fig. 4c, the RUNX3 gene downstream protein p21 was recovered while CDK2 and cyclin D were decreased. Collectively, these results suggest that ZLD1039 inhibited EZH2 enzyme activity, up-regulated CDK inhibition, lead to cell cycle arrest and apoptosis (Fig. 5D,E).
+                </P>
+                <P>Anti-tumor activity of ZLD1039 in breast xenograft animal models</P>
+                <P>
+                    To evaluate the antitumor activity of ZLD1039 in vivo, three breast tumor xenograft models namely MCF-7, MDA-MB-231, and 4T1 cell lines models were used in this study. In all the models, ZLD1039 markedly induced tumor growth inhibition (TGI) in a dose-dependent manner (Fig. 6a,b,c and Supplementary Fig. S4a). TGI levels of 86.1 and 58.6% were observed at 200 and 250 mg/kg in the MDA-MB-231 and 4T1 cell models, respectively. In the MCF-7 cell model, the highest dosage of 200 mg∙kg−1∙day−1 administered in 3 divided doses showed the maximum TGI of 67.5%. Furthermore, the 100 mg∙kg−1∙day−1 administered in 3 divided doses induced a higher TGI than 200 mg∙kg−1∙day−1 did. The results may due to the pharmacokinetic properties of ZLD1039 (Supplementary Table S4). Following oral administration, ZLD1039 was rapidly absorbed with maximal concentrations achieved 15 min after dosing. Furthermore, the mean residence time was 3.29 h with an elimination half-life (t1/2) of 4.36 h in rats. Moreover, ZLD1039 was well tolerated with only slight effects on the body weight of all the treatment groups (Supplementary Fig. S4b), which was confirmed by the results from sub-acute toxicity study in mice (Supplementary Fig. S5).
+                </P>
+                <P>
+                    To examine the effects of ZLD1039 on cell cycle and apoptosis in vivo, MCF-7 tumors were harvested on day 14 after treatment with ZLD1039 for immunohistochemistry and terminal deoxynucleotidyl transferase (TdT) dUTP nick-end labelling (TUNEL) assays. As depicted in Fig. 6d,e, ZLD1039 potently inhibited the expression of cyclin D (from 57 ± 5.4 to 13.8 ± 2.3%) and increased that of p21 (from 8 ± 1.9 to 33.6 ± 4.9%). In addition, there was a substantial decrease in tumor cell proliferation (Ki-67-positive cells, from 52 ± 7.7 to 2.6 ± 1.2%) as well as a clear increase in apoptosis (TUNEL- positive cells, from 2.7 ± 0.7 to 16.3 ± 2.4%) compared with tumors of the group treated with vehicle. Overall, these results showed that ZLD1039 regulated the expression of specific cell cycle-associated proteins in vivo, thereby blocking proliferation, and inducing apoptosis in human breast tumor xenograft models.
+                </P>
+                <P>Antimetastatic activities of ZLD1039 against breast cancer cells in vitro and in vivo</P>
+                <P>
+                    Previous studies showed that EZH2 promotes migration and invasion of breast cancer cell lines30,31. Therefore, we further assessed the effect of ZLD1039 on tumor metastasis. MDA-MB-231 and 4T1 cells were used for the transwell assay to assess the drug effects on invasiveness because these cell lines possess metastatic ability. As shown in Fig. 7a, ZLD1039 potently blocked the invasion of the MDA-MB-231 and 4T1 cells with invasion inhibition rates of 72.6 ± 4.4 and 70.9 ± 2.6%, respectively. Furthermore, matrix metalloproteinase MMP-2, MMP-9, and E-cadherin, which are considered to be associated with cell migration and invasion were detected in 4T1 cells. As shown in Fig. 7b, MMP-2 and MMP-9 was decreased, whereas E-cadherin was increased after ZLD1039 treatment.
+                </P>
+                <P>
+                    The 4T1 murine breast cancer cell line has a high metastatic potential and can spontaneously metastasize to the lung after inoculation in BALB/C female mice. Therefore, we investigated the effect of ZLD1039 on 4T1 lung metastasis. On day 18, the number and size of the metastatic lung nodules were markedly reduced in the ZLD1039-treated mice compared with the vehicle-treated mice (Fig. 7c). In addition, examination of the intact lungs using haematoxylin and eosin (H&amp;E) staining confirmed that the number of micrometastatic nodules in the ZLD1039-treated group was fewer than that in the vehicle-treated group (Fig. 7d). Then, the expression of MMP-2, MMP-9, and E-cadherin was detected in 4T1 graft tumors treated with ZLD1039 for 18 days, using an immunohistochemical (IHC) assay. The results indicated that treatment with ZLD1039 substantially inhibited the expression of MMP-2 and MMP-9 and increased that of E-cadherin (from 57.1 ± 4.4 to 10.1 ± 2.4, 42.4 ± 3.1 to 15.7 ± 3.3, and 8.6 ± 0.7 to 43.6 ± 4.0%, respectively) in vivo, which was similar to the in vitro results (Fig. 7e). Moreover, the gene expression arrays revealed that CDH1 was up-regulated by EZH2 inhibition following ZLD1039 treatment (Fig. 5C). Therefore, the antimetastatic activity of ZLD1039 may be due to the recovery of CDH1 (E-cadherin), and associated with MMP-2 and MMP-9 (Fig. 5D,E).
+                </P>
+                <P>Discussion</P>
+                <P>
+                    The HMTs are an epigenetic enzyme class that play a paramount role in the regulation of gene transcription. The several genetic alterations discovered in the HMTs have been shown to drive specific human cancers32,33. The enzyme EZH2 is the catalytic subunit of the PRC2 and acts on HMT to catalyse the site-specific methylation of H3K2734. Importantly, PRC2 maintains the transcriptional repression of numerous genes with regulatory roles in cell development and differentiation7. Numerous studies suggest that up-regulation of H3K27me3 levels by EZH2 overexpression or mutation could silence tumor suppressors connected to promoting tumor growth and metastasis. Furthermore, this suggestion has attracted attention to this enzyme as a potential therapeutic target.
+                </P>
+                <P>
+                    Overexpression of EZH2 is frequently detected in invasive and metastatic breast cancers, and associated with cancer progression or poor prognosis13,14. Notably, EZH2 appears to be not only a promising tumor biomarker but may itself contribute to tumor progression, similar to an oncogene. EZH2 disruption by si/shRNA, DZNep (an indirect and general inhibitor of methyltransferases), or both has decreased cell proliferation, induced apoptosis in vitro18,19,20, and significantly decreased breast xenograft growth in vivo18. In the present study, we showed that pharmacological inhibition of EZH2 using a novel EZH2 inhibitor ZLD1039, reduced cell proliferation, induced breast cancer cell apoptosis, and led to the regression of three established breast tumor xenografts in mice with excellent tolerance. Collectively, these data confirm the dependency of breast cancers on PRC2 activity and provide evidence that the pharmacological inhibition of EZH2 could provide a basis for its use as a therapeutic intervention in breast cancers.
+                </P>
+                <P>
+                    Apoptosis is a programmed cell suicide process that is essential for the development and maintenance of tissue homeostasis and its dysfunction results in numerous types of malignancies in humans35,36. Recently, Zhou et al.37 showed that the mitochondrial-dependent apoptosis in cancer cells was significantly induced when EZH2 was depleted. In this study, a decreased level of Bcl-2 and increased level of BAX were observed in breast cancer cells after ZLD1039 treatment. Activation of caspase 9 and caspase 3 was also observed after the treatment. The changes in proteins related to the mitochondrial cell death pathway suggest that the apoptosis induction by ZLD1039 might be mediated by EZH2 disturbance as well as damage to the mitochondrial membrane.
+                </P>
+                <P>
+                    Since EZH2 acts as a transcriptional repressor, inhibition of its activity restores genes expression including those of cell cycle inhibitors and tumor suppressors, leading to decreased cell proliferation. Here, we demonstrated that more genes were up-regulated than down-regulated after ZLD1039 treatment in the microarray analysis, which was consistent with EZH2′s role in transcriptional repression. In addition, inhibition of EZH2 by ZLD1039 restored the expression of cell cycle inhibitors and tumor suppressors. RUNX3 is an established breast tumor suppressor, and it has been demonstrated that its down-regulation is controlled by H3K27me3 through EZH238. In this study, the expression of RUNX3 was recovered by ZLD1039, which led to the up-regulation of the downstream protein p21 (Fig. 4c). The CDKN1C has been reported to be targeted by EZH2-mediated H3K27me3 in breast cancer, which encodes the tumor suppressor p57 protein39. Following treatment with ZLD1039, the recovery of CDKN1C expression was observed. The downstream p21 and p57 are all CDK inhibitors, which lead to the reduction of CDK2, CDK4/6, and cyclin D and delay the G0/G1 cell-cycle transition. Here, we found that CDK2 and cyclin D decreased after ZLD1039 treatment, consistent with the G0/G1 arrest in cell-cycle analysis. Finally, CDH1 encodes the metastasis-related protein E-cadherin and has been reported to be associated with H3K27me3 levels in the promoter40. ZLD1039 inhibited breast cancer metastasis in the present study likely by the suppression of CDH1. Therefore, the combined effects of ZLD1039-mediated EZH2 inhibition on several cancer pathways likely mediates the dramatic antitumor activity seen in the breast cancer models.
+                </P>
+                <P>
+                    However, transcription suppression is the result of the interaction between EZH2 and other chromatin modifiers such as histone deacetylases and DNA methyltransferases41. Future studies are needed to determine if the target genes, including the tumor suppressors, can be sufficiently reactivated by decreasing the H3K27me3 level alone. Furthermore, the information may facilitate our understanding of how to develop and use the EZH2 inhibitor as a single agent or in combination with other inhibitors for breast cancer treatment.
+                </P>
+                <P>
+                    In conclusion, we have characterized an EZH2 inhibitor, ZLD1039 that showed considerable antitumor activity both in vitro and in vivo. Combined with several molecules have been successfully applied in preclinical cancer models23,24,25,26 and are likely to be taken forward to clinical trails, the present data suggest that pharmacological inhibition of EZH2 enzymatic activity could provide a basis of for its use as a therapeutic intervention in non-Hodgkin lymphoma and solid tumors, which are dependent on EZH2 enzymatic activity and ZLD1039 is worth being optimized and develop as a therapeutic agent for clinical application.
+                </P>
+                <P>Methods</P>
+                <P>Cell culture and reagent</P>
+                <P>
+                    The human breast cancer cell lines MCF-7, ZR-75-1, ZR-75-30, SKBR3, BT-474, MDA-MB-231, MDA-MB-468, and MDA-MB-435S were all acquired from the American Type Culture Collection (ATCC, Manassas, VA, USA). The cells were cultured in Dulbecco’s modified Eagle’s medium (DMEM) or Rosewell Park Memorial Institute (RPMI) 1640 media containing 10% foetal bovine serum (FBS) and 0.1% amikacin sulphate under humidified conditions with 5% CO2 at 37 °C. No further authentication was conducted for the tumor cell lines. ZLD1039 was synthesized at the State Key of Laboratory of Biotherapy (Sichuan University, Sichuan, China)22.
+                </P>
+                <P>Biochemical Assay</P>
+                <P>
+                    The enzyme levels of the histone methyltransferase panel were determined using the AlphaLISA immunodetection assay conducted using the enzyme profiler service provided by Shanghai ChemPartner (Shanghai, China). The values were further determined using an AlphaLISA methyltransferase assay kit (PerkinElmer, MA, USA) according to the manufacturer’s protocol.
+                </P>
+                <P>Immunofluorescence (IF), immunohistochemistry (IHC), and western blot (WB) analyses</P>
+                <P>
+                    The IF, IHC, and WB analyses were conducted according to standard protocols with minor modifications due to antibody optimization. The antibodies used are listed in the Supplementary Table S1.
+                </P>
+                <P>ELISA</P>
+                <P>
+                    Proteins isolated from cells that were treated with ZLD1039 for 4 days at different concentration, and different periods at 2 μM were placed into the ELISA plates, and the assays were performed using the ELISA Accessory kit (Dakewei Biotech, Shenzhen, China) according to the manufacturer’s protocol. The final reaction mixture absorbance was read at 450 nm using a SpectraMax M 5 microplate reader.
+                </P>
+                <P>Cell proliferation and colony formation assay</P>
+                <P>
+                    A variety of human breast cancer cell lines were treated with the indicated concentrations of ZLD1039 for 4 days, and cell viability was determined using an MTT (Sigma-Aldrich, St. Louis, MO, USA) assay. The IC50 values were calculated using the GraphPad Prism 5.01 software. For the colony formation assay, cells were treated with ZLD1039 for 14 days, fixed with methanol, and then stained with crystal violet. Then, the colonies with &gt;50 cells were counted under an inverted microscope.
+                </P>
+                <P>Cell cycle and apoptosis analyses</P>
+                <P>
+                    For the cell cycle analyses, the ZLD1039-treated cells were fixed and stained with the PI staining solution for 10 min in the dark and then analysed using flow cytometry (FCM). The data were analysed using the Cell Quest and Flow Jo software. For the apoptosis assays, the cells were harvested and analysed using an Annexin V- fluorescein isothiocyanate (FITC) apoptosis detection kit (Roche, Indianapolis, IN, USA) according to the manufacturer’s protocol.
+                </P>
+                <P>Cell invasion assay</P>
+                <P>
+                    The invasion assays were conducted according to standard protocols. Briefly, the upper chambers of 24-well transwell plates (Millipore) were coated with matrigel diluted in serum-free medium (1:1) while the lower chambers were filled with 600 μl of medium with 10% FBS. After the matrigel polymerization, the cells in serum-free medium were placed in the upper chambers and treated with different concentrations of ZLD1039. After a 24-h incubation, the non-migrated cells were removed from the upper side of the filter, and the migrated cells were fixed with 4% paraformaldehyde and stained with 0.05% crystal violet. The migrated cells were photographed, and the cell in six random fields of each well were counted under a light microscope.
+                </P>
+                <P>Gene expression profiling, data processing, and further analyses</P>
+                <P>
+                    Gene expression profiling was conducted using a profiler service provided by Shanghai Biotechnology Corporation (Shanghai, China). The total RNA was purified from MCF-7 cells after dimethyl sulphoxide (DMSO) or ZLD1039 (1.5 μM) treatment for 3 days. Triplicate samples were collected and hybridized to the GeneChip PrimeView Human Gene Expression Array (Affymetrix). Differential gene expression was determined using the limma statistical package (http://www.bioconductor.org), and we conducted pairwise contrasts of ZLD1039-treated versus the control. Significant probe sets were filtered for detection using fold-change &gt;2 and P &lt; 0.05 (Student t-test). The differential gene expressions (gCTL_ vs. gZ1039-T_, P &lt; 0.05) were used in the KEGG analysis.
+                </P>
+                <P>SiRNA transfection and qRT-PCR analysis</P>
+                <P>
+                    Cells were transfected with validated siRNA for EZH2 at a concentration of 100 nM using jetPRIME DNA and siRNA Transfection Reagent (Polyplus-transfection SA, NY, USA). The EZH2 gene target-specific siRNAs were purchased from Gene Pharma (Shanghai, China) and the targeting sequences are listed in Supplementary Table S2. For the qRT-PCR analyses of mRNAs, total RNA was isolated using TRIZOL and reverse transcribed to cDNA using the PrimeScript 1st Strand cDNA Synthesis kit. The qRT-PCR reactions were performed using SYBR Green technology and the PCR primers are listed in Supplementary Table S2.
+                </P>
+                <P>Subcutaneous xenograft models</P>
+                <P>
+                    All animal experiments were approved by the Institutional Animal Care and Treatment Committee of Sichuan University, China (Permit Number: 20140807, 20141009 and 20141030) and were carried out in accordance with the approved guidelines.
+                </P>
+                <P>
+                    For the MCF-7 tumor xenograft model, BALB/c nude mice received 5 × 106 cells (0.1 mL cell suspension) subcutaneously on the right flank. When tumors had reached an average volume of 100 mm3, the mice were randomly divided into four groups (n = 5). ZLD1039 or the vehicle consisting of 12.5% each of polyoxyethylenated castor oil (EL) and ethanol (ETOH) in normal saline (NS) was administered at the indicated doses three times daily every 8 h or once a day for 24 days by oral gavage.
+                </P>
+                <P>
+                    The MDA-MB-231 donor tumors were first prepared by subcutaneously implanting 1 × 107 cells (0.1 mL cell suspension) into the right flank of BALB/c nude mice. The donor tumors were then dissected into fragments of approximate 20 mm3 and subsequently subcutaneously implanted into the BALB/c nude mice. After implantation, mice with tumors ranging 70–120 mm3 were selected and randomized into groups for the efficacy study (n = 5). ZLD1039 or the vehicle was administered once a day for 28 days by oral gavage.
+                </P>
+                <P>
+                    The 4T1 breast cancer cells have a high metastatic potential and can spontaneously metastasize to the lung as early as 2 weeks after inoculation in mice42. In this study, 5 × 105 4T1 cells (0.1 mL cell suspension) were injected subcutaneously into the right flank of BALB/c female mice. About 4 days after tumor cell inoculation, the injection sites exhibited tumors, and after about 7 days, the tumor-bearing mice were randomized into three groups (n = 5). ZLD1039 or vehicle was administered once a day for 18 days by oral gavage. For all subcutaneous xenograft models, the tumor volumes and body weight were assessed every 3 days. Tumor volume was calculated using the following formula: tumor volume = length × width2 × 0.55.
+                </P>
+                <P>Pharmacokinetic analyses and sub-acute toxicity test</P>
+                <P>
+                    For the pharmacokinetic analysis, blood from Sprague-Dawley rats dosed with ZLD1039 was collected in pre-chilled K2-ethylenediaminetetraacetic acid (EDTA) tubes at pre-specified time intervals. The plasma samples were isolated by centrifugation, and the concentrations of ZLD1039 were determined using liquid chromatography-tandem mass spectrometry (LC-MS/MS). For the sub-acute toxicity test, the clinical symptoms of the BALB/C mice orally administered 2 g/kg ZLD1039 were observed. Blood was collected and subjected to haematological and serum biochemistry analyses using the Hitachi 7200 Blood Chemistry Analyzer and a Nihon Kohden MEK-5216K Automatic Hematology Analyzer. The main organs of the mice were H&amp;E stained for pathology examination.
+                </P>
+                <P>Statistical analyses</P>
+                <P>
+                    The means and group differences of the data were statistically analysed using the Student’s t-test using the GraphPad Prism 5.01 software. A P &lt; 0.05 was considered statistically significant.
+                </P>
+                <P>Additional Information</P>
+                <P>
+                    How to cite this article: Song, X. et al. Selective inhibition of EZH2 by ZLD1039 blocks H3K27methylation and leads to potent anti-tumor activity in breast cancer. Sci. Rep. 6, 20864; doi: 10.1038/srep20864 (2016).
+                </P>
+                <P>Supplementary Material</P>
+                <P>Acknowledgments</P>
+                <P>
+                    This work was supported by Zhejiang Apeloa Medical Technology Co., Ltd. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+                </P>
+                <P>Footnotes</P>
+                <P>
+                    Author Contributions L.Y., X.S., N.W. and L.Z. conceived and designed the experiments. X.S., L.Z., T.G., Q.F., X.Y., Q.L. and M.X. performed the experiments. X.S., L.Y. and Y.Z. wrote the paper. T.Y., N.W., Y.W., Y. S., F.Y. and L.Y. reviewed the manuscript. All authors reviewed the paper.
+                </P>
+                <P>References</P>
+            </ITEM_BODY>
+            <CITATIONS> </CITATIONS>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

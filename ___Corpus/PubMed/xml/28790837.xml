@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28790837?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28790837?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28790837</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>09</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>11</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">1178-6930</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>10</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>OncoTargets and therapy</Title>
+                            <ISOAbbreviation>Onco Targets Ther</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Rucaparib: the past, present, and future of a newly approved PARP inhibitor for ovarian cancer.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>3029-3037</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.2147/OTT.S114714</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Rucaparib camsylate (CO-338, AG-014699, PF-01367338) is a potent PARP-1, PARP-2, and PARP-3 inhibitor. Phase I and II studies demonstrated clinical efficacy in both BRCA-mutated (inclusive of germline and somatic) ovarian tumors and ovarian tumors with homologous recombination deficiency (HRD) loss of heterozygosity (LOH). Rucaparib has received the US Food and Drug Administration (FDA) approval for patients with deleterious BRCA mutation (germline and/or somatic)-associated advanced ovarian cancer who have been treated with two or more chemotherapies. There is evidence to suggest that rucaparib has clinical efficacy against ovarian tumors with high HRD-LOH. Rucaparib's companion diagnostic FoundationFocus™ CDx BRCA test is the first FDA-approved next-generation sequencing-based companion diagnostic test designed to identify patients likely to respond to rucaparib. This article reviews the mechanisms of action, safety, approval, and indications for use of the PARP inhibitor rucaparib as well as future trials and use of rucaparib's companion diagnostic test.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Dockery</LastName>
+                                <ForeName>L E</ForeName>
+                                <Initials>LE</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Obstetrics and Gynecology, Section of Gynecologic Oncology, Stephenson Cancer Center, University of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Gunderson</LastName>
+                                <ForeName>C C</ForeName>
+                                <Initials>CC</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Obstetrics and Gynecology, Section of Gynecologic Oncology, Stephenson Cancer Center, University of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Moore</LastName>
+                                <ForeName>K N</ForeName>
+                                <Initials>KN</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Obstetrics and Gynecology, Section of Gynecologic Oncology, Stephenson Cancer Center, University of Oklahoma Health Sciences Center, Oklahoma City, OK, USA.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                            <PublicationType UI="D016454">Review</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>06</Month>
+                            <Day>19</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>New Zealand</Country>
+                        <MedlineTA>Onco Targets Ther</MedlineTA>
+                        <NlmUniqueID>101514322</NlmUniqueID>
+                        <ISSNLinking>1178-6930</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Future Oncol. 2016 Jun;12 (12 ):1439-56</RefSource>
+                            <PMID Version="1">27087632</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2015 Apr 20;33(12):1397-406</RefSource>
+                            <PMID Version="1">25779564</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2005 Apr 14;434(7035):913-7</RefSource>
+                            <PMID Version="1">15829966</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2014 Jul;15(8):852-61</RefSource>
+                            <PMID Version="1">24882434</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Discov. 2015 Nov;5(11):1137-54</RefSource>
+                            <PMID Version="1">26463832</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2016 Dec;375(22):2154-2164</RefSource>
+                            <PMID Version="1">27717299</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Pharm Sci. 2013 Dec;102(12):4426-32</RefSource>
+                            <PMID Version="1">24122511</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2017 Jan;18(1):75-87</RefSource>
+                            <PMID Version="1">27908594</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2011 Jun 29;474(7353):609-15</RefSource>
+                            <PMID Version="1">21720365</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biomark Res. 2015 May 01;3:9</RefSource>
+                            <PMID Version="1">26015868</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2017 Apr 15;23 (8):2050-2060</RefSource>
+                            <PMID Version="1">27702817</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2016 Aug;27(8):1449-55</RefSource>
+                            <PMID Version="1">27037296</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gynecol Oncol. 2016 Feb;140(2):199-203</RefSource>
+                            <PMID Version="1">26723501</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2015 Jan 20;33(3):244-50</RefSource>
+                            <PMID Version="1">25366685</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gynecol Oncol. 2016 Sep;142(3):588-96</RefSource>
+                            <PMID Version="1">27168003</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2014 Feb 1;20(3):764-75</RefSource>
+                            <PMID Version="1">24240112</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Biotechnol. 2013 Nov;31(11):1023-31</RefSource>
+                            <PMID Version="1">24142049</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2016 Jun;27(6):1013-9</RefSource>
+                            <PMID Version="1">26961146</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gynecol Oncol. 2012 Feb;124(2):347-53</RefSource>
+                            <PMID Version="1">22264603</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gynecol Oncol. 2016 Jun;141(3):405-409</RefSource>
+                            <PMID Version="1">27049967</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2016 Apr;27 Suppl 1:i63-i65</RefSource>
+                            <PMID Version="1">27141075</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2007 Mar;6(3):945-56</RefSource>
+                            <PMID Version="1">17363489</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2014 Feb 1;20(3):540-7</RefSource>
+                            <PMID Version="1">24270682</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Biotechnol. 2012 Feb 19;30(3):283-8</RefSource>
+                            <PMID Version="1">22343925</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Cancer. 2016 Nov 8;115(10 ):1157-1173</RefSource>
+                            <PMID Version="1">27736844</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2017 Jul 15;23 (14 ):3711-3720</RefSource>
+                            <PMID Version="1">28167507</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Natl Cancer Inst. 2011 Feb 16;103(4):334-46</RefSource>
+                            <PMID Version="1">21183737</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2008 Dec 1;14 (23 ):7917-23</RefSource>
+                            <PMID Version="1">19047122</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Xenobiotica. 2017 Oct;47(10 ):903-915</RefSource>
+                            <PMID Version="1">27684210</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2013 Jun;12 (6):1002-15</RefSource>
+                            <PMID Version="1">23729402</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Future Oncol. 2015 ;11(5):747-57</RefSource>
+                            <PMID Version="1">25757679</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2005 Apr 14;434(7035):917-21</RefSource>
+                            <PMID Version="1">15829967</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gynecol Oncol Res Pract. 2017 Feb 22;4:4</RefSource>
+                            <PMID Version="1">28250960</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2012 Apr 12;366(15):1382-92</RefSource>
+                            <PMID Version="1">22452356</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">PARP inhibitor</Keyword>
+                        <Keyword MajorTopicYN="N">companion diagnostic</Keyword>
+                        <Keyword MajorTopicYN="N">loss of heterozy-gosity</Keyword>
+                        <Keyword MajorTopicYN="N">ovarian cancer</Keyword>
+                        <Keyword MajorTopicYN="N">rucaparib</Keyword>
+                    </KeywordList>
+                    <CoiStatement>
+                        Disclosure Dr CC Gunderson has served on an advisory board for Clovis Oncology. Dr KN Moore has served on advisory boards for Astra Zeneca, Clovis Oncology, Tesaro, Genentech/Roche, Advaxis, Immunogen, VBL Therapeutics, and Sutro, and also serves on the steering committees for Advaxis, Tesaro, and Genentech/Roche. Dr LE Dockery reports no conflicts of interest in this work.
+                    </CoiStatement>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>10</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>10</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>8</Month>
+                            <Day>10</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28790837</ArticleId>
+                        <ArticleId IdType="doi">10.2147/OTT.S114714</ArticleId>
+                        <ArticleId IdType="pii">ott-10-3029</ArticleId>
+                        <ArticleId IdType="pmc">PMC5488752</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

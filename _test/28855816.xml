@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28855816?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28855816?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28855816</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>31</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>09</Month>
+                        <Day>03</Day>
+                    </DateRevised>
+                    <Article PubModel="Print-Electronic">
+                        <Journal>
+                            <ISSN IssnType="Print">1319-562X</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>24</Volume>
+                                <Issue>6</Issue>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                    <Month>Sep</Month>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Saudi journal of biological sciences</Title>
+                            <ISOAbbreviation>Saudi J Biol Sci</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Identification of novel inhibitors against Cyclin Dependent Kinase 9/Cyclin T1 complex as: Anti cancer agent.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>1229-1242</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.1016/j.sjbs.2015.10.003</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Cell cycle consists of different types of phases, transition from G1, S, G2, M. Inhibition of associated CDKs like CDK9/Cyclin T1 complex, which are indirectly involved in the Cell cycle progression in the form of transcription elongation, reduces diverse diseases such as Cardiac Hypertrophy, Alzheimer's, Cancer, AIDS and Inflammation. Glide tool of the Schrodinger software has been used for performing Structure Based Virtual Screening and Docking against Drug Bank and MDPI database. The best hits were identified which go and bind in the active site of the target where ATP binds for the activity. The ADMET, MM-GBSA and DFT analysis is also done for the same. Compound 4-{4-[4-(3-aminopropoxy)phenyl]-1H-pyrazol-5-yl}-6-chlorobenzene-1,3-diol (DB08045) was found to be more potent, novel and selective as an inhibitor. Hopefully compound (DB08045) could be used as an anti-cancer agent for the treatment of life-threatening diseases.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Hussain</LastName>
+                                <ForeName>Afzal</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Bioinformatics, MANIT, Bhopal, M.P. 462003, India.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Verma</LastName>
+                                <ForeName>Chandan Kumar</ForeName>
+                                <Initials>CK</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Bioinformatics, MANIT, Bhopal, M.P. 462003, India.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Chouhan</LastName>
+                                <ForeName>Usha</ForeName>
+                                <Initials>U</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Department of Bioinformatics, MANIT, Bhopal, M.P. 462003, India.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2015</Year>
+                            <Month>10</Month>
+                            <Day>22</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Saudi Arabia</Country>
+                        <MedlineTA>Saudi J Biol Sci</MedlineTA>
+                        <NlmUniqueID>101543796</NlmUniqueID>
+                        <ISSNLinking>1319-562X</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>FEBS Lett. 1998 Jun 23;430(1-2):1-11</RefSource>
+                            <PMID Version="1">9678585</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Pharm Des. 2012;18(20):2883-90</RefSource>
+                            <PMID Version="1">22571657</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2006 Oct 19;49(21):6177-96</RefSource>
+                            <PMID Version="1">17034125</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gene. 2004 Aug 4;337:15-23</RefSource>
+                            <PMID Version="1">15276198</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Br J Pharmacol. 2011 Jul;163(5):1086-98</RefSource>
+                            <PMID Version="1">21391976</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Cell Dev Biol. 1997;13:261-91</RefSource>
+                            <PMID Version="1">9442875</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Gene. 2003 Mar 27;307:175-82</RefSource>
+                            <PMID Version="1">12706900</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1999 Dec 3;274(49):34527-30</RefSource>
+                            <PMID Version="1">10574912</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biosci Rep. 2010 Mar 17;30(4):243-55</RefSource>
+                            <PMID Version="1">20337599</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Chem Biol. 2010 Oct 29;17(10):1111-21</RefSource>
+                            <PMID Version="1">21035734</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Trends Genet. 2008 Jun;24(6):280-8</RefSource>
+                            <PMID Version="1">18457900</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Chem Biol. 2010 Sep 24;17(9):931-6</RefSource>
+                            <PMID Version="1">20851342</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Med Chem. 1999 Sep;6(9):859-75</RefSource>
+                            <PMID Version="1">10495356</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Opin Chem Biol. 2007 Oct;11(5):494-502</RefSource>
+                            <PMID Version="1">17936059</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>EMBO J. 2008 Jul 9;27(13):1907-18</RefSource>
+                            <PMID Version="1">18566585</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Bioessays. 1995 Jun;17(6):471-80</RefSource>
+                            <PMID Version="1">7575488</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2000 Sep 15;275(37):28345-8</RefSource>
+                            <PMID Version="1">10906320</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 2004 Oct 15;18(20):2437-68</RefSource>
+                            <PMID Version="1">15489290</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2006 Nov 2;49(22):6500-9</RefSource>
+                            <PMID Version="1">17064068</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2009 Sep 10;461(7261):186-92</RefSource>
+                            <PMID Version="1">19741698</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Curr Oncol. 2009 Mar;16(2):36-43</RefSource>
+                            <PMID Version="1">19370178</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Mol Biol. 2007 Jul 27;370(5):826-36</RefSource>
+                            <PMID Version="1">17540406</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 1998 May 29;273(22):13855-60</RefSource>
+                            <PMID Version="1">9593731</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Natl Cancer Inst. 2000 Mar 1;92(5):376-87</RefSource>
+                            <PMID Version="1">10699068</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Cancer. 2010 Apr;1(4):369-80</RefSource>
+                            <PMID Version="1">21779453</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Arterioscler Thromb Vasc Biol. 2011 Feb;31(2):280-8</RefSource>
+                            <PMID Version="1">21088252</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Med Res Rev. 2010 Jul;30(4):646-66</RefSource>
+                            <PMID Version="1">19757441</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Pharmacol Ther. 1999 May-Jun;82(2-3):195-206</RefSource>
+                            <PMID Version="1">10454197</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 1998 Mar 1;12(5):755-62</RefSource>
+                            <PMID Version="1">9499409</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Signal. 2005 Sep;17(9):1033-51</RefSource>
+                            <PMID Version="1">15935619</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Prolif. 2003 Jun;36(3):131-49</RefSource>
+                            <PMID Version="1">12814430</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Med Chem. 2011 Sep;46(9):4289-94</RefSource>
+                            <PMID Version="1">21777997</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Biol Ther. 2002 Jul-Aug;1(4):342-7</RefSource>
+                            <PMID Version="1">12432243</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 1994 Apr 26;91(9):3834-8</RefSource>
+                            <PMID Version="1">8170997</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2009 Jan;9(1):28-39</RefSource>
+                            <PMID Version="1">19104514</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Cell Physiol. 2005 Apr;203(1):251-60</RefSource>
+                            <PMID Version="1">15452830</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2006 Aug 10;49(16):4805-8</RefSource>
+                            <PMID Version="1">16884290</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Mol Biol. 1999 Apr 16;287(5):821-8</RefSource>
+                            <PMID Version="1">10222191</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Adv Drug Deliv Rev. 2001 Mar 1;46(1-3):3-26</RefSource>
+                            <PMID Version="1">11259830</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Trends Genet. 1995 Apr;11(4):136-40</RefSource>
+                            <PMID Version="1">7732591</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 1997 Oct 15;11(20):2622-32</RefSource>
+                            <PMID Version="1">9334325</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Genes Dev. 2006 Nov 1;20(21):2922-36</RefSource>
+                            <PMID Version="1">17079683</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Comput Chem. 2005 Dec;26(16):1752-80</RefSource>
+                            <PMID Version="1">16211539</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Biol Cell. 1992 May;3(5):571-82</RefSource>
+                            <PMID Version="1">1535244</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell. 1998 Feb 20;92(4):451-62</RefSource>
+                            <PMID Version="1">9491887</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Pharmacol Ther. 2002 Feb-Mar;93(2-3):125-33</RefSource>
+                            <PMID Version="1">12191605</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Comb Chem High Throughput Screen. 2009 Mar;12(3):303-14</RefSource>
+                            <PMID Version="1">19275536</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2001 Feb 15;409(6822):860-921</RefSource>
+                            <PMID Version="1">11237011</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">ATP, adenosine triphosphate</Keyword>
+                        <Keyword MajorTopicYN="N">CDK</Keyword>
+                        <Keyword MajorTopicYN="N">CDK9, Cyclin Dependent Kinase 9</Keyword>
+                        <Keyword MajorTopicYN="N">CTD, carboxy terminal domain</Keyword>
+                        <Keyword MajorTopicYN="N">Cancer</Keyword>
+                        <Keyword MajorTopicYN="N">Cell cycle</Keyword>
+                        <Keyword MajorTopicYN="N">DFT, density functional theory</Keyword>
+                        <Keyword MajorTopicYN="N">Drug Bank</Keyword>
+                        <Keyword MajorTopicYN="N">HOMO, high occupied molecular orbital</Keyword>
+                        <Keyword MajorTopicYN="N">LUMO, lowest unoccupied molecular orbital</Keyword>
+                        <Keyword MajorTopicYN="N">MDPI</Keyword>
+                        <Keyword MajorTopicYN="N">MDPI, molecular diversity preservation international</Keyword>
+                        <Keyword MajorTopicYN="N">MW, molecular weight</Keyword>
+                        <Keyword MajorTopicYN="N">P-TEFB, positive transcription elongation factor B</Keyword>
+                        <Keyword MajorTopicYN="N">Potent</Keyword>
+                        <Keyword MajorTopicYN="N">SBVS, structure based virtual screening</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2015</Year>
+                            <Month>04</Month>
+                            <Day>21</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="revised">
+                            <Year>2015</Year>
+                            <Month>10</Month>
+                            <Day>05</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2015</Year>
+                            <Month>10</Month>
+                            <Day>07</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>1</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>1</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>9</Month>
+                            <Day>1</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>ppublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28855816</ArticleId>
+                        <ArticleId IdType="doi">10.1016/j.sjbs.2015.10.003</ArticleId>
+                        <ArticleId IdType="pii">S1319-562X(15)00244-2</ArticleId>
+                        <ArticleId IdType="pmc">PMC5562455</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

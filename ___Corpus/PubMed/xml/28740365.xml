@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28740365?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28740365?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="In-Process">
+                    <PMID Version="1">28740365</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>07</Month>
+                        <Day>25</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>24</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Electronic">1177-8881</ISSN>
+                            <JournalIssue CitedMedium="Internet">
+                                <Volume>11</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Drug design, development and therapy</Title>
+                            <ISOAbbreviation>Drug Des Devel Ther</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Spotlight on ceritinib in the treatment of ALK+ NSCLC: design, development and place in therapy.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>2047-2063</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.2147/DDDT.S113500</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                The identification of echinoderm microtubule-associated protein-like 4 (EML4) and anaplastic lymphoma kinase (ALK) fusion gene in non-small cell lung cancer (NSCLC) has radically changed the treatment of a subset of patients harboring this oncogenic driver. Crizotinib was the first ALK tyrosine kinase inhibitor to receive fast approval and is currently indicated as the first-line therapy for advanced, ALK-positive NSCLC patients. However, despite crizotinib's efficacy, patients almost invariably progress, with the central nervous system being one of the most common sites of relapse. Different mechanisms of acquired resistance have been identified, including secondary ALK mutations, ALK copy number alterations and activation of bypass tracks. Different highly potent and brain-penetrant next-generation ALK inhibitors have been developed and tested in NSCLC patients with ALK rearrangements. Ceritinib, a structurally distinct and selective ALK inhibitor, showed 20 times higher potency than crizotinib in inhibiting ALK and had activity against the most common crizotinib-resistant mutations, including L1196M and G1269A, in preclinical models. In Phase I and II studies, ceritinib demonstrated pronounced activity in both crizotinib-naïve and crizotinib-refractory patients, with responses observed regardless of the presence of ALK resistance mutations. Ceritinib was the first ALK inhibitor to be approved for the treatment of crizotinib-refractory, ALK-rearranged NSCLC, and recent results from a Phase III study have demonstrated superior efficacy compared to standard chemotherapy in the first- and second-line setting. We provide an extensive overview of ceritinib from the design of the compound through preclinical data until efficacy and toxicity results from Phase I-III clinical studies. We review the molecular alterations associated with resistance to ceritinib and highlight the importance of obtaining tumor biopsy at progression to tailor therapy based upon the underlying resistance mechanism. We finally provide an outlook on novel rational therapeutic combinations.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Santarpia</LastName>
+                                <ForeName>Mariacarmela</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Daffinà</LastName>
+                                <ForeName>Maria Grazia</ForeName>
+                                <Initials>MG</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>D'Aveni</LastName>
+                                <ForeName>Alessandro</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Marabello</LastName>
+                                <ForeName>Grazia</ForeName>
+                                <Initials>G</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Liguori</LastName>
+                                <ForeName>Alessia</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Giovannetti</LastName>
+                                <ForeName>Elisa</ForeName>
+                                <Initials>E</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Medical Oncology, VU University Medical Center, Amsterdam, The Netherlands.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Department of Nanoscience and Nanotechnologies, CNR-Nano, Institute of Nanoscience and Nanotechnology.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Cancer Pharmacology Lab, AIRC Start-Up Unit, University of Pisa, Pisa, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Karachaliou</LastName>
+                                <ForeName>Niki</ForeName>
+                                <Initials>N</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>Institute of Oncology Rosell (IOR), University Hospital Sagrat Cor.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Gonzalez Cao</LastName>
+                                <ForeName>Maria</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Oncology Department, Institute of Oncology Rosell (IOR), Quirón-Dexeus University Institute, Barcelona.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Rosell</LastName>
+                                <ForeName>Rafael</ForeName>
+                                <Initials>R</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Cancer Biology and Precision Medicine Program, Germans Trias i Pujol Research Institute.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Catalan Institute of Oncology, Germans Trias i Pujol University Hospital, Badalona, Spain.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Altavilla</LastName>
+                                <ForeName>Giuseppe</ForeName>
+                                <Initials>G</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        Medical Oncology Unit, Department of Human Pathology &quot;G. Barresi&quot;, University of Messina, Messina, Italy.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                            <PublicationType UI="D016454">Review</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>07</Month>
+                            <Day>05</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>New Zealand</Country>
+                        <MedlineTA>Drug Des Devel Ther</MedlineTA>
+                        <NlmUniqueID>101475745</NlmUniqueID>
+                        <ISSNLinking>1177-8881</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Cancer. 2015 Mar 1;136(5):E359-86</RefSource>
+                            <PMID Version="1">25220842</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2008 Jan;8(1):11-23</RefSource>
+                            <PMID Version="1">18097461</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2012 Oct;13(10):1011-9</RefSource>
+                            <PMID Version="1">22954507</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2016 Sep 15;22(18):4585-93</RefSource>
+                            <PMID Version="1">27225694</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2012 Mar 22;12(4):237-51</RefSource>
+                            <PMID Version="1">22437869</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2014 Jun 12;57(11):4720-44</RefSource>
+                            <PMID Version="1">24819116</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Crit Rev Oncol Hematol. 2014 Mar;89(3):358-65</RefSource>
+                            <PMID Version="1">24156959</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Discov. 2016 Oct;6(10 ):1118-1133</RefSource>
+                            <PMID Version="1">27432227</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2012;7(2):e31323</RefSource>
+                            <PMID Version="1">22347464</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2008 Dec 16;105(50):19893-7</RefSource>
+                            <PMID Version="1">19064915</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell. 2007 Dec 14;131(6):1190-203</RefSource>
+                            <PMID Version="1">18083107</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Med. 2014 Sep;20(9):1027-34</RefSource>
+                            <PMID Version="1">25173427</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2013 Jun 1;19(11):3068-77</RefSource>
+                            <PMID Version="1">23553849</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2014 Nov 15;20(22):5686-96</RefSource>
+                            <PMID Version="1">25228534</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2014 Dec 4;371(23):2167-77</RefSource>
+                            <PMID Version="1">25470694</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2014 Dec;9(12):1821-5</RefSource>
+                            <PMID Version="1">25393796</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2010 Aug;10(8):537-49</RefSource>
+                            <PMID Version="1">20651736</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2015 Jun;10(6):e37-9</RefSource>
+                            <PMID Version="1">26001147</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2016 Mar 15;113(11):E1419-20</RefSource>
+                            <PMID Version="1">26917690</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>EBioMedicine. 2015 Dec 12;3:54-66</RefSource>
+                            <PMID Version="1">26870817</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Cancer. 2014 Mar 15;134(6):1484-94</RefSource>
+                            <PMID Version="1">24037730</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2011 Sep 15;71(18):6051-60</RefSource>
+                            <PMID Version="1">21791641</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 Jun 15;21(12):2745-52</RefSource>
+                            <PMID Version="1">25724526</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Mol Cancer Ther. 2007 Dec;6(12 Pt 1):3314-22</RefSource>
+                            <PMID Version="1">18089725</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2007 Jan 2;104(1):270-5</RefSource>
+                            <PMID Version="1">17185414</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Biol Ther. 2012 Dec;13(14):1376-83</RefSource>
+                            <PMID Version="1">22986231</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2010 Oct 28;363(18):1734-9</RefSource>
+                            <PMID Version="1">20979473</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Med. 2015 Sep;21(9):1038-47</RefSource>
+                            <PMID Version="1">26301689</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 May 15;21(10):2221-6</RefSource>
+                            <PMID Version="1">25979928</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2016 Oct 1;34(28):3383-9</RefSource>
+                            <PMID Version="1">27354483</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2013 Jul 25;56(14):5675-90</RefSource>
+                            <PMID Version="1">23742252</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Cancer. 2010 Jul;46(10):1773-80</RefSource>
+                            <PMID Version="1">20418096</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2015 Jun 10;33(17):1881-8</RefSource>
+                            <PMID Version="1">25624436</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Expert Rev Respir Med. 2016 Jul;10 (7):781-98</RefSource>
+                            <PMID Version="1">27148808</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2016 Apr;17 (4):452-63</RefSource>
+                            <PMID Version="1">26973324</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Expert Rev Respir Med. 2011 Jun;5(3):413-24</RefSource>
+                            <PMID Version="1">21702662</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2015 Apr;10(4):611-8</RefSource>
+                            <PMID Version="1">25789833</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2010 Dec 1;70(23):9827-36</RefSource>
+                            <PMID Version="1">20952506</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2016 Dec;34(34):4079-4085</RefSource>
+                            <PMID Version="1">27863201</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2013 Aug 1;19(15):4273-81</RefSource>
+                            <PMID Version="1">23729361</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2012 Mar 1;18(5):1472-82</RefSource>
+                            <PMID Version="1">22235099</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 Jun 1;21(11):2436-9</RefSource>
+                            <PMID Version="1">25754348</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2016 Nov 15;22(22):5527-5538</RefSource>
+                            <PMID Version="1">27780853</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2012 Sep 1;18(17 ):4682-90</RefSource>
+                            <PMID Version="1">22912387</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2002 Sep 27;277(39):35990-8</RefSource>
+                            <PMID Version="1">12122009</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2008 May 1;68(9):3389-95</RefSource>
+                            <PMID Version="1">18451166</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2012 Nov 15;18(22):6219-26</RefSource>
+                            <PMID Version="1">22843788</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2014 May;9(5):631-8</RefSource>
+                            <PMID Version="1">24722153</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 Sep 1;21(17):4014-21</RefSource>
+                            <PMID Version="1">26019170</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Pharmacol. 2016 May;56(5):559-66</RefSource>
+                            <PMID Version="1">26272586</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Sci Transl Med. 2012 Feb 8;4(120):120ra17</RefSource>
+                            <PMID Version="1">22277784</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2014 Apr;9(4):549-53</RefSource>
+                            <PMID Version="1">24736079</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2011 Sep 22;54(18):6342-63</RefSource>
+                            <PMID Version="1">21812414</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Discov. 2014 Jun;4(6):662-673</RefSource>
+                            <PMID Version="1">24675041</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Pharmacol Res. 2015 Dec;102:200-7</RefSource>
+                            <PMID Version="1">26361725</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2013 Apr;8(4):415-22</RefSource>
+                            <PMID Version="1">23344087</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2014 Dec 19;346(6216):1480-6</RefSource>
+                            <PMID Version="1">25394791</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2009 Sep 10;27(26):4247-53</RefSource>
+                            <PMID Version="1">19667264</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2008 Jul 1;14(13):4275-83</RefSource>
+                            <PMID Version="1">18594010</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Cancer. 2013 Oct;13(10):685-700</RefSource>
+                            <PMID Version="1">24060861</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2013 Jun 20;368(25):2385-94</RefSource>
+                            <PMID Version="1">23724913</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2008 Jul 1;68(13):4971-6</RefSource>
+                            <PMID Version="1">18593892</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet. 2017 Mar 4;389(10072):917-929</RefSource>
+                            <PMID Version="1">28126333</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2009 May 1;15(9):3143-9</RefSource>
+                            <PMID Version="1">19383809</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2009 Mar 10;27(8):1227-34</RefSource>
+                            <PMID Version="1">19188680</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2014 Mar 27;370(13):1189-97</RefSource>
+                            <PMID Version="1">24670165</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncogene. 1997 Jan 30;14(4):439-49</RefSource>
+                            <PMID Version="1">9053841</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2010 Oct 28;363(18):1693-703</RefSource>
+                            <PMID Version="1">20979469</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2015 Sep 29;112(39):E5381-90</RefSource>
+                            <PMID Version="1">26372962</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Neoplasia. 2016 Mar;18(3):162-71</RefSource>
+                            <PMID Version="1">26992917</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2014 Apr;9(4):563-6</RefSource>
+                            <PMID Version="1">24736082</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2016 Aug 20;34(24):2866-73</RefSource>
+                            <PMID Version="1">27432917</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2016 Apr;11(4):487-95</RefSource>
+                            <PMID Version="1">26916631</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biol Chem. 2001 May 18;276(20):16772-9</RefSource>
+                            <PMID Version="1">11278720</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biochem J. 2009 May 27;420(3):345-61</RefSource>
+                            <PMID Version="1">19459784</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Expert Rev Clin Pharmacol. 2015;8(4):461-77</RefSource>
+                            <PMID Version="1">26068305</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Med Chem. 2013 Jul 25;56(14):5673-4</RefSource>
+                            <PMID Version="1">23837797</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2016 Dec;17 (12 ):1683-1696</RefSource>
+                            <PMID Version="1">27836716</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncologist. 2015 Mar;20(3):316-22</RefSource>
+                            <PMID Version="1">25721120</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2016 Jan 7;374(1):54-61</RefSource>
+                            <PMID Version="1">26698910</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2015 Mar;10(3):527-30</RefSource>
+                            <PMID Version="1">25695223</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Expert Rev Respir Med. 2015 Jun;9(3):255-68</RefSource>
+                            <PMID Version="1">25652176</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2016 Sep;27 Suppl 3:iii42-iii50</RefSource>
+                            <PMID Version="1">27573756</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet Oncol. 2015 Jul;16(7):763-74</RefSource>
+                            <PMID Version="1">26045340</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2015 Oct 20;33(30):3488-515</RefSource>
+                            <PMID Version="1">26324367</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Cell. 2015 Jul 13;28(1):70-81</RefSource>
+                            <PMID Version="1">26144315</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2015 Jul;10(7):e55-7</RefSource>
+                            <PMID Version="1">26134233</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2015 Sep;10(9 Suppl 2):S66-S890</RefSource>
+                            <PMID Version="1">26710300</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 May 15;21(10):2227-35</RefSource>
+                            <PMID Version="1">25979929</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2015 May 15;21(10):2213-20</RefSource>
+                            <PMID Version="1">25979927</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 2007 Aug 2;448(7153):561-6</RefSource>
+                            <PMID Version="1">17625570</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2011 May 20;29(15):e443-5</RefSource>
+                            <PMID Version="1">21422405</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>N Engl J Med. 2006 Dec 14;355(24):2542-50</RefSource>
+                            <PMID Version="1">17167137</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Oncol. 2014 Dec;9(12):e86-7</RefSource>
+                            <PMID Version="1">25393798</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">ALK tyrosine kinase inhibitors</Keyword>
+                        <Keyword MajorTopicYN="N">acquired resistance</Keyword>
+                        <Keyword MajorTopicYN="N">anaplastic lymphoma kinase gene</Keyword>
+                        <Keyword MajorTopicYN="N">non-small cell lung cancer</Keyword>
+                    </KeywordList>
+                    <CoiStatement>Disclosure The authors report no conflicts of interest in this work.</CoiStatement>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>26</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>26</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>26</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28740365</ArticleId>
+                        <ArticleId IdType="doi">10.2147/DDDT.S113500</ArticleId>
+                        <ArticleId IdType="pii">dddt-11-2047</ArticleId>
+                        <ArticleId IdType="pmc">PMC5503498</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>

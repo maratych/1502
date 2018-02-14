@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HtmlDoc>
+    <meta>
+        <prop name="uid">https://www.ncbi.nlm.nih.gov/pubmed/28659921?report=xml&amp;format=text</prop>
+        <prop name="date">2017-09-29</prop>
+        <prop name="copyright">Converted by Semantic Hub (c) 2016</prop>
+        <prop name="version">1.0</prop>
+        <prop name="query">(potent AND inhibitor AND cancer) : 2015-2017</prop>
+    </meta>
+    <BODY>
+        <ITEM>
+            <ITEM_LINK>https://www.ncbi.nlm.nih.gov/pubmed/28659921?report=xml&amp;format=text</ITEM_LINK>
+            <ITEM_BODY>
+                <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+                    <PMID Version="1">28659921</PMID>
+                    <DateCreated>
+                        <Year>2017</Year>
+                        <Month>06</Month>
+                        <Day>29</Day>
+                    </DateCreated>
+                    <DateRevised>
+                        <Year>2017</Year>
+                        <Month>08</Month>
+                        <Day>16</Day>
+                    </DateRevised>
+                    <Article PubModel="Electronic-eCollection">
+                        <Journal>
+                            <ISSN IssnType="Print">1664-3224</ISSN>
+                            <JournalIssue CitedMedium="Print">
+                                <Volume>8</Volume>
+                                <PubDate>
+                                    <Year>2017</Year>
+                                </PubDate>
+                            </JournalIssue>
+                            <Title>Frontiers in immunology</Title>
+                            <ISOAbbreviation>Front Immunol</ISOAbbreviation>
+                        </Journal>
+                        <ArticleTitle>
+                            Patient's Natural Killer Cells in the Era of Targeted Therapies: Role for Tumor Killers.
+                        </ArticleTitle>
+                        <Pagination>
+                            <MedlinePgn>683</MedlinePgn>
+                        </Pagination>
+                        <ELocationID ValidYN="Y" EIdType="doi">10.3389/fimmu.2017.00683</ELocationID>
+                        <Abstract>
+                            <AbstractText>
+                                Natural killer (NK) cells are potent antitumor effectors, involved in hematological malignancies and solid tumor immunosurveillance. They infiltrate various solid tumors, and their numbers are correlated with good outcome. The function of NK cells extends their lytic capacities toward tumor cells expressing stress-induced ligands, through secretion of immunoregulatory cytokines, and interactions with other immune cells. Altered NK cell function due to tumor immune escape is frequent in advanced tumors; however, strategies to release the function of NK infiltrating tumors are emerging. Recent therapies targeting specific oncogenic mutations improved the treatment of cancer patients, but patients often relapse. The actual development consists in combined therapeutic strategies including agents targeting the proliferation of tumor cells and others restorating functional antitumor immune effectors for efficient and durable efficacy of anticancer treatment. In that context, we discuss the recent results of the literature to propose hypotheses concerning the potential use of NK cells, potent antitumor cytotoxic effectors, to design novel antitumor strategies.
+                            </AbstractText>
+                        </Abstract>
+                        <AuthorList CompleteYN="Y">
+                            <Author ValidYN="Y">
+                                <LastName>Messaoudene</LastName>
+                                <ForeName>Meriem</ForeName>
+                                <Initials>M</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>INSERM U1015, Gustave Roussy Cancer Campus, Villejuif, France.</Affiliation>
+                                </AffiliationInfo>
+                                <AffiliationInfo>
+                                    <Affiliation>Gustave Roussy Cancer Campus, Villejuif, France.</Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Frazao</LastName>
+                                <ForeName>Alexandra</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        INSERM U1160, Institut Universitaire d'Hématologie, Hôpital Saint Louis, Paris, France.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Gavlovsky</LastName>
+                                <ForeName>Pierre Jean</ForeName>
+                                <Initials>PJ</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        INSERM U1160, Institut Universitaire d'Hématologie, Hôpital Saint Louis, Paris, France.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Toubert</LastName>
+                                <ForeName>Antoine</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        INSERM U1160, Institut Universitaire d'Hématologie, Hôpital Saint Louis, Paris, France.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Dulphy</LastName>
+                                <ForeName>Nicolas</ForeName>
+                                <Initials>N</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        INSERM U1160, Institut Universitaire d'Hématologie, Hôpital Saint Louis, Paris, France.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                            <Author ValidYN="Y">
+                                <LastName>Caignard</LastName>
+                                <ForeName>Anne</ForeName>
+                                <Initials>A</Initials>
+                                <AffiliationInfo>
+                                    <Affiliation>
+                                        INSERM U1160, Institut Universitaire d'Hématologie, Hôpital Saint Louis, Paris, France.
+                                    </Affiliation>
+                                </AffiliationInfo>
+                            </Author>
+                        </AuthorList>
+                        <Language>eng</Language>
+                        <PublicationTypeList>
+                            <PublicationType UI="D016428">Journal Article</PublicationType>
+                        </PublicationTypeList>
+                        <ArticleDate DateType="Electronic">
+                            <Year>2017</Year>
+                            <Month>06</Month>
+                            <Day>12</Day>
+                        </ArticleDate>
+                    </Article>
+                    <MedlineJournalInfo>
+                        <Country>Switzerland</Country>
+                        <MedlineTA>Front Immunol</MedlineTA>
+                        <NlmUniqueID>101560960</NlmUniqueID>
+                        <ISSNLinking>1664-3224</ISSNLinking>
+                    </MedlineJournalInfo>
+                    <CommentsCorrectionsList>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2012 Sep;26(9):2019-26</RefSource>
+                            <PMID Version="1">22446501</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>FEBS Lett. 2014 Jan 21;588(2):288-97</RefSource>
+                            <PMID Version="1">24295643</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2011 Feb 15;17(4):678-89</RefSource>
+                            <PMID Version="1">21325295</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2010 Jul 1;70(13):5213-9</RefSource>
+                            <PMID Version="1">20551059</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2009 Apr 16;113(16):3735-43</RefSource>
+                            <PMID Version="1">19109559</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Commun. 2016 Jul 13;7:12258</RefSource>
+                            <PMID Version="1">27406745</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2002 May 15;99(10):3661-7</RefSource>
+                            <PMID Version="1">11986221</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>PLoS One. 2013 Oct 18;8(10):e76928</RefSource>
+                            <PMID Version="1">24204708</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Immunol. 2014 Mar 24;5:122</RefSource>
+                            <PMID Version="1">24715892</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2010 May 15;184(10):5637-44</RefSource>
+                            <PMID Version="1">20404273</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nature. 1998 Feb 19;391(6669):795-9</RefSource>
+                            <PMID Version="1">9486650</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Immunol. 1975 Feb;5(2):112-7</RefSource>
+                            <PMID Version="1">1234049</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Immunity. 2016 Mar 15;44(3):609-21</RefSource>
+                            <PMID Version="1">26944201</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Proc Natl Acad Sci U S A. 2009 Aug 4;106(31):12879-84</RefSource>
+                            <PMID Version="1">19561305</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Immunol. 2011;29:235-71</RefSource>
+                            <PMID Version="1">21219185</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2011 Sep;121(9):3609-22</RefSource>
+                            <PMID Version="1">21841316</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2010 Dec 15;16(24):6040-8</RefSource>
+                            <PMID Version="1">21169256</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Hematol Oncol. 2014 Apr 14;7:33</RefSource>
+                            <PMID Version="1">24731302</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 1996 Sep 15;88(6):2279-87</RefSource>
+                            <PMID Version="1">8822949</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2012 Nov 22;120(22):4324-33</RefSource>
+                            <PMID Version="1">23033266</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Hum Pathol. 2011 Dec;42(12):1960-4</RefSource>
+                            <PMID Version="1">21676435</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ann Oncol. 2014 Mar;25(3):747-53</RefSource>
+                            <PMID Version="1">24504444</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Melanoma Res. 2010 Dec;20(6):459-67</RefSource>
+                            <PMID Version="1">20938360</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Exp Med. 1989 Jun 1;169(6):2233-8</RefSource>
+                            <PMID Version="1">2471777</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2008 Aug 1;112(3):461-9</RefSource>
+                            <PMID Version="1">18650461</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Leukoc Biol. 2011 Apr;89(4):625-38</RefSource>
+                            <PMID Version="1">21248148</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>EMBO J. 2004 Jan 28;23(2):255-9</RefSource>
+                            <PMID Version="1">14685277</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2012 Aug 1;1(5):609-617</RefSource>
+                            <PMID Version="1">22934253</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Haematologica. 2014 May;99(5):836-47</RefSource>
+                            <PMID Version="1">24488563</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2014 Jan 1;74(1):81-92</RefSource>
+                            <PMID Version="1">24225017</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Hum Vaccin Immunother. 2016 Mar 3;12(3):607-11</RefSource>
+                            <PMID Version="1">26402368</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Immunol. 2003 Oct;3(10):781-90</RefSource>
+                            <PMID Version="1">14523385</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2008 May 1;180(9):6392-401</RefSource>
+                            <PMID Version="1">18424763</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Leukemia. 2007 Oct;21(10):2145-52</RefSource>
+                            <PMID Version="1">17673900</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2011 Dec 8;118(24):6387-91</RefSource>
+                            <PMID Version="1">22031859</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Exp Metastasis. 2007;24(1):1-11</RefSource>
+                            <PMID Version="1">17295095</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Oncol. 2006 May 1;24(13):1997-2005</RefSource>
+                            <PMID Version="1">16648500</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 1987 Mar 1;47(5):1411-2</RefSource>
+                            <PMID Version="1">3815344</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer. 1997 Jun 15;79(12):2320-8</RefSource>
+                            <PMID Version="1">9191519</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2013 Jun 15;73(12):3499-510</RefSource>
+                            <PMID Version="1">23592754</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncotarget. 2016 Sep 20;7(38):60858-60871</RefSource>
+                            <PMID Version="1">27563819</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2010 Oct 7;116(14):2411-9</RefSource>
+                            <PMID Version="1">20581313</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Science. 2002 Mar 15;295(5562):2097-100</RefSource>
+                            <PMID Version="1">11896281</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lancet. 2000 Nov 25;356(9244):1795-9</RefSource>
+                            <PMID Version="1">11117911</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2014 Dec 15;74(24):7298-308</RefSource>
+                            <PMID Version="1">25351955</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2011 Feb 24;117(8):2423-32</RefSource>
+                            <PMID Version="1">21193697</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Immunol Cell Biol. 2012 Jan;90(1):109-15</RefSource>
+                            <PMID Version="1">21383766</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2006 Jan 1;66(1):563-70</RefSource>
+                            <PMID Version="1">16397273</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Immunol. 2015 Apr 29;6:202</RefSource>
+                            <PMID Version="1">25972872</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Thorac Cardiovasc Surg. 2001 Jun;121(6):1058-63</RefSource>
+                            <PMID Version="1">11385371</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2004 Feb 15;172(4):2048-58</RefSource>
+                            <PMID Version="1">14764669</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2007 Jun 15;67(12):5594-9</RefSource>
+                            <PMID Version="1">17575122</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Lung Cancer. 2002 Jan;35(1):23-8</RefSource>
+                            <PMID Version="1">11750709</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Int J Cancer. 1975 Aug 15;16(2):230-9</RefSource>
+                            <PMID Version="1">1080480</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2002 Oct;110(7):983-92</RefSource>
+                            <PMID Version="1">12370276</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2014 Apr 15;192(8):3805-15</RefSource>
+                            <PMID Version="1">24646734</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2012 Nov 22;120(22):4317-23</RefSource>
+                            <PMID Version="1">23002117</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Biomed Biotechnol. 2011;2011:379123</RefSource>
+                            <PMID Version="1">21660134</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Ther Adv Med Oncol. 2016 Jan;8(1):48-56</RefSource>
+                            <PMID Version="1">26753005</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2009 Sep 24;114(13):2667-77</RefSource>
+                            <PMID Version="1">19553639</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Surg Res. 2011 Dec;171(2):637-49</RefSource>
+                            <PMID Version="1">20828749</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Rev Immunol. 2013 Feb;13(2):145-9</RefSource>
+                            <PMID Version="1">23348417</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Eur J Immunol. 2014 Oct;44(10):3068-80</RefSource>
+                            <PMID Version="1">25041786</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Nat Med. 2011 Jun;17(6):700-7</RefSource>
+                            <PMID Version="1">21552268</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol Methods. 2009 Aug 31;348(1-2):9-17</RefSource>
+                            <PMID Version="1">19552894</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Biol Blood Marrow Transplant. 2010 Sep;16(9):1257-64</RefSource>
+                            <PMID Version="1">20302958</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Immunol. 2004;22:329-60</RefSource>
+                            <PMID Version="1">15032581</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer Res. 2011 Aug 15;71(16):5412-22</RefSource>
+                            <PMID Version="1">21708957</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2014 Jan 30;123(5):678-86</RefSource>
+                            <PMID Version="1">24326534</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cancer. 2000 Feb 1;88(3):577-83</RefSource>
+                            <PMID Version="1">10649250</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunother. 2009 Jul-Aug;32(6):622-31</RefSource>
+                            <PMID Version="1">19483647</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Clin Invest. 2013 Mar;123(3):1371-81</RefSource>
+                            <PMID Version="1">23454771</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2016 Apr 25;6(1):e1137418</RefSource>
+                            <PMID Version="1">28197361</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Immunity. 2008 Apr;28(4):571-80</RefSource>
+                            <PMID Version="1">18394936</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2007 Jan 1;109(1):323-30</RefSource>
+                            <PMID Version="1">16940427</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2012 Jul 1;1(4):477-486</RefSource>
+                            <PMID Version="1">22754766</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Cell Mol Immunol. 2013 May;10(3):202-12</RefSource>
+                            <PMID Version="1">23563087</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Clin Cancer Res. 2013 Aug 1;19(15):4079-91</RefSource>
+                            <PMID Version="1">23785047</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Front Immunol. 2016 Oct 10;7:413</RefSource>
+                            <PMID Version="1">27777574</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>BMC Cancer. 2009 Jun 16;9:186</RefSource>
+                            <PMID Version="1">19531227</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2016 Mar 10;5(12 ):e1154251</RefSource>
+                            <PMID Version="1">28123867</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Immunol. 2015 Sep 15;195(6):2580-90</RefSource>
+                            <PMID Version="1">26246143</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>J Exp Med. 2000 Apr 17;191(8):1259-62</RefSource>
+                            <PMID Version="1">10770793</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Annu Rev Immunol. 2001;19:197-223</RefSource>
+                            <PMID Version="1">11244035</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Blood. 2005 Mar 15;105(6):2594-600</RefSource>
+                            <PMID Version="1">15536148</PMID>
+                        </CommentsCorrections>
+                        <CommentsCorrections RefType="Cites">
+                            <RefSource>Oncoimmunology. 2016 May 13;6(1):e1163456</RefSource>
+                            <PMID Version="1">28197362</PMID>
+                        </CommentsCorrections>
+                    </CommentsCorrectionsList>
+                    <KeywordList Owner="NOTNLM">
+                        <Keyword MajorTopicYN="N">AMLMDS</Keyword>
+                        <Keyword MajorTopicYN="N">BRAF inhibitor</Keyword>
+                        <Keyword MajorTopicYN="N">immune checkpoint inhibitors</Keyword>
+                        <Keyword MajorTopicYN="N">melanoma</Keyword>
+                        <Keyword MajorTopicYN="N">natural killer ligands</Keyword>
+                        <Keyword MajorTopicYN="N">tumour immunosurveillance</Keyword>
+                    </KeywordList>
+                </MedlineCitation>
+                <PubmedData>
+                    <History>
+                        <PubMedPubDate PubStatus="received">
+                            <Year>2017</Year>
+                            <Month>03</Month>
+                            <Day>07</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="accepted">
+                            <Year>2017</Year>
+                            <Month>05</Month>
+                            <Day>26</Day>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="entrez">
+                            <Year>2017</Year>
+                            <Month>6</Month>
+                            <Day>30</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="pubmed">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>1</Day>
+                            <Hour>6</Hour>
+                            <Minute>0</Minute>
+                        </PubMedPubDate>
+                        <PubMedPubDate PubStatus="medline">
+                            <Year>2017</Year>
+                            <Month>7</Month>
+                            <Day>1</Day>
+                            <Hour>6</Hour>
+                            <Minute>1</Minute>
+                        </PubMedPubDate>
+                    </History>
+                    <PublicationStatus>epublish</PublicationStatus>
+                    <ArticleIdList>
+                        <ArticleId IdType="pubmed">28659921</ArticleId>
+                        <ArticleId IdType="doi">10.3389/fimmu.2017.00683</ArticleId>
+                        <ArticleId IdType="pmc">PMC5466965</ArticleId>
+                    </ArticleIdList>
+                </PubmedData>
+            </ITEM_BODY>
+        </ITEM>
+    </BODY>
+</HtmlDoc>
