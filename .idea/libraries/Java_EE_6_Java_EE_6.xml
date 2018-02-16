@@ -1,0 +1,101 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6" type="repository">
+    <properties maven-id="uk.ac.cam.ch.wwmm.oscar:oscar4-all:LATEST" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-all-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-api-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-chemnamedict-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-tokenizer-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-memmrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opennlp-maxent-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-patternrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-opsin-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-inchi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jni-inchi-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-deploy-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-core-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-core-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-obo-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-recogniser-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/automaton-1.11-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.3.03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-data-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jregex-1.2_01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-api-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-chemnamedict-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-tokenizer-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-memmrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opennlp-maxent-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-patternrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-opsin-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-inchi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jni-inchi-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-deploy-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-core-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-core-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-obo-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-recogniser-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/automaton-1.11-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.3.03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-data-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jregex-1.2_01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-api-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-chemnamedict-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-tokenizer-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-memmrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opennlp-maxent-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-patternrecogniser-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-opsin-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-inchi-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jni-inchi-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-deploy-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnati-core-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opsin-core-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-obo-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-recogniser-core-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/automaton-1.11-8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xom-1.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-1.3.03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xalan-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-data-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jregex-1.2_01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-all-4.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/oscar4-all-4.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gate-core-6.1-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/gate-core-6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
